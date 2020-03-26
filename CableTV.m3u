@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 group-title="卫视台",湖南卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296202.m3u8
+#EXTINF:-1 group-title="卫视台",江苏卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295602.m3u8
+#EXTINF:-1 group-title="卫视台",浙江卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295502.m3u8
+#EXTINF:-1 group-title="卫视台",东方卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292402.m3u8
+#EXTINF:-1 group-title="卫视台",北京卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000272102.m3u8
+#EXTINF:-1 group-title="卫视台",深圳卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292202.m3u8
+#EXTINF:-1 group-title="卫视台",广东卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292702.m3u8
+#EXTINF:-1 group-title="卫视台",安徽卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000298002.m3u8
+#EXTINF:-1 group-title="卫视台",东南卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292502.m3u8
+#EXTINF:-1 group-title="卫视台",河北卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293402.m3u8
+#EXTINF:-1 group-title="卫视台",黑龙江卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293902.m3u8
+#EXTINF:-1 group-title="卫视台",湖北卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294502.m3u8
+#EXTINF:-1 group-title="卫视台",江西卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294102.m3u8
+#EXTINF:-1 group-title="卫视台",辽宁卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000281302.m3u8
+#EXTINF:-1 group-title="卫视台",海南卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000291502.m3u8
+#EXTINF:-1 group-title="卫视台",山东卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294802.m3u8
+#EXTINF:-1 group-title="卫视台",四川卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295002.m3u8
+#EXTINF:-1 group-title="卫视台",天津卫视
+http://112.50.243.8/PLTV/88888888/224/3221225941/1.m3u8
+#EXTINF:-1 group-title="卫视台",重庆卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297802.m3u8
+#EXTINF:-1 group-title="卫视台",贵州卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293302.m3u8
+#EXTINF:-1 group-title="卫视台",吉林卫视
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E4F37F4U30901010K7781C4A4IF631032APBM3233C4EV1044EZ33519WE63F679AB41&playtoken=ABCDEFGHI&rate=hd&programid=4200000313.m3u8
+#EXTINF:-1 group-title="卫视台",广西卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294202.m3u8
+#EXTINF:-1 group-title="卫视台",河南卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296102.m3u8
+#EXTINF:-1 group-title="卫视台",延边卫视
+http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
+#EXTINF:-1 group-title="卫视台",南方卫视
+http://nclive.grtn.cn/tvs2/sd/live.m3u8?_ts
+#EXTINF:-1 group-title="卫视台",康巴卫视
+http://scgctvshow.sctv.com/sdlive/kangba/3.m3u8
+#EXTINF:-1 group-title="卫视台",凤凰资讯
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 group-title="卫视台",凤凰中文
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 group-title="卫视台",纪实频道
+http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
+#EXTINF:-1 group-title="卫视台",北京纪实
+http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV动作电影
+http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV动画王国
+http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV家庭剧场
+http://112.50.243.8/PLTV/88888888/224/3221225882/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV金牌综艺
+http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV 惊悚悬疑
+http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV精品记录
+http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV精品大剧
+http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV精品电影
+http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV明星大片
+http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV精品体育
+http://112.50.243.8/PLTV/88888888/224/3221225886/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV爱情喜剧
+http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV古装剧场
+http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV海外剧场
+http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV健康有约
+http://112.50.243.8/PLTV/88888888/224/3221225883/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV军旅剧场
+http://112.50.243.8/PLTV/88888888/224/3221225887/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV军事评论
+http://112.50.243.8/PLTV/88888888/224/3221225887/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV完美游戏
+http://112.50.243.8/PLTV/88888888/224/3221225894/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV潮妈辣婆
+http://112.50.243.8/PLTV/88888888/224/3221226107/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV中国功夫
+http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
+#EXTINF:-1 group-title="卫视台",NewTV搏击
+http://112.50.243.8/PLTV/88888888/224/3221225895/1.m3u8
