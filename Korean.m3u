@@ -1,28 +1,26 @@
 #EXTM3U
-#EXTINF:-1 group-title="韩国频道",KBS1
-http://23.237.112.146:9083/live/lmgr218-live1/Z1/ck/Z1ckFeyBo9VzK1DFmR1-Hw==/live.M3U8?sc_tk=45RHmdr%2BQ7UZG7nV1fVx9dKI8cXxFDMXOt4ChSeXcmnK1QHzat%2BsXe8hdVqZ%2FQ1vwtha%2B59RcU0jzqdZ35hC%2FQ%3D%3D
-#EXTINF:-1 group-title="韩国频道",KBS2
-http://213.152.172.73:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.M3U8?sc_tk=HtvMDvJswDBjxMwo3RT3EGwRQ1LNgc5hwREVXetaGfw68CCLYkw6CMWc0Fa3I2HudkHSf58cg6RhpsmNkuFAVg%3D%3D
-#EXTINF:-1 group-title="韩国频道",MBC
-http://213.152.172.73:9083/live/lmgr218-live1/yo/Kz/yoKzy5jIzhPSc34OXb26Hg==/live.M3U8?sc_tk=Su1Pksi2hj9e%2FrQgNdCRspGHgwaHuLX9Iqyl21lc%2B%2Bqg9ujibq31vJmHFUUs0B9Dg8JzQmQmfD8UVoslNzKcKg%3D%3D
-#EXTINF:-1 group-title="韩国频道",SBS
-http://213.152.172.73:9083/live/lmgr218-live1/an/Ec/anEch5GmlJzMh-jcs1OTow==/live.M3U8?sc_tk=7PtIokRTqZl%2BXbRfGXreXojv5ZBJ2D%2FYqzs06K%2Bln8YF5NRY6wlcjNaElTeOpsO%2BqHeOzolJhjXkVXURAA1ppg%3D%3D
-#EXTINF:-1 group-title="韩国频道",JTBC
-http://213.152.172.73:9083/live/lmgr218-live1/1k/C9/1kC9miPHbLuH_Xohzycp8g==/live.M3U8?sc_tk=QYrDkWQJ5ux0IFzRKaKGrKnIrs1EADFEZRzmjLVhFZHeCyPfQGSwmztZMrUq2MftP3lg2Tjb6jWAmPIARYkuKA%3D%3D
-#EXTINF:-1 group-title="韩国频道",SBS
-http://213.152.172.73:9083/live/lmgr218-live1/an/Ec/anEch5GmlJzMh-jcs1OTow==/live.M3U8?sc_tk=Q5yoLe6AR%2FSj3cje4zCyId%2FIeKuTIo6pz5L2I%2BBP6uKc1zWDhAsTF2yLPPkuC67yjDHXKhBv3uCIxWKrCyoifA%3D%3D
-#EXTINF:-1 group-title="韩国频道",EBS1
-http://213.152.172.73:9083/live/lmgr218-live1/Y7/kd/Y7kdN2a2F8joMgdxPBzaAQ==/live.M3U8?sc_tk=kTPObzr5pXvwZrnwd%2BrIAOsf%2F4YUCXtlWqvYxAQcD8%2BzacDkWB%2Fe5TkrXnRWexIead2flCpcB4EFI27BqXD2tA%3D%3D
-#EXTINF:-1 group-title="韩国频道",TV조선
-http://23.237.112.146:9083/live/lmgr218-live1/uN/RW/uNRWY94bN9uq-H4U6-AdGA==/live.M3U8?sc_tk=rsv5rfXwiQ6nVeIb%2FhAdMJkGlfUmJvOfsx3wh37XL9IQWmOQcRPrFnwpFkJm%2BlqXcUWt40e7IAQ0AEbPssRwsA%3D%3D
-#EXTINF:-1 group-title="韩国频道",MBN
-http://23.237.112.138:9083/live/lmgr218-live1/uN/RW/uNRWY94bN9uq-H4U6-AdGA==/live.m3u8
-#EXTINF:-1 group-title="韩国频道",채널A
-http://23.237.112.138:9083/live/lmgr218-live1/5e/F8/5eF872HRwPbsKyyeCGBSQg==/live.m3u8
-#EXTINF:-1 group-title="韩国频道",OCN
-http://23.237.112.130:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.M3U8?sc_tk=%2Fq3n0RRDWGwnffZ%2FvGWCBSoz6PucTJjc7u3S9pxMmNdMhJQS%2BKhZ3WeTL5KGQf1LY5o2CckODhHkSkJRgWCvGQ%3D%3D
-#EXTINF:-1 group-title="韩国频道",TATCH ON1
-http://23.237.112.130:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.M3U8?sc_tk=%2Fq3n0RRDWGwnffZ%2FvGWCBSoz6PucTJjc7u3S9pxMmNdMhJQS%2BKhZ3WeTL5KGQf1LY5o2CckODhHkSkJRgWCvGQ%3D%3D
+#EXTINF:-1 ,KBS1
+http://23.237.112.146:9083/live/lmgr218-live1/uZ/vV/uZvV_oFf70rS_5dF5o637Q==/live.livesegments.M3U8?sc_tk=Ihj2CXZBdutqRQW4ZO6Lvejco4qJ4138l4M2tr%2BYMwmXPXs2XNOzpKliZQtCBbdYwA7J5VpS8%2F90RLNfyebi2Q%3D%3D&filekey=C6FTsAiiJ0rFbXHxljUTtEIl6aKxql15pYrVV1HzrOc%3D
+#EXTINF:-1 ,KBS2
+http://23.237.112.130:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.livesegments.M3U8?sc_tk=VdNcivlgGLuapPfTuVjZ35%2B14otU5%2FyXNadxs%2F2h4H%2FKv1njWiWvtnaro45dEYCM4L73zkVrSIyeQDfrG1R9%2BA%3D%3D&filekey=BSlm7zIq0qky6al-puhXenPnFm_sU5a5ckRoAvgGl00%3D
+#EXTINF:-1 ,MBC
+http://213.152.172.73:9083/live/lmgr218-live1/yo/Kz/yoKzy5jIzhPSc34OXb26Hg==/live.livesegments.M3U8?sc_tk=Cw8%2FJAva3iG99iQLtijvG5%2BT4zm6%2Bn%2FavQEwvE5VV1Ckps4lDW8quEgHcKWqCex3XSYnYBtJ3U7vjkiWpW%2BvXA%3D%3D&filekey=vZv5zCxlUBO4L2ZzX3FGCocUkVY_LfxnOtkIo3hHN4c%3D
+#EXTINF:-1 ,SBS
+http://23.237.112.130:9083/live/lmgr218-live1/an/Ec/anEch5GmlJzMh-jcs1OTow==/live.livesegments.M3U8?sc_tk=B7asBp82spN6HHDw4VQnqKpYbBI04jBuSeaS3idf2xPIDPdaqsPGfv7uWMgB0rmh6PaW4bht0JMqZIskOlBUpA%3D%3D&filekey=4_VXW5AF1TKk4XHnluxQJuJHAiwybeLQUsawDkb-_ns%3D
+#EXTINF:-1 ,EBS
+http://213.152.172.73:9083/live/lmgr218-live1/Y7/kd/Y7kdN2a2F8joMgdxPBzaAQ==/live.livesegments.M3U8?sc_tk=vstHbO%2FsZCAgWKoAoGXumCIhLSMNcHzAM6PgNdDYPM2vjfS4pXf6Gk1Nra3qvrR%2Fo2aong59DtqkGcIHJQN0ag%3D%3D&filekey=syNRzVCk26zJGjjHoM5AgGomtyxNWk-MkW3MHGd9baM%3D
+#EXTINF:-1 ,JTBC
+http://213.152.172.73:9083/live/lmgr218-live1/1k/C9/1kC9miPHbLuH_Xohzycp8g==/live.livesegments.M3U8?sc_tk=6LjsBHS3n1yPPCtZ1k3BKpcdxT9OEdu3YwBwJmE5tAe2f8CntF%2Be9GLYtdnLwg9D43TGc2yIulS3hlcI9Os2ow%3D%3D&filekey=gbwJJ5doXJHlasGblp2dQgFc7emKmbp5PUOqot4X1DM%3D
+#EXTINF:-1 ,TV조선
+http://23.237.112.146:9083/live/lmgr218-live1/uN/RW/uNRWY94bN9uq-H4U6-AdGA==/live.livesegments.M3U8?sc_tk=rNWBtbbFk8wVJmemSi4PjV2CdGE3Vi7mhHBkdtVjU5l7BMjo2r2D9kxhMf9wgzBpWWsTmNGVItLv9KAZSdQXUw%3D%3D&filekey=AwVVylmT-5-FhmL9QU0eFXe1pYPWF1vucuA_6k_F25c%3D
+#EXTINF:-1 ,MBN
+http://23.237.112.130:9083/live/lmgr218-live1/j7/qy/j7qybKo1-oIO_R2EKcmcIA==/live.livesegments.M3U8?sc_tk=URGWNDBpqXay6LM4xMqXTjdXWlL%2FrfOJi4Rh8wd8k%2Frsp3dbt69B2Qwbo3cBeNBpTRE8qLzPYnzCWgcn8G7%2Fzg%3D%3D&filekey=9nbPxuOashb75OJrDxsJDWWs_DpRab7sZhDu9v75uyE%3D
+#EXTINF:-1 ,채널A
+http://23.237.112.130:9083/live/lmgr218-live1/5e/F8/5eF872HRwPbsKyyeCGBSQg==/live.livesegments.M3U8?sc_tk=%2FnSeOUZhHz5apzewhpLGxKMUDfm3nszhlMyPjkdKBO7RZROW3t0LlCBF79L47bC%2F9n6hFOxzdF78%2BiGOUDAnQg%3D%3D&filekey=v_cq6HM9shI-Zczl0T8xw_8v9XMC3V-mnuFcM6QJavw%3D
+#EXTINF:-1 ,OCN
+http://23.237.112.130:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.livesegments.M3U8?sc_tk=utWzY6F9uHfi3pnoGb4yGPLUqbcM4im0VqSC2GonOl7lj9X0eVz%2Fabe6u5%2BFJs9ukeVpgRfvn9t0iAWse8MyAw%3D%3D&filekey=d-DMMQcItEusCiv8mDdLazOn_d4PL_9-Av_NDEMYtMc%3D
+#EXTINF:-1 ,Catch on1
+http://213.152.172.73:9083/live/lmgr218-live1/Wj/Nz/WjNzluqgVARhAtul5gUKtg==/live.livesegments.M3U8?sc_tk=cnSEfRyYj6DKvqUHEcRCoLSwNKX87macpD4Vc0vI01IH3OghtNSf5YzLw8tV8rBDcwGEwCyGt3lAWW%2BIQ9u0DQ%3D%3D&filekey=waiqbGCxONFrHWAEV1heNS8DaljBCDSsVYLsiTvF0Sk%3D
 #EXTINF:-1 group-title="韩国频道",XTVN
 http://23.237.112.146:9083/live/lmgr218-live1/HD/q5/HDq5azDoIaYdXACYwglAmQ==/live.M3U8?sc_tk=PrsaPyZSglBrH92zFfA4fBhNj3GoifaegxAv6GucPhQHkAf6gs0xzdxrBera27GqaFKr51k7H64PambzBDvKdw%3D%3D
 #EXTINF:-1 group-title="韩国频道",Mnet
