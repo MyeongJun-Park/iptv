@@ -1,5 +1,4 @@
-#EXTM3U
-#EXTINF:-1 ,KBS1
+#EXTM3U#EXTINF:-1 ,KBS1
 http://23.237.112.146:9083/live/lmgr218-live1/uZ/vV/uZvV_oFf70rS_5dF5o637Q==/live.livesegments.M3U8?sc_tk=Ihj2CXZBdutqRQW4ZO6Lvejco4qJ4138l4M2tr%2BYMwmXPXs2XNOzpKliZQtCBbdYwA7J5VpS8%2F90RLNfyebi2Q%3D%3D&filekey=C6FTsAiiJ0rFbXHxljUTtEIl6aKxql15pYrVV1HzrOc%3D
 #EXTINF:-1 ,KBS2
 http://23.237.112.130:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.livesegments.M3U8?sc_tk=VdNcivlgGLuapPfTuVjZ35%2B14otU5%2FyXNadxs%2F2h4H%2FKv1njWiWvtnaro45dEYCM4L73zkVrSIyeQDfrG1R9%2BA%3D%3D&filekey=BSlm7zIq0qky6al-puhXenPnFm_sU5a5ckRoAvgGl00%3D
