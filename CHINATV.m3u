@@ -47,6 +47,10 @@ https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294202.m3
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296102.m3u8
 #EXTINF:-1 group-title="卫视台",延边卫视
 http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
+#EXTINF:-1 group-title="卫视台",延边1台
+http://live.ybtvyun.com/video/s10006-ybtv1-sd/index.m3u8
+#EXTINF:-1 group-title="卫视台",延边2台
+http://live.ybtvyun.com/video/s10006-ybtv2-sd/index.m3u8
 #EXTINF:-1 group-title="卫视台",南方卫视
 http://nclive.grtn.cn/tvs2/sd/live.m3u8?_ts
 #EXTINF:-1 group-title="卫视台",康巴卫视
