@@ -1,87 +1,73 @@
 #EXTM3U
-#EXTINF:-1 ,KBS1
-http://23.237.112.146:9083/live/lmgr218-live1/uZ/vV/uZvV_oFf70rS_5dF5o637Q==/live.M3U8?sc_tk=bz%2B6PAgrOhZC%2B5VnmgvNXChMl69EUmV0u8%2FVVBCAT04lmoGJYtQEB%2BX71dP75%2BSaBPyiSXy1%2BN5B6vegw%2BIcTA%3D%3D
-#EXTINF:-1 ,KBS2
-http://213.152.172.73:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.M3U8?sc_tk=u1WG%2FR6WAOrubZdtRKDyVytTaxGm9JoNoOMVY1FYUus0lgJGM4ssGnzz9et54Zride09OynTmBwNapVl9Fd%2BVA%3D%3D
-#EXTINF:-1 ,KBS24
-https://livecloud.akamaized.net/navertv/lip2_kr/cnmssgpu0003e5/vmfuh2cywozpwchqml6frawhwixxe3a3r2p9/1080/playlist.m3u8?hdnts=st=1585284679~exp=1585317079~acl=/navertv/lip2_kr/cnmssgpu0003e5/vmfuh2cywozpwchqml6frawhwixxe3a3r2p9/1080/*~hmac=a3c42b441b33d12867ccba4584aeb4999b2f632e6b26294145f720d5128ce0d8
-#EXTINF:-1 ,아리랑
-https://livecloud.akamaized.net/navertv/lip2_kr/cnmssgpu0002/asmmttmkfrmeqpzmlbqoydojofgzfbd9ep/720/playlist.m3u8?hdnts=st=1585282691~exp=1585315091~acl=/navertv/lip2_kr/cnmssgpu0002/asmmttmkfrmeqpzmlbqoydojofgzfbd9ep/720/*~hmac=9cc7ea9e81650b1716d8bf1dc78319bdc6142f93415c8e0d8ee475333b9528b8
-#EXTINF:-1 ,MBC
-http://213.152.172.73:9083/live/lmgr218-live1/yo/Kz/yoKzy5jIzhPSc34OXb26Hg==/live.M3U8?sc_tk=iaWEzNs2GcoDM3ckaCfr65XQgO4gp2%2FdnFgD3OsyzzyJb73OKz14kd%2Fk5rAg%2FEr6ggIJkwesKUR4BrCx9O4ngg%3D%3D
-#EXTINF:-1 ,YTN
-https://livecloud.akamaized.net/navertv/lip2_kr/cnmssgpu0001e1/fdrexttfiuydfmviqqg9axuovj0hsnfscenl/1080/playlist.m3u8?hdnts=st=1585283191~exp=1585315591~acl=/navertv/lip2_kr/cnmssgpu0001e1/fdrexttfiuydfmviqqg9axuovj0hsnfscenl/1080/*~hmac=a908a20a5017484e19bba6a5ad735ffac5e2b95b550511f74e1a76c709529904
-#EXTINF:-1 ,SBS
-http://213.152.172.73:9083/live/lmgr218-live1/an/Ec/anEch5GmlJzMh-jcs1OTow==/live.M3U8?sc_tk=jrmXtgZ9a02BbCD6GRU%2BtHKN1wmSewngJqK2KY6RZGHqsHVoo7yzkD9aq%2BYowrDE8LEqyMSXVLEVIkk4XbsX0A%3D%3D
-#EXTINF:-1 ,SBS뉴스
-https://livecloud.akamaized.net/navertv/lip2_kr/cnmssgpu0002e2/y7std3vg7wgyilzzo5fhciqwdjo6h0wnz0nw/1080/playlist.m3u8?hdnts=st=1585283331~exp=1585315731~acl=/navertv/lip2_kr/cnmssgpu0002e2/y7std3vg7wgyilzzo5fhciqwdjo6h0wnz0nw/1080/*~hmac=db9ccc69348389125b40199a26f644b2dcff20d60a1b0a577a6ed27cbbc4a1b4
-#EXTINF:-1 ,EBS
-http://213.152.172.73:9083/live/lmgr218-live1/Y7/kd/Y7kdN2a2F8joMgdxPBzaAQ==/live.M3U8?sc_tk=1JQX54jNj9XShQX1Dw%2BRAdhA7UjAC4GJ64YrbqPsq2crfg7XM2CvSsGfe01VdEQ32CRH06crUFEBC4vELvZzxw%3D%3D
-#EXTINF:-1 ,JTBC
-http://213.152.172.73:9083/live/lmgr218-live1/1k/C9/1kC9miPHbLuH_Xohzycp8g==/live.M3U8?sc_tk=9VdDhfmZxlHHylb%2F792DYqe3eQtpiVWoIbE0UbBEWbOFS5ccB1rok%2FhArttJkyPnLMLFABxk1Av0LiwhcIDvZQ%3D%3D
-#EXTINF:-1 ,연합뉴스
-https://livecloud.akamaized.net/navertv/lip2_kr/cnmssgpu0001/teerhku7mmuef2wrtvieopwmlixy0m1pr8c0/1080/playlist.m3u8?hdnts=st=1585284511~exp=1585316911~acl=/navertv/lip2_kr/cnmssgpu0001/teerhku7mmuef2wrtvieopwmlixy0m1pr8c0/1080/*~hmac=6f54978ef110e7942e0fd6a7df82bb64aa293e9ecc8f0ea5d58907b053309001
-#EXTINF:-1 ,TV조선뉴스
-https://livecloud.akamaized.net/navertv/lip2_kr/cnmssgpu0004e6/2pwdq82raodvgyganayuhbvfjjofickzyad3/1080/playlist.m3u8?hdnts=st=1585283876~exp=1585316276~acl=/navertv/lip2_kr/cnmssgpu0004e6/2pwdq82raodvgyganayuhbvfjjofickzyad3/1080/*~hmac=89dada27ae90aef7b221aee819af12b739125e7d04c15ee779efe7bb875434b9
-#EXTINF:-1 ,TV조선
-http://23.237.112.146:9083/live/lmgr218-live1/uN/RW/uNRWY94bN9uq-H4U6-AdGA==/live.M3U8?sc_tk=kC%2Fvu%2Fw%2FMc0jjt56dM6qheqD9jtkp7I1Idd1yn5pYT19DuH2An0Vb9IQ2hqvSJdfhNwT%2BzLpaA017bsczNUy%2FQ%3D%3D
-#EXTINF:-1 ,MBN
-http://213.152.172.73:9083/live/lmgr218-live1/j7/qy/j7qybKo1-oIO_R2EKcmcIA==/live.M3U8?sc_tk=RD%2FHQuXfkWQaPNMo5ZCTzC4TVxl%2Bc5JcDZF%2Fkw5Q8h6e0GCpH1dVC9PF84jV6bfzMsObsNvHzjx46qOYJB7rFA%3D%3D
-#EXTINF:-1 ,채널A
-http://213.152.172.73:9083/live/lmgr218-live1/5e/F8/5eF872HRwPbsKyyeCGBSQg==/live.M3U8?sc_tk=Xkv8vcs%2BgTz%2Fro4cVreV4ffnZKBwiWm60NXVsFJSai%2BtsY6hp3VcJGfbqBEWMA5fDnZF7nHtPbsNnwOV4epGTQ%3D%3D
-#EXTINF:-1 ,OCN
-http://213.152.172.73:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.M3U8?sc_tk=Pfb%2FQGI7jywQLAke0O5%2FSCCsp%2Fb8%2FgcEb0Xj8f83iJpeVHIycp9DofgJXSFXD3rD5XyKphRg9daLPPYuAxP3og%3D%3D
-#EXTINF:-1 ,Catch on1
-http://213.152.172.73:9083/live/lmgr218-live1/Wj/Nz/WjNzluqgVARhAtul5gUKtg==/live.M3U8?sc_tk=EwSD32eXCdipNYwIONuLRiJJJb22G0AftX2nO5O9EAhfgnz2dspKIOBAXsLwAeMM0qOhOPsU9e7xpa8qXjwqkg%3D%3D
-#EXTINF:-1 ,XTM
-http://23.237.112.146:9083/live/lmgr218-live1/HD/q5/HDq5azDoIaYdXACYwglAmQ==/live.M3U8?sc_tk=DEvySJ8bErzH0iLNXRykwXGR00l7xjcp9wzo86e5PSxzg7nGrANL9IZ52p8%2FxEGxxANFOA36gS0Gt27XeL6ZKQ%3D%3D
-#EXTINF:-1 ,Mnet
-http://23.237.112.146:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.M3U8?sc_tk=2TtAmBdoe1A9G1aPoZ7jBknV4aUY5%2FRSCy4BQrxGOPRKDlwRBN0r9YYGdLShDJAhN7oZsJRZ9YlN6AEJ%2B73WPg%3D%3D
-#EXTINF:-1 ,tvN
-http://23.237.112.146:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8?sc_tk=i8EofvOmFW9FtCVzzUTOGxrGLf%2FbWB1YQ2wuXcBt3v6HBC1jrvLh%2Frr57MGbLIH2%2BqbA6ivHRyPxHklyLgRhyg%3D%3D
-#EXTINF:-1 ,inet-TV
-http://213.152.172.73:9083/live/lmgr218-live1/iE/sB/iEsBUibpGCn1MvvofdT7Nw==/live.M3U8?sc_tk=cRT%2FuLPn9YdC%2BvWLkWZ0oSC6OhslMO8Q2FUkEKDn%2FIvJ85LpBhKs%2FCoZHpJHkamhqkNcTryEuofuoJhjVyv7dw%3D%3D
-#EXTINF:-1 ,어린이1
-http://23.237.112.130:9083/live/lmgr218-live1/iz/El/izElYP02-6dsroN6VHX4hw==/live.M3U8?sc_tk=zesa0%2F4NcVGHekvFQlk84my6FUheU8De0xUYVmTxlqOxwg9FAyCHQPCeb7nCzBkIxXwOOOxj4%2FUq5W0IXQomQA%3D%3D
-#EXTINF:-1 ,어린이2
-http://23.237.112.146:9083/live/lmgr218-live1/Ha/1o/Ha1o5euijTdNK4klXmosJw==/live.M3U8?sc_tk=3%2F%2Fc%2FDtEp2w8nlxcaLicm5pS8w%2F3Y9mElnz6Kr8fM2kBYiGHu2gIyG8B15hlIkmfciCw9Oyr82GWUWLJBMo%2Fmw%3D%3D
-#EXTINF:-1 ,YTN
-http://213.152.172.73:9083/live/lmgr218-live1/Au/qU/AuqUH7aigh3Xbm1bX6Bmog==/live.M3U8?sc_tk=KftSAkasX%2FwokpQ5B8eiTLbJSBThYwbcwjh%2F3ULEa6DZSv349fttWDo%2BJBj48SyZISm1CSvTNvC7r8QhRGqnfw%3D%3D
-#EXTINF:-1 ,SBS골프
-http://23.237.112.146:9083/live/lmgr218-live1/dp/Ua/dpUaDQ0LwGNqpgVGdLwsrg==/live.M3U8?sc_tk=mDgt5F3Ge%2FFhzu41h%2BVjq1hB51h%2BLvZVcB%2BImau3nfmb0nUQCPBv7oaXFOe8qLmMdIAOQ0dSWCoC9j0N2xFk5Q%3D%3D
-#EXTINF:-1 ,JTBC골프
-http://213.152.172.73:9083/live/lmgr218-live1/uX/0j/uX0j1KJo8eVhWnTx6uvShw==/live.M3U8?sc_tk=2xdGAq%2FQlma8diZqgIo5kk087gTiMCUkvJeetyZZk6MD6Dsy7BBCLX%2FXZyg6zKRKofRGTxEhma9goM7b7rUoPg%3D%3D
-#EXTINF:-1 ,KBSN스포츠
-http://23.237.112.130:9083/live/lmgr218-live1/83/8Y/838YSQ4jnoxIH-66DQzbyQ==/live.M3U8?sc_tk=C%2Fyy3%2FhiopzttykhmRUcd4mQOi0BRnnkQWPeKJ3L5chzTPokLGrcQ%2B9IyM%2FZ833SjXJgcfSbC9iraz1A4LZ7Yg%3D%3D
-#EXTINF:-1 ,MBC스포츠
-http://23.237.112.146:9083/live/lmgr218-live1/wk/r5/wkr5etV8ujBb_3-hODugiQ==/live.M3U8?sc_tk=iIw5gZu7kGH16Mukj5P3JCD0sd9JF5TFKG54vkQEQSXr0bWq2EYlcscFXaeSSWUutWA3RD9m7Tz12VO7LxxQhg%3D%3D
-#EXTINF:-1 ,SBS스포츠
-http://213.152.172.73:9083/live/lmgr218-live1/Lm/Ej/LmEjIrVpnD_VD7nFdi5nxw==/live.M3U8?sc_tk=6Bou5z1a7fPvMyqEQkg4Ac7NKkQSHAv6layVOt%2B1K8RugWKTpzUy1tD9Krs63HvtEKEF72d2iCI9tTFbFVtYDA%3D%3D
-#EXTINF:-1 ,Sky스포츠
-http://23.237.112.146:9083/live/lmgr218-live1/pw/1F/pw1FPLw2DUDy38nHOf3Dhg==/live.M3U8?sc_tk=t3a3gze12C07r4Hck3Cgn9aHO33mGHObiWkF0sIDoPPThRzpLKuuYSSQ92MqDJTFmpXbNjfoeT%2FzEymGtCiJdA%3D%3D
-#EXTINF:-1 ,SPOTV
-http://213.152.172.73:9083/live/lmgr218-live1/bu/_u/bu_uTELt_sn03szwRat2vw==/live.M3U8?sc_tk=bfZZNp6RJGchUFoznd0G%2B0Zmflg9ChAHYg3baPfJrlSHDY%2FuTNG1RN2ixs0U5baKXlN8yIePaC11KpNzx1rtsQ%3D%3D
-#EXTINF:-1 ,Sky Travel
-http://23.237.112.146:9083/live/lmgr218-live1/_-/8u/_-8uu1Tn5g4Op5N8ABcgyQ==/live.M3U8?sc_tk=%2BWTOeWVi6QSIXGQgHTAMpSYOcWzKKZyeX5wVG9%2BPVlX5AiCbAM%2FqZaUnTsnfNjIaGfIsymt3oE57SksQwdbXdQ%3D%3D
-#EXTINF:-1 ,Olive
-http://213.152.172.73:9083/live/lmgr218-live1/Cd/gO/CdgOWdzI-aQE0l49MoL4KQ==/live.M3U8?sc_tk=NvHLFI6Bf%2FUF8CAViUEjwdxpsrHDbgwbUQoVWmD9CHnuvQ8XF9aT5J8MVwpfDT40l6YqVmd9QJY6yVTxTWJ65g%3D%3D
-#EXTINF:-1 ,GTV
-http://213.152.172.73:9083/live/lmgr218-live1/29/uo/29uo3Lmq0V32VsPqdfqyiw==/live.M3U8?sc_tk=Ii9qCgslpAquyZrHfGJpkyWHAMnFxhlpUduAvT66OI6113arywud4bhutmqbTo8MW8Nxl%2FC66K%2B2BL24bZkRFQ%3D%3D
-#EXTINF:-1 ,ONSTYLE
-http://213.152.172.73:9083/live/lmgr218-live1/cB/4r/cB4r3_8LAovIbzuAg5NMSg==/live.M3U8?sc_tk=%2BQ8uYS9XCsx0pGev6DHD97GqscpoBN3Ih%2BLWtk6AZxtBKKZ7n3pTFrxW45hKAv5M1OpLy4NTadOXTqd45NXkIw%3D%3D
-#EXTINF:-1 ,FTV낙시
-http://213.152.172.73:9083/live/lmgr218-live1/_s/Bw/_sBwNiIHsuLfupSIlTLgFg==/live.M3U8?sc_tk=2QAsCvLSLknCGshV4%2BJjK3UTkwlKjLH%2FTCpE18tFBL%2BEzf7mXrKCl9jzUmoCL0EsxjARdHfKPQnSEs0DZHyyLw%3D%3D
-#EXTINF:-1 ,바둑TV
-http://213.152.172.73:9083/live/lmgr218-live1/mv/Gv/mvGv7JULcGHu0GZ7BQ_CUQ==/live.M3U8?sc_tk=A8OPsBSwtQir5YrE3HeJVTC25zkjyAkzFqzJ%2B7EPRTm5wJCjQg1FGBa7F4kjMcQre0iFiCW%2Ba4ttV%2Fs9%2BgUImg%3D%3D
-#EXTINF:-1 ,채널차이나
-http://23.237.112.146:9083/live/lmgr218-live1/ut/hX/uthXNC6cyUNTT6dtUu9D6A==/live.M3U8?sc_tk=E6jU7QXCdHJoDbzugLJEc3sBr6WyzoVg%2BrDSUWSJPoLAObgiGrE1R4Ie%2FVLi7zk5McPdi1fVJTCVsl5wNCxJhA%3D%3D
-#EXTINF:-1 ,HDWorld
-http://213.152.172.73:9083/live/lmgr218-live1/Wi/4i/Wi4i7iQI0kwBDqvCEoY-Yw==/live.M3U8?sc_tk=XsNNlBmJJrlBFLexXxS9zE0HexKJpzw7QHjz1qYcy4o3ohj8MCEBO1migHaB38VebsKOyeVSSaAjlB6FTeVcpQ%3D%3D
-#EXTINF:-1 ,NATIONALgeographic
-http://23.237.112.146:9083/live/lmgr218-live1/4r/9H/4r9HMyxxD9P4sIw1LDc89Q==/live.M3U8?sc_tk=IgPwkmreuBP0W71TxeG9DcTJIlFNiVwUIwwZOkLrxy%2FjUO2G2M9cl1WprtwFISxzkth%2FmxcwZ%2B1hBoAyI3Uxow%3D%3D
-#EXTINF:-1 ,BTN
-http://213.152.172.73:9083/live/lmgr218-live1/V6/ym/V6ymZnHq5AdroXYl0ELDtw==/live.M3U8?sc_tk=UF66V6wgDS726ePESZNumZnCoESDy4Pe8%2Be7hZEGFF38vIQIz6En2S2eApSc1CACTWcb%2Fb5CW%2FkvwEY%2BtGhC2g%3D%3D
-#EXTINF:-1 ,평화방송
-http://23.237.112.146:9083/live/lmgr218-live1/sJ/ke/sJkequ6jpcjajs2NtdZvbg==/live.M3U8?sc_tk=WIwb4AhHwoJyYCDSkAAzSimg7mI%2BRVCAks3sps07S8dJs2e8%2Fqm%2Fb1OhIwfbazh8gNSmGLcboj7lnnHVMt9%2Fog%3D%3D
-#EXTINF:-1 ,CGNTV
-http://213.152.172.73:9083/live/lmgr218-live1/Jv/Gl/JvGlwcypS-tAeyXE9Tx_5g==/live.M3U8?sc_tk=AYoyCbu82dM7EP%2FNCZlcnNXv%2BMhYLDXnCgAuKMOGDH5xNAIdoAxwsnrPjkTja3f%2Bf5W09u9U3IqUvsqkxZwiIQ%3D%3D
+#EXTINF:-1 group-title="韩国频道",KBS1
+http://23.237.112.146:9083/live/lmgr218-live1/Z1/ck/Z1ckFeyBo9VzK1DFmR1-Hw==/live.M3U8?sc_tk=45RHmdr%2BQ7UZG7nV1fVx9dKI8cXxFDMXOt4ChSeXcmnK1QHzat%2BsXe8hdVqZ%2FQ1vwtha%2B59RcU0jzqdZ35hC%2FQ%3D%3D
+#EXTINF:-1 group-title="韩国频道",KBS2
+http://213.152.172.73:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.M3U8?sc_tk=HtvMDvJswDBjxMwo3RT3EGwRQ1LNgc5hwREVXetaGfw68CCLYkw6CMWc0Fa3I2HudkHSf58cg6RhpsmNkuFAVg%3D%3D
+#EXTINF:-1 group-title="韩国频道",MBC
+http://213.152.172.73:9083/live/lmgr218-live1/yo/Kz/yoKzy5jIzhPSc34OXb26Hg==/live.M3U8?sc_tk=Su1Pksi2hj9e%2FrQgNdCRspGHgwaHuLX9Iqyl21lc%2B%2Bqg9ujibq31vJmHFUUs0B9Dg8JzQmQmfD8UVoslNzKcKg%3D%3D
+#EXTINF:-1 group-title="韩国频道",SBS
+http://213.152.172.73:9083/live/lmgr218-live1/an/Ec/anEch5GmlJzMh-jcs1OTow==/live.M3U8?sc_tk=7PtIokRTqZl%2BXbRfGXreXojv5ZBJ2D%2FYqzs06K%2Bln8YF5NRY6wlcjNaElTeOpsO%2BqHeOzolJhjXkVXURAA1ppg%3D%3D
+#EXTINF:-1 group-title="韩国频道",JTBC
+http://213.152.172.73:9083/live/lmgr218-live1/1k/C9/1kC9miPHbLuH_Xohzycp8g==/live.M3U8?sc_tk=QYrDkWQJ5ux0IFzRKaKGrKnIrs1EADFEZRzmjLVhFZHeCyPfQGSwmztZMrUq2MftP3lg2Tjb6jWAmPIARYkuKA%3D%3D
+#EXTINF:-1 group-title="韩国频道",SBS
+http://213.152.172.73:9083/live/lmgr218-live1/an/Ec/anEch5GmlJzMh-jcs1OTow==/live.M3U8?sc_tk=Q5yoLe6AR%2FSj3cje4zCyId%2FIeKuTIo6pz5L2I%2BBP6uKc1zWDhAsTF2yLPPkuC67yjDHXKhBv3uCIxWKrCyoifA%3D%3D
+#EXTINF:-1 group-title="韩国频道",EBS1
+http://213.152.172.73:9083/live/lmgr218-live1/Y7/kd/Y7kdN2a2F8joMgdxPBzaAQ==/live.M3U8?sc_tk=kTPObzr5pXvwZrnwd%2BrIAOsf%2F4YUCXtlWqvYxAQcD8%2BzacDkWB%2Fe5TkrXnRWexIead2flCpcB4EFI27BqXD2tA%3D%3D
+#EXTINF:-1 group-title="韩国频道",TV조선
+http://23.237.112.146:9083/live/lmgr218-live1/uN/RW/uNRWY94bN9uq-H4U6-AdGA==/live.M3U8?sc_tk=rsv5rfXwiQ6nVeIb%2FhAdMJkGlfUmJvOfsx3wh37XL9IQWmOQcRPrFnwpFkJm%2BlqXcUWt40e7IAQ0AEbPssRwsA%3D%3D
+#EXTINF:-1 group-title="韩国频道",MBN
+http://23.237.112.138:9083/live/lmgr218-live1/uN/RW/uNRWY94bN9uq-H4U6-AdGA==/live.m3u8
+#EXTINF:-1 group-title="韩国频道",채널A
+http://23.237.112.138:9083/live/lmgr218-live1/5e/F8/5eF872HRwPbsKyyeCGBSQg==/live.m3u8
+#EXTINF:-1 group-title="韩国频道",OCN
+http://23.237.112.130:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.M3U8?sc_tk=%2Fq3n0RRDWGwnffZ%2FvGWCBSoz6PucTJjc7u3S9pxMmNdMhJQS%2BKhZ3WeTL5KGQf1LY5o2CckODhHkSkJRgWCvGQ%3D%3D
+#EXTINF:-1 group-title="韩国频道",TATCH ON1
+http://23.237.112.130:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.M3U8?sc_tk=%2Fq3n0RRDWGwnffZ%2FvGWCBSoz6PucTJjc7u3S9pxMmNdMhJQS%2BKhZ3WeTL5KGQf1LY5o2CckODhHkSkJRgWCvGQ%3D%3D
+#EXTINF:-1 group-title="韩国频道",XTVN
+http://23.237.112.146:9083/live/lmgr218-live1/HD/q5/HDq5azDoIaYdXACYwglAmQ==/live.M3U8?sc_tk=PrsaPyZSglBrH92zFfA4fBhNj3GoifaegxAv6GucPhQHkAf6gs0xzdxrBera27GqaFKr51k7H64PambzBDvKdw%3D%3D
+#EXTINF:-1 group-title="韩国频道",Mnet
+http://23.237.112.146:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.M3U8?sc_tk=JBquTDGSH%2FzX2B2kMHl%2FOhK1ZOo8vA4zLmCwSJ6nV%2BPkJIZkr9aUZB4syIbvpM2eUSd88vpmgCOw3NHdlnRjDA%3D%3D
+#EXTINF:-1 group-title="韩国频道",TVN
+http://23.237.112.130:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8?sc_tk=mc03CQW1t9TPwXtOuRgOy%2B6MZL4Ltl5CH8f0Z1yx7fdTDSJiJGT23vx2T%2BwtVwONjP%2BQsE56QNENJR6Jktr5eg%3D%3D
+#EXTINF:-1 group-title="韩国频道",inet-TV
+http://213.152.172.73:9083/live/lmgr218-live1/iE/sB/iEsBUibpGCn1MvvofdT7Nw==/live.M3U8?sc_tk=LqUT76Dm1n%2BerUxvVkJ12Y%2BT6FLi1XPQ%2Fhbe7FJobepv7tgrs%2FCqO2Z%2Fp5x2T481KMwU3vg9SWdzmkM20oRnlA%3D%3D
+#EXTINF:-1 group-title="韩国频道",어린이
+http://23.237.112.130:9083/live/lmgr218-live1/iz/El/izElYP02-6dsroN6VHX4hw==/live.M3U8?sc_tk=vfqP04PZGd2iTdfJlQtlHCvvPqlYxz1bNOGHao1jGt1eCQ7sB1cTWiaNUVH0h7iqRO%2FvqMpYZwKt9f0nGkKFfg%3D%3D
+#EXTINF:-1 group-title="韩国频道",Kids어린이
+http://23.237.112.146:9083/live/lmgr218-live1/Ha/1o/Ha1o5euijTdNK4klXmosJw==/live.M3U8?sc_tk=VYeK4QFzLmPJbZ3yH61nr5ndcI05wWXuxxlmr%2FyvEgCVJeA28dik6WM8zJFzs2nvrcmd2AFNtrzH0mF6XrIOnw%3D%3D
+#EXTINF:-1 group-title="韩国频道",YTN
+http://213.152.172.73:9083/live/lmgr218-live1/Au/qU/AuqUH7aigh3Xbm1bX6Bmog==/live.M3U8?sc_tk=UsqCEI3w3jFcFVGbbzxgaftdKF%2Fp54tgsa1Xs9vXhdOTUBkTWTDObpfPRjssWzmS7qcH92hAOj9eYFSnazUMPw%3D%3D
+#EXTINF:-1 group-title="韩国频道",SBS골프
+http://23.237.112.146:9083/live/lmgr218-live1/dp/Ua/dpUaDQ0LwGNqpgVGdLwsrg==/live.M3U8?sc_tk=WNZAwzooNSgqFjH%2F4t%2B4L2jQ75JNdid4AmySXhGQBkMN%2FjZF%2BOi1JmrSZq2X1Po%2BhiZ9wJgWqhrWKPGRmLX4Zg%3D%3D
+#EXTINF:-1 group-title="韩国频道",JTBC골프
+http://23.237.112.130:9083/live/lmgr218-live1/uX/0j/uX0j1KJo8eVhWnTx6uvShw==/live.M3U8?sc_tk=%2B9U5t1QpnZWFM3Pz6VTr2hIrlOgebxYaEPkzXsXCP%2FC%2F7rHFhru0NQh6Rmq%2BT3GC8bPUCWil%2FmBA8LItXW4x3A%3D%3D
+#EXTINF:-1 group-title="韩国频道",MBC스포츠
+http://23.237.112.146:9083/live/lmgr218-live1/wk/r5/wkr5etV8ujBb_3-hODugiQ==/live.M3U8?sc_tk=K6ibvrV%2Bzi3%2FCNzPLlLIzKNVicl78iyJ7yAq4iWldDf%2BaRrgsmHuMTKU0AJZvLl28nFrTUaNDlNyavUsKMpkoQ%3D%3D
+#EXTINF:-1 group-title="韩国频道",SBS스포츠
+http://213.152.172.73:9083/live/lmgr218-live1/Lm/Ej/LmEjIrVpnD_VD7nFdi5nxw==/live.M3U8?sc_tk=99msiJSdc4Nhp42hjjxA2efYOGjY3%2FIm4z%2Fn0s5RBn48adjMNa%2BsxaAB1LqD%2BZllB6mlpBRJj53Duo%2F7oueXog%3D%3D
+#EXTINF:-1 group-title="韩国频道",SBS스포츠
+http://213.152.172.73:9083/live/lmgr218-live1/Lm/Ej/LmEjIrVpnD_VD7nFdi5nxw==/live.M3U8?sc_tk=99msiJSdc4Nhp42hjjxA2efYOGjY3%2FIm4z%2Fn0s5RBn48adjMNa%2BsxaAB1LqD%2BZllB6mlpBRJj53Duo%2F7oueXog%3D%3D
+#EXTINF:-1 group-title="韩国频道",SPOTV
+http://213.152.172.73:9083/live/lmgr218-live1/bu/_u/bu_uTELt_sn03szwRat2vw==/live.M3U8?sc_tk=uS6bzFJ%2FqfdPOMEs5sW9ZSEVN9GZ3rL0xR8Y83Cyvp6f0379LFQ7PPhJF2C6oVPHrlNvINtO4CraQDGmgs5WVQ%3D%3D
+#EXTINF:-1 group-title="韩国频道",SKY trauel
+http://23.237.112.130:9083/live/lmgr218-live1/_-/8u/_-8uu1Tn5g4Op5N8ABcgyQ==/live.M3U8?sc_tk=LOfPqyIzg%2BMdFGjfoJmEJc74ge0JHTN0UHU4ow%2BnNB91N60CBzLo91mwNoeT9eY7lWD%2B1K%2BQUV%2FNc3LE81Zy0w%3D%3D
+#EXTINF:-1 group-title="韩国频道",OLive
+http://213.152.172.73:9083/live/lmgr218-live1/Cd/gO/CdgOWdzI-aQE0l49MoL4KQ==/live.M3U8?sc_tk=wWIzNSNNy3gfDA%2FWQSWOU92%2BkdLHWTHmHmROOech4LbV%2FrQhCY6DzZnsZ4dK57pP8DxszUkRIY1sCUeygOHVrA%3D%3D
+#EXTINF:-1 group-title="韩国频道",Gtv
+http://213.152.172.73:9083/live/lmgr218-live1/29/uo/29uo3Lmq0V32VsPqdfqyiw==/live.M3U8?sc_tk=94FUi7u5BEe4%2FeKx7YyNgbIJUSanJX4a4cqN5NVGHc4yk6%2BmVzinJJtFQ70xAHsQJx87LwXYMjIrM6DnWNhpvg%3D%3D
+#EXTINF:-1 group-title="韩国频道",ONSTYLE
+http://23.237.112.130:9083/live/lmgr218-live1/cB/4r/cB4r3_8LAovIbzuAg5NMSg==/live.M3U8?sc_tk=tlFFUxc2EKM8Btry0AYfUz%2BAqyIvMeGf3DCncItKQ5NupwsXylMbwYq6LsVP67SdvkdwcrPECWOA%2F30BX%2B7CNg%3D%3D
+#EXTINF:-1 group-title="韩国频道",FTV
+http://213.152.172.73:9083/live/lmgr218-live1/_s/Bw/_sBwNiIHsuLfupSIlTLgFg==/live.M3U8?sc_tk=zNV2KRyYdlFbWD6gtsRD%2FWi3NsuyAgSR%2Bnq6BPe%2FFO%2F4DyJ8%2BZBFheqAax251ImFFN%2FYE9U6Ady2%2FZ8lOzYNfA%3D%3D
+#EXTINF:-1 group-title="韩国频道",바둑TV
+http://213.152.172.73:9083/live/lmgr218-live1/mv/Gv/mvGv7JULcGHu0GZ7BQ_CUQ==/live.M3U8?sc_tk=TqbebKJd%2B71K5MSh4IVWGeoPeYKWRMQNnhaG%2BzPSB9kjA3aREEL%2B8FY90tKIzPN0lBZrg0nNenOQHdRRtxXjpw%3D%3D
+#EXTINF:-1 group-title="韩国频道",HD WORLD
+http://213.152.172.73:9083/live/lmgr218-live1/Wi/4i/Wi4i7iQI0kwBDqvCEoY-Yw==/live.M3U8?sc_tk=hacVfdJZmP%2BT4edh%2FBwlnB7a2fgdHew6bNsjQy%2F9y1fHgpRbCe29NvUVLcQ2QDuliHO6n6lkdJ6BMqYCZesLrQ%3D%3D
+#EXTINF:-1 group-title="韩国频道",NATIONAL
+http://23.237.112.130:9083/live/lmgr218-live1/4r/9H/4r9HMyxxD9P4sIw1LDc89Q==/live.M3U8?sc_tk=JzThINFfNU%2B2QpkUX5p32WoUM%2B69mHFFlRoO8JelXpKFpDyR%2B7IS%2BDsNTByCw%2FfsFmh72cbxr5yXNAyh7dEgJA%3D%3D
+#EXTINF:-1 group-title="韩国频道",평화방송
+http://23.237.112.146:9083/live/lmgr218-live1/sJ/ke/sJkequ6jpcjajs2NtdZvbg==/live.M3U8?sc_tk=rQyqnzRA0F863zHmUqDlpmuBWRYPfTv4AQ%2FC%2BexRf2E6%2FFes9GjD9JnyTsv9XFXES0lSEYTAkYoXbYn3%2FWk57g%3D%3D
+#EXTINF:-1 group-title="韩国频道",CTS
+http://23.237.112.146:9083/live/lmgr218-live1/f_/ks/f_ks7v_eiEVJNQxHYIDi3A==/live.M3U8?sc_tk=KbVsqLfcWyZEBht%2BiOXUJmS3fyommSO2tPxHQyppnijwSaJRqDRXjuci6vjr3APOfqG%2BJAnxWDvsUu8VX2gxtA%3D%3D
+#EXTINF:-1 group-title="韩国频道",CGNTV
+http://213.152.172.73:9083/live/lmgr218-live1/Jv/Gl/JvGlwcypS-tAeyXE9Tx_5g==/live.M3U8?sc_tk=eBhTzZwoZF%2FMncHirnRVOM2VmS5548BXsCYubk5tRl%2FliWA5UCdBAvcg%2BX3J5hWKBwHirokO3ztJ6Pw4SXBaaw%3D%3D
