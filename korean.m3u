@@ -1,243 +1,243 @@
 #EXTM3U#
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",KBS1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",KBS1
 http://23.237.112.146:9083/live/lmgr218-live1/uZ/vV/uZvV_oFf70rS_5dF5o637Q==/live.livesegments.M3U8?sc_tk=Ihj2CXZBdutqRQW4ZO6Lvejco4qJ4138l4M2tr%2BYMwmXPXs2XNOzpKliZQtCBbdYwA7J5VpS8%2F90RLNfyebi2Q%3D%3D&filekey=C6FTsAiiJ0rFbXHxljUTtEIl6aKxql15pYrVV1HzrOc%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",KBS2
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",KBS2
 http://23.237.112.130:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.livesegments.M3U8?sc_tk=VdNcivlgGLuapPfTuVjZ35%2B14otU5%2FyXNadxs%2F2h4H%2FKv1njWiWvtnaro45dEYCM4L73zkVrSIyeQDfrG1R9%2BA%3D%3D&filekey=BSlm7zIq0qky6al-puhXenPnFm_sU5a5ckRoAvgGl00%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",MBC
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",MBC
 http://213.152.172.73:9083/live/lmgr218-live1/yo/Kz/yoKzy5jIzhPSc34OXb26Hg==/live.livesegments.M3U8?sc_tk=Cw8%2FJAva3iG99iQLtijvG5%2BT4zm6%2Bn%2FavQEwvE5VV1Ckps4lDW8quEgHcKWqCex3XSYnYBtJ3U7vjkiWpW%2BvXA%3D%3D&filekey=vZv5zCxlUBO4L2ZzX3FGCocUkVY_LfxnOtkIo3hHN4c%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",SBS
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",SBS
 http://23.237.112.130:9083/live/lmgr218-live1/an/Ec/anEch5GmlJzMh-jcs1OTow==/live.livesegments.M3U8?sc_tk=B7asBp82spN6HHDw4VQnqKpYbBI04jBuSeaS3idf2xPIDPdaqsPGfv7uWMgB0rmh6PaW4bht0JMqZIskOlBUpA%3D%3D&filekey=4_VXW5AF1TKk4XHnluxQJuJHAiwybeLQUsawDkb-_ns%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",EBS
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",EBS
 http://213.152.172.73:9083/live/lmgr218-live1/Y7/kd/Y7kdN2a2F8joMgdxPBzaAQ==/live.livesegments.M3U8?sc_tk=vstHbO%2FsZCAgWKoAoGXumCIhLSMNcHzAM6PgNdDYPM2vjfS4pXf6Gk1Nra3qvrR%2Fo2aong59DtqkGcIHJQN0ag%3D%3D&filekey=syNRzVCk26zJGjjHoM5AgGomtyxNWk-MkW3MHGd9baM%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",JTBC
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",JTBC
 http://213.152.172.73:9083/live/lmgr218-live1/1k/C9/1kC9miPHbLuH_Xohzycp8g==/live.livesegments.M3U8?sc_tk=6LjsBHS3n1yPPCtZ1k3BKpcdxT9OEdu3YwBwJmE5tAe2f8CntF%2Be9GLYtdnLwg9D43TGc2yIulS3hlcI9Os2ow%3D%3D&filekey=gbwJJ5doXJHlasGblp2dQgFc7emKmbp5PUOqot4X1DM%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",TV조선
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",TV조선
 http://23.237.112.146:9083/live/lmgr218-live1/uN/RW/uNRWY94bN9uq-H4U6-AdGA==/live.livesegments.M3U8?sc_tk=rNWBtbbFk8wVJmemSi4PjV2CdGE3Vi7mhHBkdtVjU5l7BMjo2r2D9kxhMf9wgzBpWWsTmNGVItLv9KAZSdQXUw%3D%3D&filekey=AwVVylmT-5-FhmL9QU0eFXe1pYPWF1vucuA_6k_F25c%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",MBN
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",MBN
 http://23.237.112.130:9083/live/lmgr218-live1/j7/qy/j7qybKo1-oIO_R2EKcmcIA==/live.livesegments.M3U8?sc_tk=URGWNDBpqXay6LM4xMqXTjdXWlL%2FrfOJi4Rh8wd8k%2Frsp3dbt69B2Qwbo3cBeNBpTRE8qLzPYnzCWgcn8G7%2Fzg%3D%3D&filekey=9nbPxuOashb75OJrDxsJDWWs_DpRab7sZhDu9v75uyE%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",채널A
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",채널A
 http://23.237.112.130:9083/live/lmgr218-live1/5e/F8/5eF872HRwPbsKyyeCGBSQg==/live.livesegments.M3U8?sc_tk=%2FnSeOUZhHz5apzewhpLGxKMUDfm3nszhlMyPjkdKBO7RZROW3t0LlCBF79L47bC%2F9n6hFOxzdF78%2BiGOUDAnQg%3D%3D&filekey=v_cq6HM9shI-Zczl0T8xw_8v9XMC3V-mnuFcM6QJavw%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",OCN
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",OCN
 http://23.237.112.130:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.livesegments.M3U8?sc_tk=utWzY6F9uHfi3pnoGb4yGPLUqbcM4im0VqSC2GonOl7lj9X0eVz%2Fabe6u5%2BFJs9ukeVpgRfvn9t0iAWse8MyAw%3D%3D&filekey=d-DMMQcItEusCiv8mDdLazOn_d4PL_9-Av_NDEMYtMc%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",Catch on1
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",Catch on1
 http://213.152.172.73:9083/live/lmgr218-live1/Wj/Nz/WjNzluqgVARhAtul5gUKtg==/live.livesegments.M3U8?sc_tk=cnSEfRyYj6DKvqUHEcRCoLSwNKX87macpD4Vc0vI01IH3OghtNSf5YzLw8tV8rBDcwGEwCyGt3lAWW%2BIQ9u0DQ%3D%3D&filekey=waiqbGCxONFrHWAEV1heNS8DaljBCDSsVYLsiTvF0Sk%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",XTM
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",XTM
 http://23.237.112.146:9083/live/lmgr218-live1/HD/q5/HDq5azDoIaYdXACYwglAmQ==/live.livesegments.M3U8?sc_tk=Ze8XCjzvDYYdZmQw%2BkGnpk2pBe8DAeahDvXCwcwo05a8n8twwJjtdXZJMHt30tR9%2FnjeqcVkVGv77hhGdgUFHQ%3D%3D&filekey=Wvoe0IguUarJzYeWquJKykS5s55oXWLaRiJApo16BGg%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",Mnet
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",Mnet
 http://23.237.112.146:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.livesegments.M3U8?sc_tk=oMf14sqtOzOn9x%2B%2BJpN2jtdlqJLafybcSEQrajG7B7phr%2F4ixijYEBJf0VYu%2FE%2BUTYHHa5Ea4lF2T%2BBqFQg%2Bbw%3D%3D&filekey=W-XR5CwiEqPSf3NUFT4Bz31uO0a6XWO6n1sDxq8V7Gc%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",tvN
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",tvN
 http://23.237.112.146:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8?sc_tk=i8EofvOmFW9FtCVzzUTOGxrGLf%2FbWB1YQ2wuXcBt3v6HBC1jrvLh%2Frr57MGbLIH2%2BqbA6ivHRyPxHklyLgRhyg%3D%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",inet-TV
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",inet-TV
 http://213.152.172.73:9083/live/lmgr218-live1/iE/sB/iEsBUibpGCn1MvvofdT7Nw==/live.livesegments.M3U8?sc_tk=g4tsDk8wjPSoCEi0ctjH6Xi%2B2u2Hknkg9dMC5mKAPheYC0dPUPrm8OIDavApK%2BEbOZV8Bo2N616vDBFzxfFNUQ%3D%3D&filekey=63ltvECvg-vFGgbpMteRVSGSdkKW_aaawVsXR1KqZ5U%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",어린이1
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",어린이1
 http://23.237.112.130:9083/live/lmgr218-live1/iz/El/izElYP02-6dsroN6VHX4hw==/live.livesegments.M3U8?sc_tk=Y0P0nEM8AfBfkzVAco8GBS9QzPCXQdfrBP7poMcwBwTl%2FzJQUrOHskzI74%2FUavfEGA0OcllDujGydo3QqKRy6A%3D%3D&filekey=wc9w0wapuWXaIRfx2KagLUCz_ghhs0c6fHOaWPBAHv4%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",어린이2
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",어린이2
 http://23.237.112.146:9083/live/lmgr218-live1/Ha/1o/Ha1o5euijTdNK4klXmosJw==/live.livesegments.M3U8?sc_tk=AXWfxHW%2BtzDpJzeNSFUJ1s9%2BYDydCRCU2fj%2BbGDmE0YOKD98d%2Bf%2FckBqe3ck2frsB%2B%2BN5aH3aaW3j5b%2F6jKntA%3D%3D&filekey=wYu9GtYS9VGXalhsEa_ZrB8RYLyn8jJeunWsUBl3xGk%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",YTN
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",YTN
 http://213.152.172.73:9083/live/lmgr218-live1/Au/qU/AuqUH7aigh3Xbm1bX6Bmog==/live.livesegments.M3U8?sc_tk=xkxpNl%2BdsnCzzkKuIiv13pmVTIMufqyyaxmWiCQJXOXKtxkxuUJqxS6fEUciotY2oi2MjN2dnTrwJqTjkJ%2BNSg%3D%3D&filekey=fZFPnuil9wq4ZtfpkRefTaNpN33fHZ5Um4FLd40iz3A%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",SBS골프
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",SBS골프
 http://23.237.112.146:9083/live/lmgr218-live1/dp/Ua/dpUaDQ0LwGNqpgVGdLwsrg==/live.livesegments.M3U8?sc_tk=CBbxvaIwOfPPZqejJcm0jAInMymL4jYp0tLQI1sibb5fgvFP9bJBxPVkPy2ncISV7OAaMT3JWWAXiEXN8iYudA%3D%3D&filekey=V1GRHk294FryyLlT-uNGiyaJxn8CUi24NmSVetDUjfA%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",JTBC골프
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",JTBC골프
 http://23.237.112.130:9083/live/lmgr218-live1/uX/0j/uX0j1KJo8eVhWnTx6uvShw==/live.livesegments.M3U8?sc_tk=kyrD2%2BOJjPVcdyVP1l2pvoFNYp2UwALsk%2BIYbgoXg%2B4agI2elLqWyIx9nJg%2FXHnpoIZrSS3mfamjkj84GnY7Hw%3D%3D&filekey=TQyj-gJuBqQ4JUmdpWlsaD70iIGpSF-pzexV2j0-Bt4%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",KBSN스포츠
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",KBSN스포츠
 http://23.237.112.130:9083/live/lmgr218-live1/83/8Y/838YSQ4jnoxIH-66DQzbyQ==/live.livesegments.M3U8?sc_tk=12%2BMX3wu0nYPxMHtTbUQ%2BY85MKKXaS%2BLH31uOtS2SHPVNcLWkVvxfOy3eMeg5p1PTo3Djx0tOKAo0X9roWarBA%3D%3D&filekey=cA2IiuZFFZ0w5yaRv9qieMONnCE9D8P0atc3pLUdMac%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",MBC스포츠
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",MBC스포츠
 http://23.237.112.146:9083/live/lmgr218-live1/wk/r5/wkr5etV8ujBb_3-hODugiQ==/live.livesegments.M3U8?sc_tk=2cQmcvGKBG404hDgur9w0Amwq0vY0uDT74%2FRv%2FzruAToVYaxe0wM%2BczbpKu4nXljslhKHgWoaqRe7%2Fz8wegm9A%3D%3D&filekey=0FWF1Drak_Db2ecqK4xWIlMYgejGKMTISQ8WHdI_kqE%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",SBS스포츠
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",SBS스포츠
 http://213.152.172.73:9083/live/lmgr218-live1/Lm/Ej/LmEjIrVpnD_VD7nFdi5nxw==/live.livesegments.M3U8?sc_tk=2ppVim%2BsGL5ZczkFCs1vT%2FDf0W0lxJO1OotEzpNNO8QiyVfZx%2FM6NXbdEHvEKlhtH5zuaZnPDqtaaF0wlJjEOA%3D%3D&filekey=9lRJtT7B3gLrvQK_VxDAI0G-RKKvS_foBL_O5j980Zs%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",Sky스포츠
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",Sky스포츠
 http://23.237.112.146:9083/live/lmgr218-live1/pw/1F/pw1FPLw2DUDy38nHOf3Dhg==/live.livesegments.M3U8?sc_tk=TOU8pNlyE3EPWLvaBWQpQFjemoxFBKRq6fN%2FmfjsyF%2F8GpDmZ1ckML4A%2B3As2IRgp7NjwlCLnaMrQTAL08cW1Q%3D%3D&filekey=4D6aF4wParngd0-kKXN10vP3V6BGZ-8Z37hvipt3iSc%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",SPOTV
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",SPOTV
 http://213.152.172.73:9083/live/lmgr218-live1/bu/_u/bu_uTELt_sn03szwRat2vw==/live.livesegments.M3U8?sc_tk=xBv4uLvpq4ugniJoZjclQJPrLXaAgOF7m4Ec%2Fhr4yCNdCS8Vn8U%2BoLRqSLPSxf%2BrgLDtHgyNrCwPq5V4YmuriA%3D%3D&filekey=PnfZ2b81aHx9qBAiSEMh9v-e97Oti8EfEWJUEtuN8QM%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",Sky Travel
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",Sky Travel
 http://23.237.112.130:9083/live/lmgr218-live1/_-/8u/_-8uu1Tn5g4Op5N8ABcgyQ==/live.livesegments.M3U8?sc_tk=2BYLsHI9ZxRU1kYdDXfbSYgVeK5KkvbeFsf0oMPwp%2BWYby%2BHPTk%2Bdrp4xvU%2FUxrBK5jQC06Ri3h%2BcnUjCFo5IQ%3D%3D&filekey=s8uiYTIRKkvGhm-umvTNziX4u1lzzPeOU_g1MnuwIVY%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",Olive
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",Olive
 http://213.152.172.73:9083/live/lmgr218-live1/Cd/gO/CdgOWdzI-aQE0l49MoL4KQ==/live.livesegments.M3U8?sc_tk=8rDZ2PF6pO6Au5IjjVjN1d0Dl8ZMo65mlA2YqbiWv0Hyz5VfU3OdDkaH92i5ipujLFL3%2FSNBg3IdRDHgZM4R0Q%3D%3D&filekey=_mCWsY0pfuQGOa3Sn3tKWjML5IVIVs-oZda9ECK-KOg%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",GTV
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",GTV
 http://213.152.172.73:9083/live/lmgr218-live1/29/uo/29uo3Lmq0V32VsPqdfqyiw==/live.livesegments.M3U8?sc_tk=y15Ge1xpUf4lfEIwb1Mkxa8rzffrJVO9JilDaxi77qmRQfMsmxXAPtKQI9nn6BooXW%2BEDqpRxScAWBXIE292wQ%3D%3D&filekey=2j_XJH805wOKfJeJ8pvmjMkF9eCNg_4rEk8e0FhVXPc%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",ONSTYLE
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",ONSTYLE
 http://23.237.112.130:9083/live/lmgr218-live1/cB/4r/cB4r3_8LAovIbzuAg5NMSg==/live.livesegments.M3U8?sc_tk=S5fK34drNyXTflrn6%2F5FDS32cGUHfldQM0sQAArjrXYdYZjgmi%2B%2BEYvZJURMb6hXcIOffeycd2WWcMYhkA6abw%3D%3D&filekey=k5VcDJv3d444hfVo6pMB4QUQ0apRY8or3p5zPzbNSTk%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",FTV낙시
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",FTV낙시
 http://213.152.172.73:9083/live/lmgr218-live1/_s/Bw/_sBwNiIHsuLfupSIlTLgFg==/live.livesegments.M3U8?sc_tk=aS0yzNCZeJ7%2BvjGU8cAN1%2FG03gbTwmRF10nVBm78lcYqUgObviZ5A4XtPcYmMvqiA5cq0mmhudRJmd0mkVfH9A%3D%3D&filekey=EyXBFGbzGYtWejYTr9v5XHROrTYv_JHNJT-hV0vPm-c%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",바둑TV
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",바둑TV
 http://213.152.172.73:9083/live/lmgr218-live1/mv/Gv/mvGv7JULcGHu0GZ7BQ_CUQ==/live.livesegments.M3U8?sc_tk=34y%2Fl2KD02s%2BQzWuMadf94yww43wtE4udehVOtft1QA4pE%2BTe%2FEWPFEKOkj3bAtfXPlzXhFqg3SOQDUBenidgA%3D%3D&filekey=CujbDEfS373dkvQvDaE5joWXfphJxJGQ_tpdfpzW0co%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",채널차이나
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",채널차이나
 http://23.237.112.146:9083/live/lmgr218-live1/ut/hX/uthXNC6cyUNTT6dtUu9D6A==/live.livesegments.M3U8?sc_tk=Q1FGLafUiIcwvQTPKwCUiLMjTFm4wkHR8PoCX8AQmj4%2BuWlBPmj8qAm7PBA2gzj9aBKkfHLuTvBK9JFJZRWaVw%3D%3D&filekey=br2SjQ0X1RRvwQXpZMUqK5u6XMvy72Z4r5OIXfkgIac%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",HDWorld
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",HDWorld
 http://213.152.172.73:9083/live/lmgr218-live1/Wi/4i/Wi4i7iQI0kwBDqvCEoY-Yw==/live.livesegments.M3U8?sc_tk=jJLBTelUHBBcWeYwwNA7qsI8gvjvHxamKuA1US9IxKa5kfmu46mNZ7fYbNwUpmpRl1fn6qwODgxKuJ9ddqgv9Q%3D%3D&filekey=p_5uuutgIOJHp9qgaKLOHHijqfI3uBSj_EhXNGyQ7ok%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",NATIONALgeographic
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",NATIONALgeographic
 http://23.237.112.130:9083/live/lmgr218-live1/4r/9H/4r9HMyxxD9P4sIw1LDc89Q==/live.livesegments.M3U8?sc_tk=jNCQzkgyfXXDOPCutgBv1YiUj3Ba4a4%2FTN0%2Fbvyr0S6NVmBMx11VBjOsaVzAlU9Za0adTH9P%2BgM8AQHSdlDQvg%3D%3D&filekey=Qc7dDXupZBfxY6gkeb5090SATzhmV0fHe6dSfCI9uP0%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",BTN
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",BTN
 http://213.152.172.73:9083/live/lmgr218-live1/V6/ym/V6ymZnHq5AdroXYl0ELDtw==/live.livesegments.M3U8?sc_tk=g73yKo3IIU%2FN83nCNT%2FTztQJ07830mnD34mkXjG4fqWcBXpKL4lTs3nlf9upuThQyuc1TgGhe2n56hp70U4vSQ%3D%3D&filekey=aE57CNtpERiPfuDbMwUdKQxgCv-mUmr_8Mbpt2tSnck%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",평화방송
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",평화방송
 http://23.237.112.146:9083/live/lmgr218-live1/sJ/ke/sJkequ6jpcjajs2NtdZvbg==/live.livesegments.M3U8?sc_tk=6UdyFFwFz4qtIazmL3uzLbBnlqIJYIYyZ7i6eKIv64FKChW6LHlvkEnuytEya75r%2FuB3s97VTnMWxGl2RHqvWg%3D%3D&filekey=g_TD_EMA4ax-6DhHFYWnwRl1yCT4o576OSahiPhXQTM%3D
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A1",CGNTV
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="생" tvg-country="AF" tvg-url="" group-title="A",CGNTV
 http://213.152.172.73:9083/live/lmgr218-live1/Jv/Gl/JvGlwcypS-tAeyXE9Tx_5g==/live.livesegments.M3U8?sc_tk=4mv3A4V7UDLdofj6no%2B%2B%2BnEpLBJJ0jhZIZ2rOivxmJT3ev5Ch6R0VzD2tSftQcKQF1%2FVygy5rAZBzyu7SjGNsg%3D%3D&filekey=ydVEloStcTt8-Mp-__iEurYDFo-rXvzTpaJTah5K1Mg%3D
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕1
 https://605ziyuan.com/20180521/FkW2GYKK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕2
 https://605-zy.com/20180528/7bxFz97U/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕3
 https://605-zy.com/20180603/poP7KpL5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕4
 https://605ziyuan.com/20180618/MgnznWBK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕5
 https://605ziyuan.com/20180625/NgVzovQx/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕6
 https://cdn.605ziyuan.com/20180709/IklWhqlC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕7
 https://cdn.605ziyuan.com/20180716/uV9aGkLP/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕8
 https://cdn.605ziyuan.com/20180723/LjmDCKqG/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕9
 https://605ziyuan.com/20180730/dg31mE8E/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕10
 https://cdn.605ziyuan.com/20180812/Wc9smXAu/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕11
 https://cdn.605ziyuan.com/20180903/OhkTgxdF/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕13
 https://pp.605ziyuan.com/20180924/7SdPuuwv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕14
 https://605ziyuan.com/20181001/hlo9365G/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕15
 https://pp.605ziyuan.com/20181008/24NiTPbp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕16
 https://605ziyuan.com/20181015/SSuhQNhA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕17
 https://pp.605ziyuan.com/20181022/rDR5FkXM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕18
 https://www.605ziyuan.com/20181112/SVFWOfDl/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕19
 https://cdn.ziyuan605.com/20181125/7HfQeUHT/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕20
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕20
 https://cdn.ziyuan605.com/20181125/7HfQeUHT/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕21
 https://pp.605-zy.com/20181217/QfOqJNGH/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕22
 https://pp.605-zy.com/20181223/lv4u2T0P/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕23
 https://pp.605-zy.com/20181231/WgY7oHQ0/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕24
 https://pp.605-zy.com/20190106/S9tcasgV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕25
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕25
 https://pp.605-zy.com/20190114/5sWE2bRF/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕26
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕26
 https://pp.605-zy.com/20190121/77dHlW6w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕27
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕27
 https://www5.laqddc.com/hls/2019/02/10/cjhTVXUM/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕28
 https://www5.laqddc.com/hls/2019/02/18/KvXZo3Um/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕29
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕29
 https://www5.laqddc.com/hls/2019/02/24/093JAD22/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕30
 https://www5.laqddc.com/hls/2019/03/03/JR2DYOHc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕31
 https://www5.laqddc.com/hls/2019/03/10/jUPQby0I/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕32
 https://www.laqddc.com/hls/2019/03/17/cZ90UxPT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕33
 https://www.laqddc.com/hls/2019/03/24/jDNKBUlv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕34
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕34
 https://www3.laqddc.com/hls/2019/03/31/0IxEQl8U/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕35
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕35
 http://vip.qiandu.pw/20190407/ZubUYPpd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕36
 http://vip.qiandu.pw/20190415/oPR2VzBy/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕37
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕37
 http://vip.qiandu.pw/20190421/5O7p2tuA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕39
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕39
 http://vip.qiandu.pw/20190505/hisIVFO6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕40
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕40
 http://vip.qiandu.pw/20190512/8meqswOM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕41
 http://vip.qiandu.pw/20190520/afAZBWgb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕42
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕42
 http://vip.qiandu.pw/20190526/adlEDmoe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕43
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕43
 https://www6.laqddcc.com/hls/2019/06/02/0que6Bkd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕44
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕44
 https://www6.laqddcc.com/hls/2019/06/09/WcSTIulI/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕45
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕45
 https://www7.laqddcc.com/hls/2019/06/16/odrH423m/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕46
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕46
 https://www7.laqddcc.com/hls/2019/06/23/iofdopz1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕47
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕47
 http://vip.qiandu.pw/20190707/VO17265h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕48
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕48
 http://vip.qiandu.pw/20190714/qFu1FWU5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕49
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕49
 http://vip.qiandu.pw/20190721/vrwKpnnj/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕50
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕50
 http://vip.qiandu.pw/20190728/2Hho6bHZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕51
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕51
 http://vip.qiandu.pw/20190804/uviXTBY2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕52
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕52
 http://vip.qiandu.pw/20190811/X8MEe6xL/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕53
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕53
 http://vip.qiandu.pw/20190818/l1hZCVfu/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕54
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕54
 http://vip.qiandu.pw/20190825/Ww0Gu1l8/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕55
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕55
 http://vip.qiandu.pw/20190901/z5kNyy28/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕56
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕56
 http://vip.qiandu.pw/20190908/81m9QNTR/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕57
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕57
 http://vip.qiandu.pw/20190915/9K63QB4a/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕58
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕58
 http://vip.qiandu.pw/20190922/aJ84NdGb/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕59
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕59
 http://vip.qiandu.pw/20190929/EEVRsncA/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕60
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕60
 http://vip.qiandu.pw/20191006/Pulh7DFa/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕61
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕61
 http://vip.qiandu.pw/20191013/u5holcAn/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕62
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕62
 http://vip.qiandu.pw/20191020/ywKJ9O47/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕63
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕63
 https://www7.laqddcc.com/hls/2019/10/27/f254EB68/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕64
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕64
 http://vip2.qiandu.pw/20191103/pHrF8pk9/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕65
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕65
 http://vip.qiandu.pw/20191110/9PH9IuV2/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕66
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕66
 http://vip.qiandu.pw/20191117/afH3xQuL/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕67
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕67
 http://vip.qiandu.pw/20191124/YVaL26qX/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕68
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕68
 http://vip.qiandu.pw/20191201/7R91GIpg/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕69
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕69
 http://vip.qiandu.pw/20191208/jJzy1lnx/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕70
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕70
 http://vip.qiandu.pw/20191215/Raw9FYuU/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕71
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕71
 http://vip.gzyukanging.com/20191225/9IzTl3a0/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕72
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕72
 http://vip.gzyukanging.com/20191229/wHwyHMrX/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕73
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕73
 http://vip.qiandu.pw/20200105/Jc0sg8hq/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕74
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕74
 http://vip.qiandu.pw/20200112/c1oS3Gd7/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕75
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕75
 http://vip.qiandu.pw/20200119/j7TGIo0i/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕76
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕76
 http://vip.qiandu.pw/20200126/YMhZ88aa/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕77
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕77
 http://vip.qiandu.pw/20200202/Uwf5MeZg/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕78
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕78
 http://vip.qiandu.pw/20200209/7pYoxpZz/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕79
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕79
 http://vip.qiandu.pw/20200216/UlMEwtHP/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕80
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕80
 http://vip.qiandu.pw/20200223/FmFuH8Wi/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕81
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕81
 http://vip.qiandu.pw/20200301/iWuJ2YvY/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕82
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕82
 http://vip.qiandu.pw/20200308/iJb5ufve/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕83
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕83
 http://vip.qiandu.pw/20200315/kR5UdaKM/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕84
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕84
 http://222.186.46.166:2100/20200322/LurXMwgD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A",복면가왕85
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="복" tvg-country="AF" tvg-url="" group-title="A2",복면가왕85
 https://www5.laqddc.com/hls/2020/03/22/XJcLJB6k/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pashto" tvg-logo="가" tvg-country="AF" tvg-url="" group-title="B",가요무대1
 https://www5.laqddc.com/hls/2019/02/12/JDDLuGZH/playlist.m3u8
