@@ -20,6 +20,11 @@
 ||adscdn.baidu.com/
 ||als.baidu.com/dalog/log
 ||eclick.baidu.com/
+@@|http*$stylesheet
+||baidu.com^*/v.gif?
+||baidu.com^*/v.gif?
+||bdstatic.com^*/plugins/every_cookie_
+.com/v.gif?
 @@||eiv.baidu.com/fcimg
 baidu.com###content_right
 ||eiv.baidu.com/
