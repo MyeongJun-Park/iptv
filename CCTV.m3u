@@ -1,39 +1,35 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-4K
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 ,CCTV-1
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000210102.m3u8
+https://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,CCTV-2
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000203602.m3u8
+https://cctvcnch5ca.v.wscdns.com/live/cctv2_2/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,CCTV-3
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000203802.m3u8
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv3_2_hd.m3u8
 #EXTINF:-1 ,CCTV-4
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204802.m3u8
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv4_2_hd.m3u8
 #EXTINF:-1 ,CCTV-5
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000205102.m3u8
+https://cctv5txyh5ca.liveplay.myqcloud.com/live/cctv5_2_hd.m3u8
 #EXTINF:-1 ,CCTV-5+
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204502.m3u8
+https://cctv5cnch5ca.v.wscdns.com/live/cctv5plus_2/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,CCTV-6
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000203303.m3u8
+https://cctvksh5ca.v.kcdnvip.com/clive/cctv6_2/index.m3u8?BR=md&&region=shanghai
 #EXTINF:-1 ,CCTV-7
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000510002.m3u8
+https://cctvbsh5ca.v.live.baishancdnx.cn/live/cctv7_2_914.m3u8?contentid=2820180516001
 #EXTINF:-1 ,CCTV-8
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000203902.m3u8
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2_hd.m3u8
 #EXTINF:-1 ,CCTV-9
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000499402.m3u8
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvjilu_2_hd.m3u8
 #EXTINF:-1 ,CCTV-10
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000203502.m3u8
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2_hd.m3u8
 #EXTINF:-1 ,CCTV-11
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204102.m3u8
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv11_2_hd.m3u8
 #EXTINF:-1 ,CCTV-12
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000202602.m3u8
+https://cctvksh5ca.v.kcdnvip.com/clive/cctv12_2/index.m3u8?BR=md&&region=shanghai
 #EXTINF:-1 ,CCTV-13
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204602.m3u8
+https://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,CCTV-14
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204402.m3u8
+https://cctvcnch5ca.v.wscdns.com/live/cctvchild_2/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,CCTV-15
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000205002.m3u8
+https://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,CCTV17
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204202.m3u8
-#EXTINF:-1 ,CGTN
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2001656802.m3u8
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv17_2_hd.m3u8
