@@ -3,22 +3,21 @@
 https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1698233452&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTgyMzM0NTJ9fX1dfQ__&Signature=b9qSt5Q7mNMVVRm7dWUTKSbnlwYX8PU7nqs8dI5FTlGVXsNs~QcYVp82n2sZJg20fx2tLmZPe5TND5K--brFimN0wg7Adbui~qEYnghZWC8w2dE-5wpDymARUNmRdtJUX3E91RMUBKsbfj5ZNVEv8zVXSxv8QmHABuSlqArTgp2UJ3PVdUWQ7cuhWUF1w1DIURAMMqR5BkHbK6qdQiZYHkZv0A~AorohDu1i83cYmZz6sJ4aIIIyYP8a3uhpU9N3WFLkQf0vdQztKUmfxi~Pko1Iidb1XuOiTWklandI0Ee9QijsUigKy42RZ9mOUBK55THPks4D5~zefj10xJVdyg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 ,KBS2
 https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1698233143&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTgyMzMxNDN9fX1dfQ__&Signature=H7icwouZ5JeeBJxQM-20jwbq7eaPMWc8FyHCWcbNifw-OrotQf-vG3CJ4hLGstCdaiIWJgL8B6gxt5xy88fhbU4Vsa-pzQmG7nnlktVunheogZKUlDOk5TH1pHDzz-App3H26Je~OxFgl50zlwKAG3vjFYDq90E~po9e2WaEJJ1WnJPmZva7TQY2ptTJEBZA-Kvv3s4A8D1bhB4vtoo0HQN75nI40NP8NPpzDB9x-d51Ifiofjh8WX6F~~JcYhycf8bdSBezaIf4IIUHu~r6sOJ45zM3s064zwECzxT2Oz5DDBKhVKSDRcxUMK3gbrMV9v4OVrDAxwC-8ESQ2QqhYA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 ,MBC
-http://213.152.172.73:9083/live/lmgr218-live1/yo/Kz/yoKzy5jIzhPSc34OXb26Hg==/live.livesegments.M3U8?sc_tk=%2BFjnk4JVqtrPnfETk6pfFxZTIAUoWMqhLm0M6iSIE5zVS2rObvn2bsX%2F%2FmhRrOP%2FLEQo65aaLLIvFYKpNmlTZA%3D%3D&filekey=AQ1D-fFpKPgeO2Z3tIm5qIhmrNjM553YPwTBypqhJBo%3D
-#EXTINF:-1 ,SBS
-http://23.237.112.130:9083/live/lmgr218-live1/an/Ec/anEch5GmlJzMh-jcs1OTow==/live.livesegments.M3U8?sc_tk=5tPW%2BFfwezCLGr6i2hAytEIFz3TtOUiyJnhoimSrlctjD2ZHoid7kP07HG1Gq6nIm0a9mbGX55%2B%2BnBOZH9OGNQ%3D%3D&filekey=dFtibJcPFBYYvoAsrIAfZ1i_6T6Y3CakkfT6wDALo_M%3D
-#EXTINF:-1 ,EBS
-http://213.152.172.73:9083/live/lmgr218-live1/Y7/kd/Y7kdN2a2F8joMgdxPBzaAQ==/live.livesegments.M3U8?sc_tk=WlyuyuHAZ0FFtYmpPjZKoBUGBfKOLMMusJWD4yoH0HR6hZhNUkDOfLLQZBIk5iwQnYLjzrsjy7aDgOFNObQRPQ%3D%3D&filekey=ld_PegsIigocu-j21iNzLHM9TKl-hIeo5Tia_95_m_4%3D
-#EXTINF:-1 ,JTBC
-http://213.152.172.73:9083/live/lmgr218-live1/1k/C9/1kC9miPHbLuH_Xohzycp8g==/live.livesegments.M3U8?sc_tk=e70wt9oPrmVZfQ4Q7DPYTaAAUL4Bg%2FP9KyErzL0H1VytOfmCy8Tpq2Sw3EZtUH%2BHJ5P8R6G3Ovmxts3R7LuXUw%3D%3D&filekey=XrYVT12hk08UraTA2XEYuQbfzGLYJtvQ1QnCNwgVJck%3D
+#EXTINF:-1 ,대구MBC
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/Public_6_207D229C.m3u8
+#EXTINF:-1 ,여수MBC
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/Public_5_482BF5F6.m3u8
+#EXTINF:-1 ,TBC
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/Public_8.m3u8
+#EXTINF:-1 ,MBN
+https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5ODI0MDU1M30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=neFHwDCngAupNYetQ9w2go4G8Rv5gHWG7gVbGoQAVK2eDMsaFY9o4sZjxsQXG0W8169N-KQOv0cmmvJELCHTKcMW~ikhhvRJ2TWr4O0eB5fwlNH1J-IJtyG5weG~Fq9L6Ota1EQsu6DUEkWlnsbvFU6qT6Y8es0~Iz-52lPj7is_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 #EXTINF:-1 ,TV조선
-http://23.237.112.146:9083/live/lmgr218-live1/uN/RW/uNRWY94bN9uq-H4U6-AdGA==/live.livesegments.M3U8?sc_tk=dbBcOfVEUXAp84aFIl2i6pbWmGXvdcEWmAVWRVh6QWJKHTbI985tbMqJWHGxUy0uXUdAqK45MBvNyBK3c5oleg%3D%3D&filekey=MGypCBfO3W4T_G6ZvuWHzSUV3cJy4wdX0lyzH_PtH10%3D
+https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/chunklist.m3u8
 #EXTINF:-1 ,MBN
 http://23.237.112.130:9083/live/lmgr218-live1/j7/qy/j7qybKo1-oIO_R2EKcmcIA==/live.livesegments.M3U8?sc_tk=kXxx%2BLrqe4oedARFGL%2FuYsbXSRkPPEPuw8pTbZn7XpMjtU%2FqTP1%2FtyifJIW5LadSTFUwcgjlo4AveWtAL5py5g%3D%3D&filekey=_Eb8Qh6NLGz_xhpiVNt7n6OpVGJO5pvqS1w4qlGUTsE%3D
-#EXTINF:-1 ,채널A
-http://23.237.112.130:9083/live/lmgr218-live1/5e/F8/5eF872HRwPbsKyyeCGBSQg==/live.livesegments.M3U8?sc_tk=JAqr%2FeKITfwExJM3cbT0QhyGzm3s2C%2F7ntSc1OOAnXsm0Qw6Ek%2FGRNZJyc2xIsGpYrmanFCqxwmfNPJCmIHTXQ%3D%3D&filekey=i-nzm0N-3nck3CSq0MaH6UshAvr--sbPwtFZiVDkYmc%3D
-#EXTINF:-1 ,OCN
-http://23.237.112.130:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.livesegments.M3U8?sc_tk=jtoSojDC5tz697jpKGN9rKoh7b6Upq672xLmTBgNvrH9C5HFema%2B%2BB3%2BdS8b9bVh6EJKohF1P4sk0Dagvnmprg%3D%3D&filekey=-tXrxjClfQKeVtaIt9ZsVZMOJltExlL3LHccxaK0LtM%3D
+#EXTINF:-1 ,KBS뉴스
+https://livecloud.pstatic.net/navertv/lip2_kr/cnmss0140/UiOA18Ees6JdFEKxg29fqBv3Z1O0RZ2KPeFMA2oC4Kl5MctwUNN68kGqxfGsknGAmenVvNuKv2hcag/playlist.m3u8?hdnts=st=1698154185~exp=1698186595~acl=*/UiOA18Ees6JdFEKxg29fqBv3Z1O0RZ2KPeFMA2oC4Kl5MctwUNN68kGqxfGsknGAmenVvNuKv2hcag/*~hmac=852ac5e3cfce615161acf477dc0426f5ef873970dfbd3ddb62cd148803324e86
+#EXTINF:-1 ,KBS드라마https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-01/kbsndrama-01_sd.m3u8?Expires=1698327000&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMS9rYnNuZHJhbWEtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5ODMyNzAwMH19fV19&Signature=NX2c5Xw8W4yKCMZOihv~TAUzfpwpYo4N8U3L3n~5Xac2RJp0vb1p--GJ3qFxKBg6FENZe52j-xtwC-JaaCZu0fGeXNsBJQ1lHcLG8izLIuDOnZZ1sY4tB8YxKbm-e9-yLn2YfPpkav8Hjb3~Wtr4SDmUBGMCoTYTFNEH5orBgxnV58tzGGbTxGxvOxazJ4quXknGtOe4TwZkxQFOvwmzhfJRf8fOXLm3wdhtYDyckWqtbTg2Yd0u2-B1OyWm10n18zcXfbgO9mh-np4jdbIrMoe6xZfb-Zj0ZZwljnVm~XkU8LEpPBECnPnEyDKuTXOl4fd-eX85PigxhYq7RFvKPg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 ,Catch on1
 http://213.152.172.73:9083/live/lmgr218-live1/Wj/Nz/WjNzluqgVARhAtul5gUKtg==/live.livesegments.M3U8?sc_tk=AjICxXQ%2ByiRWbw59QVdK9f%2FHE%2BApUKo7gdsQGO1s11lYbTi5DFqWP1Kf41BLlN8eVkC16xzqb12jaGNyUGMm7Q%3D%3D&filekey=JT0i7Qq3Aziqb9_0W0pKlsu4nJDM4uFLs9xJzqQfhEI%3D
 #EXTINF:-1 ,XTM
