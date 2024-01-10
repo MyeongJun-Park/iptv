@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="•韩国",연합뉴스
-https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="•韩国",MTN
 http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
 #EXTINF:-1 group-title="•韩国",Job Plus TV
@@ -11,6 +9,8 @@ http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/
 https://tv.iill.top/kbs/11&p=0
 #EXTINF:-1 group-title="•韩国",KBS 2
 https://tv.iill.top/kbs/12&p=0
+#EXTINF:-1 group-title="•韩国",KBS뉴스
+http://www.hwado.net/webtv/catv/1.php
 #EXTINF:-1 group-title="•韩国",BBS 불교 방송
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="•韩国",CJ OnStyle
@@ -69,3 +69,19 @@ http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="•韩国",국방国防TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 group-title="•韩国",연합뉴스
+https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="•韩国",티비조선
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_213_B633C402.m3u8
+#EXTINF:-1 group-title="•韩国",SBS
+http://www.hwado.net/webtv/public/31_0B41417D.php
+#EXTINF:-1 group-title="•韩国",MBN
+http://www.hwado.net/webtv/catv/54.php
+#EXTINF:-1 group-title="•韩国",MBC
+http://www.hwado.net/webtv/public/21_573058EB.php
+#EXTINF:-1 group-title="•韩国",MBC드라마
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
+#EXTINF:-1 group-title="•韩国",YTN
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
+#EXTINF:-1 group-title="•韩国",FTV
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
