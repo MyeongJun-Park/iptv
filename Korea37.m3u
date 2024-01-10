@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="•韩国",연합뉴스
+https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="•韩国",MTN
 http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
 #EXTINF:-1 group-title="•韩国",Job Plus TV
