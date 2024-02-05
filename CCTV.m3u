@@ -111,6 +111,8 @@ http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8
 http://220.194.178.58:8888/newlive/live/hls/56/live.m3u8
 #EXTINF:-1 group-title="",卡酷少儿
 http://220.194.178.58:8888/newlive/live/hls/57/live.m3u8
+#EXTINF:-1 group-title="",翡翠台《不稳定》
+https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="•한국",MTN
