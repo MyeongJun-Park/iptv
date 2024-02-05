@@ -113,11 +113,6 @@ http://220.194.178.58:8888/newlive/live/hls/56/live.m3u8
 http://220.194.178.58:8888/newlive/live/hls/57/live.m3u8
 #EXTINF:-1 group-title="港澳台",翡翠台《不稳定》
 https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",翡翠台《不稳定》
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",翡翠台《不稳定》
-http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-
 
 
 #EXTINF:-1 group-title="한국",MTN
