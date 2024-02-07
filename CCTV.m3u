@@ -113,6 +113,10 @@ http://220.194.178.58:8888/newlive/live/hls/56/live.m3u8
 http://220.194.178.58:8888/newlive/live/hls/57/live.m3u8
 #EXTINF:-1 group-title="港澳台",翡翠台《不稳定》
 https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="广东",广东卫视高清
 http://113.65.188.190:54321/udp/239.77.1.19:5146
