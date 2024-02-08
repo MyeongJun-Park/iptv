@@ -118,6 +118,31 @@ https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
+
+#EXTINF:-1 group-title="国际",凤凰资讯高清
+http://110.72.87.140:808/hls/1/index.m3u8
+#EXTINF:-1 group-title="国际",凤凰卫视
+http://110.72.87.140:808/hls/62/index.m3u8
+#EXTINF:-1 group-title="国际",凤凰资讯
+http://110.72.87.140:808/hls/63/index.m3u8
+#EXTINF:-1 group-title="国际",香港音乐
+http://110.72.87.140:808/hls/64/index.m3u8
+#EXTINF:-1 group-title="国际",CCTV-娱乐
+http://110.72.87.140:808/hls/66/index.m3u8
+#EXTINF:-1 group-title="国际",凤凰中文HD
+http://110.72.87.140:808/hls/83/index.m3u8
+#EXTINF:-1 group-title="国际",香港卫视HD
+http://110.72.87.140:808/hls/333/index.m3u8
+#EXTINF:-1 group-title="国际",海峡卫视
+http://110.72.87.140:808/hls/72/index.m3u8
+#EXTINF:-1 group-title="国际",北京国际
+http://110.72.87.140:808/hls/68/index.m3u8
+#EXTINF:-1 group-title="国际",东方海外
+http://110.72.87.140:808/hls/69/index.m3u8
+#EXTINF:-1 group-title="国际",星空卫视
+http://110.72.87.140:808/hls/60/index.m3u8
+
+
 #EXTINF:-1 group-title="广东",广东卫视高清
 http://113.65.188.190:54321/udp/239.77.1.19:5146
 #EXTINF:-1 group-title="广东",广东卫视高清
