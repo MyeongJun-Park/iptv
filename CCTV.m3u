@@ -907,6 +907,28 @@ http://123.118.53.89:9901/tsfile/live/1010_1.m3u8
 http://123.118.53.89:9901/tsfile/live/1011_1.m3u8
 
 
+#EXTINF:-1 group-title="内蒙古",包头新闻综合频道
+http://1.24.190.98:10088/hls/23/index.m3u8
+#EXTINF:-1 group-title="内蒙古",包头生活服务频道
+http://1.24.190.98:10088/hls/24/index.m3u8
+#EXTINF:-1 group-title="内蒙古",内蒙古卫视
+http://1.24.190.98:10088/hls/31/index.m3u8
+#EXTINF:-1 group-title="内蒙古",内蒙古新闻综合
+http://1.24.190.98:10088/hls/32/index.m3u8
+#EXTINF:-1 group-title="内蒙古",内蒙古文体娱乐
+http://1.24.190.98:10088/hls/33/index.m3u8
+#EXTINF:-1 group-title="内蒙古",内蒙古经济生活
+http://1.24.190.98:10088/hls/34/index.m3u8
+#EXTINF:-1 group-title="内蒙古",内蒙古农牧频道
+http://1.24.190.98:10088/hls/35/index.m3u8
+#EXTINF:-1 group-title="内蒙古",内蒙古少儿频道
+http://1.24.190.98:10088/hls/36/index.m3u8
+#EXTINF:-1 group-title="内蒙古",内蒙古蒙语频道
+http://1.24.190.98:10088/hls/39/index.m3u8
+#EXTINF:-1 group-title="内蒙古",内蒙古蒙语频道II
+http://1.24.190.98:10088/hls/40/index.m3u8
+
+
 #EXTINF:-1 group-title="四川源",CCTV-1高清
 http://125.71.44.91:4000/udp/239.93.0.184:5140
 #EXTINF:-1 group-title="四川源",CCTV-2高清
