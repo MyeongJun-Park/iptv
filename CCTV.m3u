@@ -1253,30 +1253,16 @@ http://123.52.43.144:8888/tsfile/live/1003_1.m3u8
 http://123.52.43.144:8888/tsfile/live/1004_1.m3u8
 
 
-#EXTINF:-1 group-title="港澳台",翡翠台
-http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-#EXTINF:-1 group-title="港澳台",翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",翡翠台
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-#EXTINF:-1 group-title="港澳台",翡翠台
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187tvb
+
+
 #EXTINF:-1 group-title="港澳台",翡翠台) (粤语字幕) (720p)
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-#EXTINF:-1 group-title="港澳台",翡翠台
-https://epg.pw/stream/262189ae99c1e06cd28c91958a372159ce25150e10daf805237dbcbe72f95e9d.m3u8
+
 #EXTINF:-1 group-title="港澳台",翡翠台
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
 #EXTINF:-1 group-title="港澳台",翡翠台
 https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
-#EXTINF:-1 group-title="港澳台",翡翠台
-https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
-#EXTINF:-1 group-title="港澳台",翡翠台
-https://epg.pw/stream/d8c93b48b91c1ebf0dba342a788c771416122535649aa71f70dced7b8917817f.m3u8
-#EXTINF:-1 group-title="港澳台",翡翠台
-https://epg.pw/stream/d060c5d1cc0bf154a0b238e05247a360582c95d53a959d4a85e46c4ea2f117b1.m3u8
+
 
 
 #EXTINF:-1 group-title="한국",MTN
