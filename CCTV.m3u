@@ -1150,6 +1150,133 @@ http://182.150.169.173:4022/udp/239.93.1.96:5140
 #EXTINF:-1, group-title="其他频道", 爱上4K 17M2160
 http://182.150.169.173:4022/udp/239.93.1.113:5140
 
+#EXTM3U
+#EXTINF:-1 group-title="50频道",CCTV1-综合
+http://123.52.43.144:8888/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="50频道",CCTV2-财经
+http://123.52.43.144:8888/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="50频道",CCTV3-综艺
+http://123.52.43.144:8888/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="50频道",CCTV4-国际
+http://123.52.43.144:8888/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="50频道",CCTV5-体育
+http://123.52.43.144:8888/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="50频道",CCTV6-电影
+http://123.52.43.144:8888/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="50频道",CCTV7-军农
+http://123.52.43.144:8888/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="50频道",CCTV8-电视剧
+http://123.52.43.144:8888/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="50频道",CCTV9-纪录
+http://123.52.43.144:8888/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="50频道",CCTV10-科教
+http://123.52.43.144:8888/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="50频道",CCTV11-戏曲
+http://123.52.43.144:8888/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="50频道",CCTV12-社会与法
+http://123.52.43.144:8888/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="50频道",CCTV13-新闻
+http://123.52.43.144:8888/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="50频道",CCTV14-少儿
+http://123.52.43.144:8888/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="50频道",湖南卫视
+http://123.52.43.144:8888/tsfile/live/0128_1.m3u8
+#EXTINF:-1 group-title="50频道",河南卫视
+http://123.52.43.144:8888/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="50频道",都市频道
+http://123.52.43.144:8888/tsfile/live/0017_1.m3u8
+#EXTINF:-1 group-title="50频道",民生频道
+http://123.52.43.144:8888/tsfile/live/0018_1.m3u8
+#EXTINF:-1 group-title="50频道",法制频道
+http://123.52.43.144:8888/tsfile/live/0019_1.m3u8
+#EXTINF:-1 group-title="50频道",公共频道
+http://123.52.43.144:8888/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="50频道",浙江卫视
+http://123.52.43.144:8888/tsfile/live/0124_1.m3u8
+#EXTINF:-1 group-title="50频道",东方卫视
+http://123.52.43.144:8888/tsfile/live/0107_1.m3u8
+#EXTINF:-1 group-title="50频道",江苏卫视
+http://123.52.43.144:8888/tsfile/live/0127_1.m3u8
+#EXTINF:-1 group-title="50频道",北京卫视
+http://123.52.43.144:8888/tsfile/live/0122_1.m3u8
+#EXTINF:-1 group-title="50频道",广东卫视
+http://123.52.43.144:8888/tsfile/live/0125_1.m3u8
+#EXTINF:-1 group-title="50频道",黑龙江卫视
+http://123.52.43.144:8888/tsfile/live/0143_1.m3u8
+#EXTINF:-1 group-title="50频道",山东卫视
+http://123.52.43.144:8888/tsfile/live/0131_1.m3u8
+#EXTINF:-1 group-title="50频道",安徽卫视
+http://123.52.43.144:8888/tsfile/live/0130_1.m3u8
+#EXTINF:-1 group-title="50频道",辽宁卫视
+http://123.52.43.144:8888/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="50频道",陕西卫视
+http://123.52.43.144:8888/tsfile/live/0136_1.m3u8
+#EXTINF:-1 group-title="50频道",贵州卫视
+http://123.52.43.144:8888/tsfile/live/0120_1.m3u8
+#EXTINF:-1 group-title="50频道",河北卫视
+http://123.52.43.144:8888/tsfile/live/0117_1.m3u8
+#EXTINF:-1 group-title="50频道",江西卫视
+http://123.52.43.144:8888/tsfile/live/0138_1.m3u8
+#EXTINF:-1 group-title="50频道",深圳卫视
+http://123.52.43.144:8888/tsfile/live/0139_1.m3u8
+#EXTINF:-1 group-title="50频道",湖北卫视
+http://123.52.43.144:8888/tsfile/live/0140_1.m3u8
+#EXTINF:-1 group-title="50频道",天津卫视
+http://123.52.43.144:8888/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="50频道",云南卫视
+http://123.52.43.144:8888/tsfile/live/0142_1.m3u8
+#EXTINF:-1 group-title="50频道",重庆卫视
+http://123.52.43.144:8888/tsfile/live/0142_2.m3u8
+#EXTINF:-1 group-title="50频道",吉林卫视
+http://123.52.43.144:8888/tsfile/live/0116_1.m3u8
+#EXTINF:-1 group-title="50频道",宁夏卫视
+http://123.52.43.144:8888/tsfile/live/0112_1.m3u8
+#EXTINF:-1 group-title="50频道",东南卫视
+http://123.52.43.144:8888/tsfile/live/0137_1.m3u8
+#EXTINF:-1 group-title="50频道",内蒙古卫视
+http://123.52.43.144:8888/tsfile/live/0109_1.m3u8
+#EXTINF:-1 group-title="50频道",广西卫视
+http://123.52.43.144:8888/tsfile/live/0113_1.m3u8
+#EXTINF:-1 group-title="50频道",山西卫视
+http://123.52.43.144:8888/tsfile/live/0118_1.m3u8
+#EXTINF:-1 group-title="50频道",海南卫视
+http://123.52.43.144:8888/tsfile/live/0150_1.m3u8
+#EXTINF:-1 group-title="50频道",甘肃卫视
+http://123.52.43.144:8888/tsfile/live/0141_2.m3u8
+#EXTINF:-1 group-title="50频道",金鹰卡通
+http://123.52.43.144:8888/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="50频道",嘉佳卡通
+http://123.52.43.144:8888/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="50频道",卡酷动画
+http://123.52.43.144:8888/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="50频道",炫动卡通
+http://123.52.43.144:8888/tsfile/live/1004_1.m3u8
+
+
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187tvb
+#EXTINF:-1 group-title="港澳台",翡翠台) (粤语字幕) (720p)
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1 group-title="港澳台",翡翠台
+https://epg.pw/stream/262189ae99c1e06cd28c91958a372159ce25150e10daf805237dbcbe72f95e9d.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
+#EXTINF:-1 group-title="港澳台",翡翠台
+https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台
+https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台
+https://epg.pw/stream/d8c93b48b91c1ebf0dba342a788c771416122535649aa71f70dced7b8917817f.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台
+https://epg.pw/stream/d060c5d1cc0bf154a0b238e05247a360582c95d53a959d4a85e46c4ea2f117b1.m3u8
 
 
 #EXTINF:-1 group-title="한국",MTN
