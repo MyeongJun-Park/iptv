@@ -1,40 +1,116 @@
 #EXTM3U
-#EXTINF:-1, group-title="中央频道", CCTV-1
+#EXTINF:-1 group-title="央视卫视",CCTV1
 http://220.194.178.58:8888/newlive/live/hls/2/live.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-2
+#EXTINF:-1 group-title="央视卫视",CCTV2
 http://220.194.178.58:8888/newlive/live/hls/3/live.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-3
+#EXTINF:-1 group-title="央视卫视",CCTV3
 http://220.194.178.58:8888/newlive/live/hls/4/live.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-4
+#EXTINF:-1 group-title="央视卫视",CCTV4
 http://220.194.178.58:8888/newlive/live/hls/5/live.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-5
+#EXTINF:-1 group-title="央视卫视",CCTV5
 http://220.194.178.58:8888/newlive/live/hls/6/live.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-6
-http://220.194.178.58:8888/newlive/live/hls/8/live.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-7
-http://220.194.178.58:8888/newlive/live/hls/9/live.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-8
-http://220.194.178.58:8888/newlive/live/hls/10/live.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-9
-http://220.194.178.58:8888/newlive/live/hls/11/live.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-10
-http://220.194.178.58:8888/newlive/live/hls/12/live.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-11
-http://220.194.178.58:8888/newlive/live/hls/13/live.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-12
-http://220.194.178.58:8888/newlive/live/hls/14/live.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-13
-http://220.194.178.58:8888/newlive/live/hls/15/live.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-14
-http://220.194.178.58:8888/newlive/live/hls/16/live.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-15
-http://220.194.178.58:8888/newlive/live/hls/17/live.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-16
-http://220.194.178.58:8888/newlive/live/hls/18/live.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-17
-http://222.189.177.159:8111/rtp/239.49.1.7:6000
-#EXTINF:-1, group-title="中央频道", CCTV-5+
+#EXTINF:-1 group-title="央视卫视",CCTV5+
 http://220.194.178.58:8888/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV6
+http://220.194.178.58:8888/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV7
+http://220.194.178.58:8888/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV8
+http://220.194.178.58:8888/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV9
+http://220.194.178.58:8888/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV10
+http://220.194.178.58:8888/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV11
+http://220.194.178.58:8888/newlive/live/hls/13/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV12
+http://220.194.178.58:8888/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV13
+http://220.194.178.58:8888/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV14
+http://220.194.178.58:8888/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV15
+http://220.194.178.58:8888/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV16
+http://220.194.178.58:8888/newlive/live/hls/18/live.m3u8
+#EXTINF:-1 group-title="央视卫视",北京卫视
+http://220.194.178.58:8888/newlive/live/hls/19/live.m3u8
+#EXTINF:-1 group-title="央视卫视",东方卫视
+http://220.194.178.58:8888/newlive/live/hls/20/live.m3u8
+#EXTINF:-1 group-title="央视卫视",广东卫视
+http://220.194.178.58:8888/newlive/live/hls/21/live.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏卫视
+http://220.194.178.58:8888/newlive/live/hls/22/live.m3u8
+#EXTINF:-1 group-title="央视卫视",湖南卫视
+http://220.194.178.58:8888/newlive/live/hls/23/live.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江卫视
+http://220.194.178.58:8888/newlive/live/hls/24/live.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽卫视
+http://220.194.178.58:8888/newlive/live/hls/25/live.m3u8
+#EXTINF:-1 group-title="央视卫视",广西卫视
+http://220.194.178.58:8888/newlive/live/hls/26/live.m3u8
+#EXTINF:-1 group-title="央视卫视",云南卫视
+http://220.194.178.58:8888/newlive/live/hls/27/live.m3u8
+#EXTINF:-1 group-title="央视卫视",深圳卫视
+http://220.194.178.58:8888/newlive/live/hls/28/live.m3u8
+#EXTINF:-1 group-title="央视卫视",贵州卫视
+http://220.194.178.58:8888/newlive/live/hls/29/live.m3u8
+#EXTINF:-1 group-title="央视卫视",山东卫视
+http://220.194.178.58:8888/newlive/live/hls/30/live.m3u8
+#EXTINF:-1 group-title="央视卫视",重庆卫视
+http://220.194.178.58:8888/newlive/live/hls/31/live.m3u8
+#EXTINF:-1 group-title="央视卫视",四川卫视
+http://220.194.178.58:8888/newlive/live/hls/32/live.m3u8
+#EXTINF:-1 group-title="央视卫视",河南卫视
+http://220.194.178.58:8888/newlive/live/hls/33/live.m3u8
+#EXTINF:-1 group-title="央视卫视",湖北卫视
+http://220.194.178.58:8888/newlive/live/hls/34/live.m3u8
+#EXTINF:-1 group-title="央视卫视",吉林卫视
+http://220.194.178.58:8888/newlive/live/hls/35/live.m3u8
+#EXTINF:-1 group-title="央视卫视",甘肃卫视
+http://220.194.178.58:8888/newlive/live/hls/36/live.m3u8
+#EXTINF:-1 group-title="央视卫视",西藏卫视
+http://220.194.178.58:8888/newlive/live/hls/37/live.m3u8
+#EXTINF:-1 group-title="央视卫视",新疆卫视
+http://220.194.178.58:8888/newlive/live/hls/38/live.m3u8
+#EXTINF:-1 group-title="央视卫视",青海卫视
+http://220.194.178.58:8888/newlive/live/hls/39/live.m3u8
+#EXTINF:-1 group-title="央视卫视",宁夏卫视
+http://220.194.178.58:8888/newlive/live/hls/40/live.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西卫视
+http://220.194.178.58:8888/newlive/live/hls/41/live.m3u8
+#EXTINF:-1 group-title="央视卫视",山西卫视
+http://220.194.178.58:8888/newlive/live/hls/42/live.m3u8
+#EXTINF:-1 group-title="央视卫视",辽宁卫视
+http://220.194.178.58:8888/newlive/live/hls/43/live.m3u8
+#EXTINF:-1 group-title="央视卫视",天津卫视
+http://220.194.178.58:8888/newlive/live/hls/44/live.m3u8
+#EXTINF:-1 group-title="央视卫视",河北卫视
+http://220.194.178.58:8888/newlive/live/hls/45/live.m3u8
+#EXTINF:-1 group-title="央视卫视",黑龙江卫视
+http://220.194.178.58:8888/newlive/live/hls/46/live.m3u8
+#EXTINF:-1 group-title="央视卫视",东南卫视
+http://220.194.178.58:8888/newlive/live/hls/47/live.m3u8
+#EXTINF:-1 group-title="央视卫视",江西卫视
+http://220.194.178.58:8888/newlive/live/hls/48/live.m3u8
+#EXTINF:-1 group-title="央视卫视",吉林卫视
+http://220.194.178.58:8888/newlive/live/hls/49/live.m3u8
+#EXTINF:-1 group-title="央视卫视",海南卫视
+http://220.194.178.58:8888/newlive/live/hls/50/live.m3u8
+#EXTINF:-1 group-title="央视卫视",黄河电视台
+http://220.194.178.58:8888/newlive/live/hls/51/live.m3u8
+#EXTINF:-1 group-title="央视卫视",山西经济
+http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8
+#EXTINF:-1 group-title="央视卫视",山西影视
+http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8
+#EXTINF:-1 group-title="央视卫视",山西法治
+http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8
+#EXTINF:-1 group-title="央视卫视",山西文体
+http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8
+#EXTINF:-1 group-title="央视卫视",金鹰卡通
+http://220.194.178.58:8888/newlive/live/hls/56/live.m3u8
+#EXTINF:-1 group-title="央视卫视",卡酷少儿
+http://220.194.178.58:8888/newlive/live/hls/57/live.m3u8
 #EXTINF:-1, group-title="地方频道", 上海纪实
 http://118.79.113.152:6000/rtp/226.0.2.193:9456
 #EXTINF:-1, group-title="地方频道", 云南卫视
