@@ -111,12 +111,6 @@ http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8
 http://220.194.178.58:8888/newlive/live/hls/56/live.m3u8
 #EXTINF:-1 group-title="少儿",卡酷少儿
 http://220.194.178.58:8888/newlive/live/hls/57/live.m3u8
-#EXTINF:-1 group-title="港澳台",翡翠台《不稳定》
-https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 group-title="国际",凤凰资讯高清
 http://110.72.87.140:808/hls/1/index.m3u8
 #EXTINF:-1 group-title="国际",凤凰卫视
