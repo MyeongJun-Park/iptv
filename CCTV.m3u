@@ -1895,6 +1895,232 @@ http://119.131.240.137:8000/udp/239.77.1.104:5146
 
 
 
+#EXTINF:-1 group-title="广西玉林111",CCTV1-综合 高清
+http://116.11.156.83:8181/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV2-财经 高清
+http://116.11.156.83:8181/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV3-综艺 高清
+http://116.11.156.83:8181/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV4-国际 高清
+http://116.11.156.83:8181/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV5-体育 高清
+http://116.11.156.83:8181/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV6-电影 高清
+http://116.11.156.83:8181/tsfile/live/faacts/0006_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV7-军农 高清
+http://116.11.156.83:8181/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV8-电视剧 高清
+http://116.11.156.83:8181/tsfile/live/faacts/0008_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV9-纪录 高清
+http://116.11.156.83:8181/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV10-科教 高清
+http://116.11.156.83:8181/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV11-戏曲 高清
+http://116.11.156.83:8181/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV12-社会与法 高清
+http://116.11.156.83:8181/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV13-新闻 高清
+http://116.11.156.83:8181/tsfile/live/1052_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV14-少儿 高清
+http://116.11.156.83:8181/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV15-音乐 高清
+http://116.11.156.83:8181/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV-16 高清
+http://116.11.156.83:8181/tsfile/live/1014_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV-17 高清
+http://116.11.156.83:8181/tsfile/live/1041_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",CCTV5+ 高清
+http://116.11.156.83:8181/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",爱上4K电影
+http://116.11.156.83:8181/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",家庭影院 高清
+http://116.11.156.83:8181/tsfile/live/1015_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",动作电影 高清
+http://116.11.156.83:8181/tsfile/live/1016_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",高清电影
+http://116.11.156.83:8181/tsfile/live/1017_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",中国教育一套 高清
+http://116.11.156.83:8181/tsfile/live/1059_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",湖南卫视 高清
+http://116.11.156.83:8181/tsfile/live/1049_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",金鹰纪实 高清
+http://116.11.156.83:8181/tsfile/live/1047_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",深圳卫视 高清
+http://116.11.156.83:8181/tsfile/live/1027_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",江苏卫视 高清
+http://116.11.156.83:8181/tsfile/live/1026_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",北京卫视 高清
+http://116.11.156.83:8181/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",东方卫视 高清
+http://116.11.156.83:8181/tsfile/live/1021_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广东卫视 高清
+http://116.11.156.83:8181/tsfile/live/1019_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",浙江卫视 高清
+http://116.11.156.83:8181/tsfile/live/1050_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",湖北卫视 高清
+http://116.11.156.83:8181/tsfile/live/1043_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",河北卫视 高清
+http://116.11.156.83:8181/tsfile/live/1045_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",天津卫视 高清
+http://116.11.156.83:8181/tsfile/live/1044_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",黑龙江卫视 高清
+http://116.11.156.83:8181/tsfile/live/1040_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",山东卫视 高清
+http://116.11.156.83:8181/tsfile/live/0131_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",江西卫视 高清
+http://116.11.156.83:8181/tsfile/live/0138_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",安徽卫视 高清
+http://116.11.156.83:8181/tsfile/live/0130_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",辽宁卫视 高清
+http://116.11.156.83:8181/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",甘肃卫视 高清
+http://116.11.156.83:8181/tsfile/live/1032_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",贵州卫视 高清
+http://116.11.156.83:8181/tsfile/live/1058_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",东南卫视 高清
+http://116.11.156.83:8181/tsfile/live/1029_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",高清新视觉
+http://116.11.156.83:8181/tsfile/live/1064_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",天映经典 高清
+http://116.11.156.83:8181/tsfile/live/1063_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",音乐荟萃
+http://116.11.156.83:8181/tsfile/live/1065_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",凤凰资讯 高清
+http://116.11.156.83:8181/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",凤凰卫视 高清
+http://116.11.156.83:8181/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",凤凰香港 高清
+http://116.11.156.83:8181/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",星空卫视
+http://116.11.156.83:8181/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",中国音乐
+http://116.11.156.83:8181/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",经典电影
+http://116.11.156.83:8181/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",热播剧场
+http://116.11.156.83:8181/tsfile/live/1037_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",中国电影
+http://116.11.156.83:8181/tsfile/live/1069_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广州台
+http://116.11.156.83:8181/tsfile/live/1070_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广东影视
+http://116.11.156.83:8181/tsfile/live/1071_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广东公共
+http://116.11.156.83:8181/tsfile/live/1072_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广东新闻
+http://116.11.156.83:8181/tsfile/live/1073_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广东体育
+http://116.11.156.83:8181/tsfile/live/1074_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",汽摩
+http://116.11.156.83:8181/tsfile/live/1098_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",国学
+http://116.11.156.83:8181/tsfile/live/1101_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",新科动漫
+http://116.11.156.83:8181/tsfile/live/1104_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",优漫卡通
+http://116.11.156.83:8181/tsfile/live/1120_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",动漫秀场
+http://116.11.156.83:8181/tsfile/live/1055_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",中国气象
+http://116.11.156.83:8181/tsfile/live/1060_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",野外
+http://116.11.156.83:8181/tsfile/live/1086_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",宁夏卫视
+http://116.11.156.83:8181/tsfile/live/1081_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",新疆少儿
+http://116.11.156.83:8181/tsfile/live/1033_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",新疆卫视
+http://116.11.156.83:8181/tsfile/live/0110_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",延边卫视
+http://116.11.156.83:8181/tsfile/live/1087_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",吉林卫视
+http://116.11.156.83:8181/tsfile/live/0116_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",兵团卫视
+http://116.11.156.83:8181/tsfile/live/0115_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",南方卫视
+http://116.11.156.83:8181/tsfile/live/1084_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",旅游卫视
+http://116.11.156.83:8181/tsfile/live/0114_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",嘉佳卡通
+http://116.11.156.83:8181/tsfile/live/1085_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",内蒙古卫视
+http://116.11.156.83:8181/tsfile/live/0109_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",炫动卡通
+http://116.11.156.83:8181/tsfile/live/1080_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",金鹰卡通
+http://116.11.156.83:8181/tsfile/live/1079_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",青海卫视
+http://116.11.156.83:8181/tsfile/live/0140_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",陕西卫视
+http://116.11.156.83:8181/tsfile/live/0136_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",重庆卫视
+http://116.11.156.83:8181/tsfile/live/0142_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",山东教育
+http://116.11.156.83:8181/tsfile/live/1078_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",卡酷少儿
+http://116.11.156.83:8181/tsfile/live/1077_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",甘肃卫视
+http://116.11.156.83:8181/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",四川卫视
+http://116.11.156.83:8181/tsfile/live/0123_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",山西卫视
+http://116.11.156.83:8181/tsfile/live/0118_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",本港台
+http://116.11.156.83:8181/tsfile/live/1068_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",吉林卫视 高清
+http://116.11.156.83:8181/tsfile/live/1024_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广西卫视编码
+http://116.11.156.83:8181/tsfile/live/0113_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",珠江台标清
+http://116.11.156.83:8181/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",牛戏剧场
+http://116.11.156.83:8181/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",珠江台 高清
+http://116.11.156.83:8181/tsfile/live/1121_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广西综艺 高清
+http://116.11.156.83:8181/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广西影视 高清
+http://116.11.156.83:8181/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广西新闻 高清
+http://116.11.156.83:8181/tsfile/live/1018_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广西都市 高清
+http://116.11.156.83:8181/tsfile/live/1028_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广西卫视 高清
+http://116.11.156.83:8181/tsfile/live/1025_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广西移动
+http://116.11.156.83:8181/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",家庭影院
+http://116.11.156.83:8181/tsfile/live/1076_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",游戏风云
+http://116.11.156.83:8181/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",少儿动画
+http://116.11.156.83:8181/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广西国际
+http://116.11.156.83:8181/tsfile/live/1023_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",南宁公共 高清
+http://116.11.156.83:8181/tsfile/live/1125_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",南宁影视 高清
+http://116.11.156.83:8181/tsfile/live/1126_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",南宁生活 高清
+http://116.11.156.83:8181/tsfile/live/1127_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",央视新闻回放
+http://116.11.156.83:8181/tsfile/live/1046_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广西新闻回放
+http://116.11.156.83:8181/tsfile/live/1048_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广东科教
+http://116.11.156.83:8181/tsfile/live/1135_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",广东少儿
+http://116.11.156.83:8181/tsfile/live/1136_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",岭南戏曲
+http://116.11.156.83:8181/tsfile/live/1137_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",珠江台
+http://116.11.156.83:8181/tsfile/live/1138_1.m3u8
+#EXTINF:-1 group-title="广西玉林111",容县台
+http://116.11.156.83:8181/tsfile/live/1031_6.m3u8
+
+
+
+
 #EXTINF:-1 group-title="山西",CCTV1-HD
 http://211.90.83.230:8002/rtp/226.0.2.153:9136
 #EXTINF:-1 group-title="山西",CCTV2-HD
