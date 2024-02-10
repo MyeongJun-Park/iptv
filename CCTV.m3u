@@ -1,116 +1,40 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视卫视",CCTV1
+#EXTINF:-1, group-title="中央频道", CCTV-1
 http://220.194.178.58:8888/newlive/live/hls/2/live.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV2
+#EXTINF:-1, group-title="中央频道", CCTV-2
 http://220.194.178.58:8888/newlive/live/hls/3/live.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV3
+#EXTINF:-1, group-title="中央频道", CCTV-3
 http://220.194.178.58:8888/newlive/live/hls/4/live.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV4
+#EXTINF:-1, group-title="中央频道", CCTV-4
 http://220.194.178.58:8888/newlive/live/hls/5/live.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV5
+#EXTINF:-1, group-title="中央频道", CCTV-5
 http://220.194.178.58:8888/newlive/live/hls/6/live.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV5+
-http://220.194.178.58:8888/newlive/live/hls/7/live.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV6
+#EXTINF:-1, group-title="中央频道", CCTV-6
 http://220.194.178.58:8888/newlive/live/hls/8/live.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV7
+#EXTINF:-1, group-title="中央频道", CCTV-7
 http://220.194.178.58:8888/newlive/live/hls/9/live.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV8
+#EXTINF:-1, group-title="中央频道", CCTV-8
 http://220.194.178.58:8888/newlive/live/hls/10/live.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV9
+#EXTINF:-1, group-title="中央频道", CCTV-9
 http://220.194.178.58:8888/newlive/live/hls/11/live.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV10
+#EXTINF:-1, group-title="中央频道", CCTV-10
 http://220.194.178.58:8888/newlive/live/hls/12/live.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV11
+#EXTINF:-1, group-title="中央频道", CCTV-11
 http://220.194.178.58:8888/newlive/live/hls/13/live.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV12
+#EXTINF:-1, group-title="中央频道", CCTV-12
 http://220.194.178.58:8888/newlive/live/hls/14/live.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV13
+#EXTINF:-1, group-title="中央频道", CCTV-13
 http://220.194.178.58:8888/newlive/live/hls/15/live.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV14
+#EXTINF:-1, group-title="中央频道", CCTV-14
 http://220.194.178.58:8888/newlive/live/hls/16/live.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV15
+#EXTINF:-1, group-title="中央频道", CCTV-15
 http://220.194.178.58:8888/newlive/live/hls/17/live.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV16
+#EXTINF:-1, group-title="中央频道", CCTV-16
 http://220.194.178.58:8888/newlive/live/hls/18/live.m3u8
-#EXTINF:-1 group-title="央视卫视",北京卫视
-http://220.194.178.58:8888/newlive/live/hls/19/live.m3u8
-#EXTINF:-1 group-title="央视卫视",东方卫视
-http://220.194.178.58:8888/newlive/live/hls/20/live.m3u8
-#EXTINF:-1 group-title="央视卫视",广东卫视
-http://220.194.178.58:8888/newlive/live/hls/21/live.m3u8
-#EXTINF:-1 group-title="央视卫视",江苏卫视
-http://220.194.178.58:8888/newlive/live/hls/22/live.m3u8
-#EXTINF:-1 group-title="央视卫视",湖南卫视
-http://220.194.178.58:8888/newlive/live/hls/23/live.m3u8
-#EXTINF:-1 group-title="央视卫视",浙江卫视
-http://220.194.178.58:8888/newlive/live/hls/24/live.m3u8
-#EXTINF:-1 group-title="央视卫视",安徽卫视
-http://220.194.178.58:8888/newlive/live/hls/25/live.m3u8
-#EXTINF:-1 group-title="央视卫视",广西卫视
-http://220.194.178.58:8888/newlive/live/hls/26/live.m3u8
-#EXTINF:-1 group-title="央视卫视",云南卫视
-http://220.194.178.58:8888/newlive/live/hls/27/live.m3u8
-#EXTINF:-1 group-title="央视卫视",深圳卫视
-http://220.194.178.58:8888/newlive/live/hls/28/live.m3u8
-#EXTINF:-1 group-title="央视卫视",贵州卫视
-http://220.194.178.58:8888/newlive/live/hls/29/live.m3u8
-#EXTINF:-1 group-title="央视卫视",山东卫视
-http://220.194.178.58:8888/newlive/live/hls/30/live.m3u8
-#EXTINF:-1 group-title="央视卫视",重庆卫视
-http://220.194.178.58:8888/newlive/live/hls/31/live.m3u8
-#EXTINF:-1 group-title="央视卫视",四川卫视
-http://220.194.178.58:8888/newlive/live/hls/32/live.m3u8
-#EXTINF:-1 group-title="央视卫视",河南卫视
-http://220.194.178.58:8888/newlive/live/hls/33/live.m3u8
-#EXTINF:-1 group-title="央视卫视",湖北卫视
-http://220.194.178.58:8888/newlive/live/hls/34/live.m3u8
-#EXTINF:-1 group-title="央视卫视",吉林卫视
-http://220.194.178.58:8888/newlive/live/hls/35/live.m3u8
-#EXTINF:-1 group-title="央视卫视",甘肃卫视
-http://220.194.178.58:8888/newlive/live/hls/36/live.m3u8
-#EXTINF:-1 group-title="央视卫视",西藏卫视
-http://220.194.178.58:8888/newlive/live/hls/37/live.m3u8
-#EXTINF:-1 group-title="央视卫视",新疆卫视
-http://220.194.178.58:8888/newlive/live/hls/38/live.m3u8
-#EXTINF:-1 group-title="央视卫视",青海卫视
-http://220.194.178.58:8888/newlive/live/hls/39/live.m3u8
-#EXTINF:-1 group-title="央视卫视",宁夏卫视
-http://220.194.178.58:8888/newlive/live/hls/40/live.m3u8
-#EXTINF:-1 group-title="央视卫视",陕西卫视
-http://220.194.178.58:8888/newlive/live/hls/41/live.m3u8
-#EXTINF:-1 group-title="央视卫视",山西卫视
-http://220.194.178.58:8888/newlive/live/hls/42/live.m3u8
-#EXTINF:-1 group-title="央视卫视",辽宁卫视
-http://220.194.178.58:8888/newlive/live/hls/43/live.m3u8
-#EXTINF:-1 group-title="央视卫视",天津卫视
-http://220.194.178.58:8888/newlive/live/hls/44/live.m3u8
-#EXTINF:-1 group-title="央视卫视",河北卫视
-http://220.194.178.58:8888/newlive/live/hls/45/live.m3u8
-#EXTINF:-1 group-title="央视卫视",黑龙江卫视
-http://220.194.178.58:8888/newlive/live/hls/46/live.m3u8
-#EXTINF:-1 group-title="央视卫视",东南卫视
-http://220.194.178.58:8888/newlive/live/hls/47/live.m3u8
-#EXTINF:-1 group-title="央视卫视",江西卫视
-http://220.194.178.58:8888/newlive/live/hls/48/live.m3u8
-#EXTINF:-1 group-title="央视卫视",吉林卫视
-http://220.194.178.58:8888/newlive/live/hls/49/live.m3u8
-#EXTINF:-1 group-title="央视卫视",海南卫视
-http://220.194.178.58:8888/newlive/live/hls/50/live.m3u8
-#EXTINF:-1 group-title="央视卫视",黄河电视台
-http://220.194.178.58:8888/newlive/live/hls/51/live.m3u8
-#EXTINF:-1 group-title="央视卫视",山西经济
-http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8
-#EXTINF:-1 group-title="央视卫视",山西影视
-http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8
-#EXTINF:-1 group-title="央视卫视",山西法治
-http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8
-#EXTINF:-1 group-title="央视卫视",山西文体
-http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8
-#EXTINF:-1 group-title="央视卫视",金鹰卡通
-http://220.194.178.58:8888/newlive/live/hls/56/live.m3u8
-#EXTINF:-1 group-title="央视卫视",卡酷少儿
-http://220.194.178.58:8888/newlive/live/hls/57/live.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-17
+http://222.189.177.159:8111/rtp/239.49.1.7:6000
+#EXTINF:-1, group-title="中央频道", CCTV-5+
+http://220.194.178.58:8888/newlive/live/hls/7/live.m3u8
 #EXTINF:-1, group-title="地方频道", 上海纪实
 http://118.79.113.152:6000/rtp/226.0.2.193:9456
 #EXTINF:-1, group-title="地方频道", 云南卫视
@@ -121,16 +45,16 @@ http://171.212.171.22:8088/udp/239.93.1.9:2192
 http://110.72.87.140:808/hls/62/index.m3u8
 #EXTINF:-1, group-title="地方频道", 凤凰资讯
 http://110.72.87.140:808/hls/1/index.m3u8
+#EXTINF:-1, group-title="地方频道", 凤凰香港
+http://116.11.156.83:8181/tsfile/live/1005_1.m3u8
 #EXTINF:-1, group-title="地方频道", 北京卫视
 http://220.194.178.58:8888/newlive/live/hls/19/live.m3u8
 #EXTINF:-1, group-title="地方频道", 吉林卫视
 http://220.194.178.58:8888/newlive/live/hls/35/live.m3u8
-#EXTINF:-1, group-title="地方频道", 四川乡村
-http://182.150.169.173:4022/udp/239.93.0.52:5140
 #EXTINF:-1, group-title="地方频道", 四川卫视
 http://220.194.178.58:8888/newlive/live/hls/32/live.m3u8
 #EXTINF:-1, group-title="地方频道", 四川经济
-http://182.150.169.173:4022/udp/239.93.1.16:5140
+http://182.150.169.173:4022/udp/239.93.1.102:5140
 #EXTINF:-1, group-title="地方频道", 大爱四川
 http://182.150.169.173:4022/udp/239.93.1.110:5140
 #EXTINF:-1, group-title="地方频道", 天津卫视
@@ -171,6 +95,8 @@ http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8
 http://171.117.247.192:8083/rtp/226.0.2.235:9792
 #EXTINF:-1, group-title="地方频道", 广东体育
 http://121.13.84.106:8000/udp/239.77.0.112:5146
+#EXTINF:-1, group-title="地方频道", 广东公共
+http://116.11.156.83:8181/tsfile/live/1072_1.m3u8
 #EXTINF:-1, group-title="地方频道", 广东卫视
 http://220.194.178.58:8888/newlive/live/hls/21/live.m3u8
 #EXTINF:-1, group-title="地方频道", 广东国际
@@ -187,12 +113,28 @@ http://121.13.84.106:8000/udp/239.77.0.4:5146
 http://121.13.84.106:8000/udp/239.77.0.225:5146
 #EXTINF:-1, group-title="地方频道", 广东珠江
 http://121.13.84.106:8000/udp/239.77.0.114:5146
+#EXTINF:-1, group-title="地方频道", 广东科教
+http://116.11.156.83:8181/tsfile/live/1135_1.m3u8
 #EXTINF:-1, group-title="地方频道", 广东移动
 http://121.13.84.106:8000/udp/239.77.0.20:5146
 #EXTINF:-1, group-title="地方频道", 广西卫视
 http://220.194.178.58:8888/newlive/live/hls/26/live.m3u8
+#EXTINF:-1, group-title="地方频道", 广西国际
+http://116.11.156.83:8181/tsfile/live/1023_1.m3u8
+#EXTINF:-1, group-title="地方频道", 广西影视
+http://116.11.156.83:8181/tsfile/live/1004_1.m3u8
+#EXTINF:-1, group-title="地方频道", 广西新闻
+http://116.11.156.83:8181/tsfile/live/1018_1.m3u8
+#EXTINF:-1, group-title="地方频道", 广西移动
+http://116.11.156.83:8181/tsfile/live/1008_1.m3u8
+#EXTINF:-1, group-title="地方频道", 广西综艺
+http://116.11.156.83:8181/tsfile/live/1000_1.m3u8
+#EXTINF:-1, group-title="地方频道", 广西都市
+http://116.11.156.83:8181/tsfile/live/1028_1.m3u8
 #EXTINF:-1, group-title="地方频道", 新疆卫视
 http://220.194.178.58:8888/newlive/live/hls/38/live.m3u8
+#EXTINF:-1, group-title="地方频道", 新疆少儿
+http://116.11.156.83:8181/tsfile/live/1033_1.m3u8
 #EXTINF:-1, group-title="地方频道", 水韵江苏
 http://222.189.177.159:8111/rtp/239.49.8.155:6000
 #EXTINF:-1, group-title="地方频道", 江苏体育
@@ -259,10 +201,24 @@ http://220.194.178.58:8888/newlive/live/hls/29/live.m3u8
 http://220.194.178.58:8888/newlive/live/hls/43/live.m3u8
 #EXTINF:-1, group-title="地方频道", 重庆卫视
 http://220.194.178.58:8888/newlive/live/hls/31/live.m3u8
+#EXTINF:-1, group-title="地方频道", 重庆娱乐
+http://123.147.79.43:8003/udp/225.0.4.194:7980
+#EXTINF:-1, group-title="地方频道", 重庆少儿
+http://123.147.79.43:8003/udp/225.0.4.191:7980
+#EXTINF:-1, group-title="地方频道", 重庆新闻
+http://123.147.79.43:8003/udp/225.0.4.188:7980
 #EXTINF:-1, group-title="地方频道", 重庆汽摩
 http://118.79.113.152:6000/rtp/226.0.2.95:8672
+#EXTINF:-1, group-title="地方频道", 重庆科教
+http://123.147.79.43:8003/udp/225.0.4.193:7980
 #EXTINF:-1, group-title="地方频道", 陕西农林
 http://182.150.169.173:4022/udp/239.93.0.100:5140
+#EXTINF:-1, group-title="地方频道", 陕西卫视
+http://220.194.178.58:8888/newlive/live/hls/41/live.m3u8
+#EXTINF:-1, group-title="地方频道", 陕西影视
+http://1.83.163.63:8888/rtp/239.112.205.21:5140
+#EXTINF:-1, group-title="地方频道", 陕西生活
+http://1.83.163.63:8888/rtp/239.112.205.20:5140
 #EXTINF:-1, group-title="地方频道", 青海卫视
 http://220.194.178.58:8888/newlive/live/hls/39/live.m3u8
 #EXTINF:-1, group-title="地方频道", 香港卫视
@@ -273,8 +229,14 @@ http://110.72.87.140:808/hls/64/index.m3u8
 http://123.118.53.89:9901/tsfile/live/0109_1.m3u8
 #EXTINF:-1, group-title="地方频道", 黑龙江卫视
 http://220.194.178.58:8888/newlive/live/hls/46/live.m3u8
+#EXTINF:-1, group-title="地方频道", 四川公共乡村
+http://182.150.169.173:4022/udp/239.93.0.52:5140
 #EXTINF:-1, group-title="地方频道", 四川妇女儿童
 http://182.150.169.173:4022/udp/239.93.0.219:5140
+#EXTINF:-1, group-title="地方频道", 四川康巴卫视
+http://182.150.169.173:4022/udp/239.93.0.41:5140
+#EXTINF:-1, group-title="地方频道", 四川影视文艺
+http://182.150.169.173:4022/udp/239.93.0.166:5140
 #EXTINF:-1, group-title="地方频道", 四川文化旅游
 http://182.150.169.173:4022/udp/239.93.1.20:5140
 #EXTINF:-1, group-title="地方频道", 山东教育卫视
@@ -283,16 +245,20 @@ http://182.150.169.173:4022/udp/239.93.1.196:5140
 http://118.79.113.152:6000/rtp/226.0.2.190:9432
 #EXTINF:-1, group-title="地方频道", 广东综艺4k
 http://121.13.84.106:8000/udp/239.77.0.245:5146
+#EXTINF:-1, group-title="地方频道", 广西卫视编码
+http://116.11.156.83:8181/tsfile/live/0113_1.m3u8
+#EXTINF:-1, group-title="地方频道", 广西新闻回放
+http://116.11.156.83:8181/tsfile/live/1048_1.m3u8
 #EXTINF:-1, group-title="地方频道", 浙江经济生活
 http://183.158.209.26:10000/rtp/233.50.201.133:5140
 #EXTINF:-1, group-title="地方频道", 辽宁卫视 )
 http://113.74.204.2:4022/udp/239.77.0.161:5146
+#EXTINF:-1, group-title="地方频道", 重庆时尚生活
+http://123.147.79.43:8003/udp/225.0.4.196:7980
 #EXTINF:-1, group-title="地方频道", 黑龙江卫视清
 http://222.189.177.159:8111/rtp/239.49.8.144:6000
 #EXTINF:-1, group-title="地方频道", BTV北京卫视
 http://123.118.53.89:9901/tsfile/live/0016_1.m3u8
-#EXTINF:-1, group-title="地方频道", 云南卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.168:5140
 #EXTINF:-1, group-title="地方频道", 内蒙古农牧频道
 http://1.24.190.98:10088/hls/35/index.m3u8
 #EXTINF:-1, group-title="地方频道", 内蒙古少儿频道
@@ -305,50 +271,6 @@ http://1.24.190.98:10088/hls/32/index.m3u8
 http://1.24.190.98:10088/hls/34/index.m3u8
 #EXTINF:-1, group-title="地方频道", 内蒙古蒙语频道
 http://1.24.190.98:10088/hls/39/index.m3u8
-#EXTINF:-1, group-title="地方频道", 北京卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.66:5140
-#EXTINF:-1, group-title="地方频道", 吉林卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.204:5140
-#EXTINF:-1, group-title="地方频道", 大爱四川画中画
-http://182.150.169.173:4022/udp/239.93.0.228:5140
-#EXTINF:-1, group-title="地方频道", 天津卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.134:5140
-#EXTINF:-1, group-title="地方频道", 安徽卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.166:5140
-#EXTINF:-1, group-title="地方频道", 山东卫视画中画
-http://182.150.169.173:4022/udp/239.93.0.229:5140
-#EXTINF:-1, group-title="地方频道", 山西卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.207:5140
-#EXTINF:-1, group-title="地方频道", 山西社会与法治
-http://171.117.247.192:8083/rtp/226.0.2.15:8032
-#EXTINF:-1, group-title="地方频道", 山西经济与科技
-http://171.117.247.192:8083/rtp/226.0.2.13:8016
-#EXTINF:-1, group-title="地方频道", 广东卫视画中画
-http://182.150.169.173:4022/udp/239.93.0.201:5140
-#EXTINF:-1, group-title="地方频道", 广东综艺 4K
-http://121.13.84.106:8000/udp/239.77.1.237:5146
-#EXTINF:-1, group-title="地方频道", 广西卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.203:5140
-#EXTINF:-1, group-title="地方频道", 江西卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.19:5140
-#EXTINF:-1, group-title="地方频道", 河北卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.202:5140
-#EXTINF:-1, group-title="地方频道", 河南卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.169:5140
-#EXTINF:-1, group-title="地方频道", 湖北卫视画中画
-http://182.150.169.173:4022/udp/239.93.0.115:5140
-#EXTINF:-1, group-title="地方频道", 湖南卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.46:5140
-#EXTINF:-1, group-title="地方频道", 西藏卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.213:5140
-#EXTINF:-1, group-title="地方频道", 贵州卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.200:5140
-#EXTINF:-1, group-title="地方频道", 辽宁卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.167:5140
-#EXTINF:-1, group-title="地方频道", 重庆卫视画中画
-http://182.150.169.173:4022/udp/239.93.0.119:5140
-#EXTINF:-1, group-title="地方频道", 陕西卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.205:5140
 #EXTINF:-1, group-title="地方频道", 山东卫视-单音轨
 http://182.150.169.173:4022/udp/239.93.1.86:5140
 #EXTINF:-1, group-title="地方频道", 广东综艺(4k)
@@ -357,8 +279,6 @@ http://121.13.84.106:8000/udp/239.77.0.244:5146
 http://182.150.169.173:4022/udp/239.93.1.80:5140
 #EXTINF:-1, group-title="地方频道", 浙江卫视-单音轨
 http://182.150.169.173:4022/udp/239.93.1.81:5140
-#EXTINF:-1, group-title="地方频道", 黑龙江卫视画中画
-http://182.150.169.173:4022/udp/239.93.0.231:5140
 #EXTINF:-1, group-title="地方频道", 内蒙古蒙语频道II
 http://1.24.190.98:10088/hls/40/index.m3u8
 #EXTINF:-1, group-title="地方频道", 黑龙江卫视-单音轨
@@ -379,6 +299,10 @@ http://118.79.113.152:6000/rtp/226.0.2.202:9528
 http://118.79.113.152:6000/rtp/226.0.2.203:9536
 #EXTINF:-1, group-title="地方频道", 太原4
 http://118.79.113.152:6000/rtp/226.0.2.204:9544
+#EXTINF:-1, group-title="地方频道", 太原5
+http://118.79.113.152:6000/rtp/226.0.2.205:9552
+#EXTINF:-1, group-title="地方频道", 广州台
+http://116.11.156.83:8181/tsfile/live/1070_1.m3u8
 #EXTINF:-1, group-title="地方频道", 东方卫视
 http://220.194.178.58:8888/newlive/live/hls/20/live.m3u8
 #EXTINF:-1, group-title="地方频道", 东方海外
@@ -431,6 +355,12 @@ http://222.189.177.159:8111/rtp/239.49.9.3:6000
 http://222.189.177.159:8111/rtp/239.49.1.28:6000
 #EXTINF:-1, group-title="地方频道", 南京科教
 http://222.189.177.159:8111/rtp/239.49.1.27:6000
+#EXTINF:-1, group-title="地方频道", 南宁公共
+http://116.11.156.83:8181/tsfile/live/1125_1.m3u8
+#EXTINF:-1, group-title="地方频道", 南宁影视
+http://116.11.156.83:8181/tsfile/live/1126_1.m3u8
+#EXTINF:-1, group-title="地方频道", 南宁生活
+http://116.11.156.83:8181/tsfile/live/1127_1.m3u8
 #EXTINF:-1, group-title="地方频道", 厦门卫视
 http://182.150.169.173:4022/udp/239.93.42.57:5140
 #EXTINF:-1, group-title="地方频道", 台州-1
@@ -537,6 +467,8 @@ http://121.13.84.106:8000/udp/239.77.0.205:5146
 http://121.13.84.106:8000/udp/239.77.0.204:5146
 #EXTINF:-1, group-title="地方频道", 衢州新闻
 http://183.158.209.26:10000/rtp/233.50.201.155:5140
+#EXTINF:-1, group-title="地方频道", 西安教育
+http://1.83.163.63:8888/rtp/239.112.205.142:5140
 #EXTINF:-1, group-title="地方频道", 金华新闻
 http://183.158.209.26:10000/rtp/233.50.201.161:5140
 #EXTINF:-1, group-title="地方频道", 太原佰乐购
@@ -613,6 +545,8 @@ http://118.79.113.152:6000/rtp/226.0.2.234:9784
 http://121.13.84.106:8000/udp/239.77.0.117:5146
 #EXTINF:-1, group-title="地方频道", 韶关绿色生活
 http://121.13.84.106:8000/udp/239.77.0.118:5146
+#EXTINF:-1, group-title="地方频道", 东方卫视画中画
+http://182.150.169.173:4022/udp/239.93.1.44:5140
 #EXTINF:-1, group-title="地方频道", 深圳卫视画中画
 http://182.150.169.173:4022/udp/239.93.1.21:5140
 #EXTINF:-1, group-title="地方频道", 深圳宝安第一课
@@ -625,6 +559,650 @@ http://1.24.190.98:10088/hls/23/index.m3u8
 http://1.24.190.98:10088/hls/24/index.m3u8
 #EXTINF:-1, group-title="地方频道", 阳泉-1新闻综合
 http://118.79.113.152:6000/rtp/226.0.2.233:9776
+#EXTINF:-1, group-title="其他频道", 4K
+http://123.118.53.89:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1, group-title="其他频道", 乐游
+http://118.79.113.152:6000/rtp/226.0.2.77:8528
+#EXTINF:-1, group-title="其他频道", 传奇
+http://182.150.169.173:4022/udp/239.93.0.235:1282
+#EXTINF:-1, group-title="其他频道", 军事
+http://182.150.169.173:4022/udp/239.93.0.204:9076
+#EXTINF:-1, group-title="其他频道", 台球
+http://182.150.169.173:4022/udp/239.93.0.203:9072
+#EXTINF:-1, group-title="其他频道", 国学
+http://116.11.156.83:8181/tsfile/live/1101_1.m3u8
+#EXTINF:-1, group-title="其他频道", 地理
+http://182.150.169.173:4022/udp/239.93.0.200:9052
+#EXTINF:-1, group-title="其他频道", 墨宝
+http://182.150.169.173:4022/udp/239.93.0.215:9132
+#EXTINF:-1, group-title="其他频道", 导视
+http://182.150.169.173:4022/udp/239.93.0.129:5140
+#EXTINF:-1, group-title="其他频道", 戏曲
+http://182.150.169.173:4022/udp/239.93.0.217:9208
+#EXTINF:-1, group-title="其他频道", 星影
+http://123.147.79.43:8003/udp/225.0.4.172:7980
+#EXTINF:-1, group-title="其他频道", 星空
+http://171.212.171.22:8088/udp/239.93.1.10:2193
+#EXTINF:-1, group-title="其他频道", 星空
+http://110.72.87.140:808/hls/60/index.m3u8
+#EXTINF:-1, group-title="其他频道", 汽摩
+http://116.11.156.83:8181/tsfile/live/1098_1.m3u8
+#EXTINF:-1, group-title="其他频道", 清徐
+http://118.79.113.152:6000/rtp/226.0.2.191:9440
+#EXTINF:-1, group-title="其他频道", 电影
+http://116.11.156.83:8181/tsfile/live/1017_1.m3u8
+#EXTINF:-1, group-title="其他频道", 纪实
+http://123.147.79.43:8003/udp/225.0.4.99:7980
+#EXTINF:-1, group-title="其他频道", 解密
+http://182.150.169.173:4022/udp/239.93.0.199:9048
+#EXTINF:-1, group-title="其他频道", 足球
+http://182.150.169.173:4022/udp/239.93.0.197:9040
+#EXTINF:-1, group-title="其他频道", 野外
+http://116.11.156.83:8181/tsfile/live/1086_1.m3u8
+#EXTINF:-1, group-title="其他频道", 阳曲
+http://171.117.247.192:8083/rtp/226.0.2.196:9480
+#EXTINF:-1, group-title="其他频道", 高网
+http://182.150.169.173:4022/udp/239.93.0.202:9068
+#EXTINF:-1, group-title="其他频道", 优购物
+http://118.79.113.152:6000/rtp/226.0.2.131:8960
+#EXTINF:-1, group-title="其他频道", 全纪实
+http://1.83.163.63:8888/rtp/239.111.205.3:5140
+#EXTINF:-1, group-title="其他频道", 容县台
+http://116.11.156.83:8181/tsfile/live/1031_6.m3u8
+#EXTINF:-1, group-title="其他频道", 新动漫
+http://118.79.113.152:6000/rtp/226.0.2.73:8496
+#EXTINF:-1, group-title="其他频道", 新视觉
+http://116.11.156.83:8181/tsfile/live/1064_1.m3u8
+#EXTINF:-1, group-title="其他频道", 本港台
+http://116.11.156.83:8181/tsfile/live/1068_1.m3u8
+#EXTINF:-1, group-title="其他频道", 淘电影
+http://123.118.53.89:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1, group-title="其他频道", 淘精彩
+http://123.118.53.89:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1, group-title="其他频道", 爱体育
+http://182.150.169.173:4022/udp/239.93.0.135:9008
+#EXTINF:-1, group-title="其他频道", 爱动漫
+http://182.150.169.173:4022/udp/239.93.42.23:5140
+#EXTINF:-1, group-title="其他频道", 爱喜剧
+http://182.150.169.173:4022/udp/239.93.42.9:5140
+#EXTINF:-1, group-title="其他频道", 爱奇谈
+http://182.150.169.173:4022/udp/239.93.42.22:5140
+#EXTINF:-1, group-title="其他频道", 爱幼教
+http://182.150.169.173:4022/udp/239.93.42.17:5140
+#EXTINF:-1, group-title="其他频道", 爱怀旧
+http://182.150.169.173:4022/udp/239.93.42.21:5140
+#EXTINF:-1, group-title="其他频道", 爱悬疑
+http://182.150.169.173:4022/udp/239.93.42.12:5140
+#EXTINF:-1, group-title="其他频道", 爱玩具
+http://182.150.169.173:4022/udp/239.93.42.18:5140
+#EXTINF:-1, group-title="其他频道", 爱生活
+http://182.150.169.173:4022/udp/239.93.0.206:8028
+#EXTINF:-1, group-title="其他频道", 爱科幻
+http://182.150.169.173:4022/udp/239.93.42.10:5140
+#EXTINF:-1, group-title="其他频道", 爱经典
+http://182.150.169.173:4022/udp/239.93.42.13:5140
+#EXTINF:-1, group-title="其他频道", 爱谍战
+http://182.150.169.173:4022/udp/239.93.42.14:5140
+#EXTINF:-1, group-title="其他频道", 爱赛车
+http://182.150.169.173:4022/udp/239.93.42.20:5140
+#EXTINF:-1, group-title="其他频道", 爱院线
+http://182.150.169.173:4022/udp/239.93.42.11:5140
+#EXTINF:-1, group-title="其他频道", 爱青春
+http://182.150.169.173:4022/udp/239.93.42.16:5140
+#EXTINF:-1, group-title="其他频道", 珠江台
+http://116.11.156.83:8181/tsfile/live/1138_1.m3u8
+#EXTINF:-1, group-title="其他频道", 百视通
+http://222.189.177.159:8111/rtp/239.49.1.74:6000
+#EXTINF:-1, group-title="其他频道", 看电影
+http://182.150.169.173:4022/udp/239.93.42.47:5140
+#EXTINF:-1, group-title="其他频道", 茶频道
+http://118.79.113.152:6000/rtp/226.0.2.213:9616
+#EXTINF:-1, group-title="其他频道", 4K乐享
+http://182.150.169.173:4022/udp/239.93.0.43:5140
+#EXTINF:-1, group-title="其他频道", 4K现场
+http://222.189.177.159:8111/rtp/239.49.8.222:6000
+#EXTINF:-1, group-title="其他频道", 4K花园
+http://222.189.177.159:8111/rtp/239.49.8.205:6000
+#EXTINF:-1, group-title="其他频道", CGTN
+http://121.13.84.106:8000/udp/239.77.1.27:5146
+#EXTINF:-1, group-title="其他频道", 七彩戏剧
+http://222.189.177.159:8111/rtp/239.49.1.175:6000
+#EXTINF:-1, group-title="其他频道", 三沙卫视
+http://182.150.169.173:4022/udp/239.93.42.58:5140
+#EXTINF:-1, group-title="其他频道", 世界地理
+http://222.189.177.159:8111/rtp/239.49.9.8:6000
+#EXTINF:-1, group-title="其他频道", 东南卫视
+http://220.194.178.58:8888/newlive/live/hls/47/live.m3u8
+#EXTINF:-1, group-title="其他频道", 东海新闻
+http://222.189.177.159:8111/rtp/239.49.9.48:6000
+#EXTINF:-1, group-title="其他频道", 丝路频道
+http://1.83.163.63:8888/rtp/239.112.205.176:5140
+#EXTINF:-1, group-title="其他频道", 中华特产
+http://118.79.113.152:6000/rtp/226.0.2.128:8936
+#EXTINF:-1, group-title="其他频道", 中国天气
+http://222.189.177.159:8111/rtp/239.49.1.58:6000
+#EXTINF:-1, group-title="其他频道", 中国教育
+http://222.189.177.159:8111/rtp/239.49.8.189:6000
+#EXTINF:-1, group-title="其他频道", 中国气象
+http://116.11.156.83:8181/tsfile/live/1060_1.m3u8
+#EXTINF:-1, group-title="其他频道", 中国电影
+http://116.11.156.83:8181/tsfile/live/1069_1.m3u8
+#EXTINF:-1, group-title="其他频道", 中国音乐
+http://116.11.156.83:8181/tsfile/live/1007_1.m3u8
+#EXTINF:-1, group-title="其他频道", 中教一台
+http://222.189.177.159:8111/rtp/239.49.1.54:6000
+#EXTINF:-1, group-title="其他频道", 中教二台
+http://222.189.177.159:8111/rtp/239.49.1.55:6000
+#EXTINF:-1, group-title="其他频道", 中教四台
+http://222.189.177.159:8111/rtp/239.49.1.56:6000
+#EXTINF:-1, group-title="其他频道", 中视购物
+http://222.189.177.159:8111/rtp/239.49.9.16:6000
+#EXTINF:-1, group-title="其他频道", 之江记录
+http://183.158.209.26:10000/rtp/233.50.202.25:5140
+#EXTINF:-1, group-title="其他频道", 乐龄学堂
+http://182.150.169.173:4022/udp/239.93.1.179:5140
+#EXTINF:-1, group-title="其他频道", 九屏测试
+http://171.117.247.192:8083/rtp/226.0.2.197:9488
+#EXTINF:-1, group-title="其他频道", 书画频道
+http://222.189.177.159:8111/rtp/239.49.1.227:6000
+#EXTINF:-1, group-title="其他频道", 优优宝贝
+http://183.158.209.26:10000/rtp/233.50.202.24:5140
+#EXTINF:-1, group-title="其他频道", 优漫卡通
+http://182.150.169.173:4022/udp/239.93.0.251:5140
+#EXTINF:-1, group-title="其他频道", 先锋乒羽
+http://222.189.177.159:8111/rtp/239.49.1.233:6000
+#EXTINF:-1, group-title="其他频道", 党建频道
+http://118.79.113.152:6000/rtp/226.0.2.184:9384
+#EXTINF:-1, group-title="其他频道", 全球大片
+http://222.189.177.159:8111/rtp/239.49.1.118:6000
+#EXTINF:-1, group-title="其他频道", 全纪实台
+http://222.189.177.159:8111/rtp/239.49.1.173:6000
+#EXTINF:-1, group-title="其他频道", 兵器科技
+http://222.189.177.159:8111/rtp/239.49.9.9:6000
+#EXTINF:-1, group-title="其他频道", 兵团卫视
+http://171.117.247.192:8083/rtp/226.0.2.62:8408
+#EXTINF:-1, group-title="其他频道", 军旅剧场
+http://123.147.79.43:8003/udp/225.0.4.146:7980
+#EXTINF:-1, group-title="其他频道", 农林卫视
+http://1.83.163.63:8888/rtp/239.112.205.27:5140
+#EXTINF:-1, group-title="其他频道", 冬奥纪实
+http://222.189.177.159:8111/rtp/239.49.8.202:6000
+#EXTINF:-1, group-title="其他频道", 动作影院
+http://123.147.79.43:8003/udp/225.0.4.170:7980
+#EXTINF:-1, group-title="其他频道", 动作电影
+http://116.11.156.83:8181/tsfile/live/1016_1.m3u8
+#EXTINF:-1, group-title="其他频道", 动漫秀场
+http://222.189.177.159:8111/rtp/239.49.1.171:6000
+#EXTINF:-1, group-title="其他频道", 动画番剧
+http://182.150.169.173:4022/udp/239.93.1.177:5140
+#EXTINF:-1, group-title="其他频道", 劲爆体育
+http://222.189.177.159:8111/rtp/239.49.1.180:6000
+#EXTINF:-1, group-title="其他频道", 华语影院
+http://222.189.177.159:8111/rtp/239.49.1.196:6000
+#EXTINF:-1, group-title="其他频道", 南方卫视
+http://222.189.177.159:8111/rtp/239.49.1.249:6000
+#EXTINF:-1, group-title="其他频道", 南方购物
+http://121.13.84.106:8000/udp/239.77.0.19:5146
+#EXTINF:-1, group-title="其他频道", 卡酷动画
+http://182.150.169.173:4022/udp/239.93.0.208:5140
+#EXTINF:-1, group-title="其他频道", 卡酷卡通
+http://171.117.247.192:8083/rtp/226.0.2.57:8368
+#EXTINF:-1, group-title="其他频道", 卡酷少儿
+http://220.194.178.58:8888/newlive/live/hls/57/live.m3u8
+#EXTINF:-1, group-title="其他频道", 古装剧场
+http://123.147.79.43:8003/udp/225.0.4.147:7980
+#EXTINF:-1, group-title="其他频道", 哈哈炫动
+http://171.117.247.192:8083/rtp/226.0.2.44:8264
+#EXTINF:-1, group-title="其他频道", 响水综合
+http://222.189.177.159:8111/rtp/239.49.1.141:6000
+#EXTINF:-1, group-title="其他频道", 喜剧影院
+http://123.147.79.43:8003/udp/225.0.4.169:7980
+#EXTINF:-1, group-title="其他频道", 嘉佳卡通
+http://121.13.84.106:8000/udp/239.77.0.179:5146
+#EXTINF:-1, group-title="其他频道", 四海钓鱼
+http://171.117.247.192:8083/rtp/226.0.2.123:8896
+#EXTINF:-1, group-title="其他频道", 国学频道
+http://118.79.113.152:6000/rtp/226.0.2.116:8840
+#EXTINF:-1, group-title="其他频道", 大爱旅游
+http://182.150.169.173:4022/udp/239.93.42.70:5140
+#EXTINF:-1, group-title="其他频道", 大爱时尚
+http://182.150.169.173:4022/udp/239.93.42.72:5140
+#EXTINF:-1, group-title="其他频道", 大爱生活
+http://182.150.169.173:4022/udp/239.93.42.71:5140
+#EXTINF:-1, group-title="其他频道", 天下收藏
+http://118.79.113.152:6000/rtp/226.0.2.124:8904
+#EXTINF:-1, group-title="其他频道", 天元围棋
+http://182.150.169.173:4022/udp/239.93.42.55:5140
+#EXTINF:-1, group-title="其他频道", 天映经典
+http://116.11.156.83:8181/tsfile/live/1063_1.m3u8
+#EXTINF:-1, group-title="其他频道", 央广购物
+http://222.189.177.159:8111/rtp/239.49.1.115:6000
+#EXTINF:-1, group-title="其他频道", 央视台球
+http://222.189.177.159:8111/rtp/239.49.9.22:6000
+#EXTINF:-1, group-title="其他频道", 央视高网
+http://222.189.177.159:8111/rtp/239.49.1.62:6000
+#EXTINF:-1, group-title="其他频道", 女性时尚
+http://222.189.177.159:8111/rtp/239.49.9.14:6000
+#EXTINF:-1, group-title="其他频道", 好享购物
+http://222.189.177.159:8111/rtp/239.49.9.41:6000
+#EXTINF:-1, group-title="其他频道", 宝宝动画
+http://222.189.177.159:8111/rtp/239.49.1.213:6000
+#EXTINF:-1, group-title="其他频道", 家庭影院
+http://116.11.156.83:8181/tsfile/live/1015_1.m3u8
+#EXTINF:-1, group-title="其他频道", 家庭理财
+http://118.79.113.152:6000/rtp/226.0.2.129:8944
+#EXTINF:-1, group-title="其他频道", 家政频道
+http://182.150.169.173:4022/udp/239.93.42.48:5140
+#EXTINF:-1, group-title="其他频道", 家有购物
+http://222.189.177.159:8111/rtp/239.49.1.252:6000
+#EXTINF:-1, group-title="其他频道", 宿豫综合
+http://222.189.177.159:8111/rtp/239.49.1.98:6000
+#EXTINF:-1, group-title="其他频道", 少儿动画
+http://123.118.53.89:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1, group-title="其他频道", 少儿天地
+http://182.150.169.173:4022/udp/239.93.42.34:5140
+#EXTINF:-1, group-title="其他频道", 岭南戏曲
+http://121.13.84.106:8000/udp/239.77.0.16:5146
+#EXTINF:-1, group-title="其他频道", 峨眉电影
+http://182.150.169.173:4022/udp/239.93.1.54:5140
+#EXTINF:-1, group-title="其他频道", 幸福彩台
+http://222.189.177.159:8111/rtp/239.49.1.172:6000
+#EXTINF:-1, group-title="其他频道", 延边卫视
+http://116.11.156.83:8181/tsfile/live/1087_1.m3u8
+#EXTINF:-1, group-title="其他频道", 徐闻综合
+http://121.13.84.106:8000/udp/239.253.43.112:5146
+#EXTINF:-1, group-title="其他频道", 快乐垂钓
+http://222.189.177.159:8111/rtp/239.49.1.225:6000
+#EXTINF:-1, group-title="其他频道", 快乐购物
+http://222.189.177.159:8111/rtp/239.49.1.167:6000
+#EXTINF:-1, group-title="其他频道", 怀旧剧场
+http://222.189.177.159:8111/rtp/239.49.9.12:6000
+#EXTINF:-1, group-title="其他频道", 悦美生活
+http://1.83.163.63:8888/rtp/239.111.205.30:5140
+#EXTINF:-1, group-title="其他频道", 戏曲精选
+http://222.189.177.159:8111/rtp/239.49.1.120:6000
+#EXTINF:-1, group-title="其他频道", 收视导视
+http://182.150.169.173:4022/udp/239.93.1.39:5140
+#EXTINF:-1, group-title="其他频道", 收视指南
+http://182.150.169.173:4022/udp/239.93.0.195:8012
+#EXTINF:-1, group-title="其他频道", 文化精品
+http://222.189.177.159:8111/rtp/239.49.9.11:6000
+#EXTINF:-1, group-title="其他频道", 文物宝库
+http://118.79.113.152:6000/rtp/226.0.2.110:8792
+#EXTINF:-1, group-title="其他频道", 新沂综合
+http://222.189.177.159:8111/rtp/239.49.1.228:6000
+#EXTINF:-1, group-title="其他频道", 新科动漫
+http://116.11.156.83:8181/tsfile/live/1104_1.m3u8
+#EXTINF:-1, group-title="其他频道", 新闻综合
+http://1.83.163.63:8888/rtp/239.111.205.242:5140
+#EXTINF:-1, group-title="其他频道", 旅游卫视
+http://116.11.156.83:8181/tsfile/live/0114_1.m3u8
+#EXTINF:-1, group-title="其他频道", 时尚购物
+http://123.147.79.43:8003/udp/225.0.4.198:7980
+#EXTINF:-1, group-title="其他频道", 星光影院
+http://222.189.177.159:8111/rtp/239.49.1.197:6000
+#EXTINF:-1, group-title="其他频道", 星空卫视
+http://110.72.87.140:808/hls/60/index.m3u8
+#EXTINF:-1, group-title="其他频道", 星空精选
+http://182.150.169.173:4022/udp/239.93.1.171:5140
+#EXTINF:-1, group-title="其他频道", 晋能控股
+http://118.79.113.152:6000/rtp/226.0.2.229:9744
+#EXTINF:-1, group-title="其他频道", 暴走汽车
+http://222.189.177.159:8111/rtp/239.49.8.206:6000
+#EXTINF:-1, group-title="其他频道", 曲艺大观
+http://1.83.163.63:8888/rtp/239.111.205.31:5140
+#EXTINF:-1, group-title="其他频道", 极速汽车
+http://222.189.177.159:8111/rtp/239.49.1.178:6000
+#EXTINF:-1, group-title="其他频道", 桐乡新闻
+http://183.158.209.26:10000/rtp/233.50.201.169:5140
+#EXTINF:-1, group-title="其他频道", 梨园频道
+http://118.79.113.152:6000/rtp/226.0.2.115:8832
+#EXTINF:-1, group-title="其他频道", 欢笑剧场
+http://222.189.177.159:8111/rtp/239.49.8.182:6000
+#EXTINF:-1, group-title="其他频道", 武侠剧场
+http://123.147.79.43:8003/udp/225.0.4.168:7980
+#EXTINF:-1, group-title="其他频道", 武术世界
+http://118.79.113.152:6000/rtp/226.0.2.97:8688
+#EXTINF:-1, group-title="其他频道", 求索频道
+http://182.150.169.173:4022/udp/239.93.42.24:5140
+#EXTINF:-1, group-title="其他频道", 汽车世界
+http://222.189.177.159:8111/rtp/239.49.1.119:6000
+#EXTINF:-1, group-title="其他频道", 汽车频道
+http://182.150.169.173:4022/udp/239.93.0.117:1292
+#EXTINF:-1, group-title="其他频道", 沛县新闻
+http://222.189.177.159:8111/rtp/239.49.9.19:6000
+#EXTINF:-1, group-title="其他频道", 沭阳综合
+http://222.189.177.159:8111/rtp/239.49.1.117:6000
+#EXTINF:-1, group-title="其他频道", 法治天地
+http://222.189.177.159:8111/rtp/239.49.1.174:6000
+#EXTINF:-1, group-title="其他频道", 泗洪综合
+http://222.189.177.159:8111/rtp/239.49.9.47:6000
+#EXTINF:-1, group-title="其他频道", 泗阳综合
+http://222.189.177.159:8111/rtp/239.49.1.103:6000
+#EXTINF:-1, group-title="其他频道", 测试信号
+http://222.189.177.159:8111/rtp/239.49.1.102:6000
+#EXTINF:-1, group-title="其他频道", 海峡卫视
+http://110.72.87.140:808/hls/72/index.m3u8
+#EXTINF:-1, group-title="其他频道", 港剧风云
+http://222.189.177.159:8111/rtp/239.49.1.201:6000
+#EXTINF:-1, group-title="其他频道", 游戏竞技
+http://222.189.177.159:8111/rtp/239.49.1.71:6000
+#EXTINF:-1, group-title="其他频道", 游戏风云
+http://222.189.177.159:8111/rtp/239.49.1.177:6000
+#EXTINF:-1, group-title="其他频道", 湘茶频道
+http://222.189.177.159:8111/rtp/239.49.1.234:6000
+#EXTINF:-1, group-title="其他频道", 炫动卡通
+http://182.150.169.173:4022/udp/239.93.0.173:5140
+#EXTINF:-1, group-title="其他频道", 热播剧场
+http://182.150.169.173:4022/udp/239.93.0.56:9020
+#EXTINF:-1, group-title="其他频道", 热血剧场
+http://182.150.169.173:4022/udp/239.93.1.198:5140
+#EXTINF:-1, group-title="其他频道", 热门剧场
+http://222.189.177.159:8111/rtp/239.49.1.198:6000
+#EXTINF:-1, group-title="其他频道", 热门卫视
+http://182.150.169.173:4022/udp/239.93.1.34:5140
+#EXTINF:-1, group-title="其他频道", 热门央视
+http://182.150.169.173:4022/udp/239.93.1.33:5140
+#EXTINF:-1, group-title="其他频道", 热门本地
+http://182.150.169.173:4022/udp/239.93.1.35:5140
+#EXTINF:-1, group-title="其他频道", 热门综艺
+http://182.150.169.173:4022/udp/239.93.0.151:5140
+#EXTINF:-1, group-title="其他频道", 熊猫体娱
+http://182.150.169.173:4022/udp/239.93.0.94:5140
+#EXTINF:-1, group-title="其他频道", 熊猫频道
+http://182.150.169.173:4022/udp/239.93.0.211:9148
+#EXTINF:-1, group-title="其他频道", 爱上4K
+http://182.150.169.173:4022/udp/239.93.0.97:5140
+#EXTINF:-1, group-title="其他频道", 爱宠宠物
+http://182.150.169.173:4022/udp/239.93.42.32:5140
+#EXTINF:-1, group-title="其他频道", 牛戏剧场
+http://116.11.156.83:8181/tsfile/live/1002_1.m3u8
+#EXTINF:-1, group-title="其他频道", 环球奇观
+http://118.79.113.152:6000/rtp/226.0.2.111:8800
+#EXTINF:-1, group-title="其他频道", 环球新闻
+http://222.189.177.159:8111/rtp/239.49.1.9:6000
+#EXTINF:-1, group-title="其他频道", 环球旅游
+http://118.79.113.152:6000/rtp/226.0.2.127:8928
+#EXTINF:-1, group-title="其他频道", 现代教育
+http://121.13.84.106:8000/udp/239.77.0.18:5146
+#EXTINF:-1, group-title="其他频道", 生态环境
+http://118.79.113.152:6000/rtp/226.0.2.120:8872
+#EXTINF:-1, group-title="其他频道", 生活时尚
+http://222.189.177.159:8111/rtp/239.49.1.181:6000
+#EXTINF:-1, group-title="其他频道", 电子竞技
+http://222.189.177.159:8111/rtp/239.49.1.193:6000
+#EXTINF:-1, group-title="其他频道", 电竞天堂
+http://182.150.169.173:4022/udp/239.93.1.135:5140
+#EXTINF:-1, group-title="其他频道", 电竞直播
+http://222.189.177.159:8111/rtp/239.49.8.151:6000
+#EXTINF:-1, group-title="其他频道", 电视指南
+http://222.189.177.159:8111/rtp/239.49.9.5:6000
+#EXTINF:-1, group-title="其他频道", 百事直播
+http://1.83.163.63:8888/rtp/239.111.205.25:5140
+#EXTINF:-1, group-title="其他频道", 百变课堂
+http://222.189.177.159:8111/rtp/239.49.1.121:6000
+#EXTINF:-1, group-title="其他频道", 百姓健康
+http://118.79.113.152:6000/rtp/226.0.2.132:8968
+#EXTINF:-1, group-title="其他频道", 盱眙新闻
+http://222.189.177.159:8111/rtp/239.49.9.18:6000
+#EXTINF:-1, group-title="其他频道", 睛彩三秦
+http://1.83.163.63:8888/rtp/239.112.205.26:5140
+#EXTINF:-1, group-title="其他频道", 睢宁综合
+http://222.189.177.159:8111/rtp/239.49.1.246:6000
+#EXTINF:-1, group-title="其他频道", 第一剧场
+http://222.189.177.159:8111/rtp/239.49.9.15:6000
+#EXTINF:-1, group-title="其他频道", 第一财*
+http://222.189.177.159:8111/rtp/239.49.1.168:6000
+#EXTINF:-1, group-title="其他频道", 精彩推荐
+http://182.150.169.173:4022/udp/239.93.1.5:5140
+#EXTINF:-1, group-title="其他频道", 红色经典
+http://182.150.169.173:4022/udp/239.93.1.176:5140
+#EXTINF:-1, group-title="其他频道", 纪实人文
+http://182.150.169.173:4022/udp/239.93.1.154:5140
+#EXTINF:-1, group-title="其他频道", 经典电影
+http://116.11.156.83:8181/tsfile/live/1012_1.m3u8
+#EXTINF:-1, group-title="其他频道", 经济科教
+http://121.13.84.106:8000/udp/239.77.0.167:5146
+#EXTINF:-1, group-title="其他频道", 绚影4K
+http://182.150.169.173:4022/udp/239.93.42.33:5140
+#EXTINF:-1, group-title="其他频道", 综艺咖秀
+http://182.150.169.173:4022/udp/239.93.1.175:5140
+#EXTINF:-1, group-title="其他频道", 聚鲨环球
+http://222.189.177.159:8111/rtp/239.49.9.2:6000
+#EXTINF:-1, group-title="其他频道", 蓉城先锋
+http://182.150.169.173:4022/udp/239.93.0.91:2101
+#EXTINF:-1, group-title="其他频道", 西部电影
+http://1.83.163.63:8888/rtp/239.111.205.41:5140
+#EXTINF:-1, group-title="其他频道", 证券服务
+http://118.79.113.152:6000/rtp/226.0.2.71:8480
+#EXTINF:-1, group-title="其他频道", 谍战剧场
+http://222.189.177.159:8111/rtp/239.49.1.122:6000
+#EXTINF:-1, group-title="其他频道", 财富天下
+http://222.189.177.159:8111/rtp/239.49.1.29:6000
+#EXTINF:-1, group-title="其他频道", 贾汪新闻
+http://222.189.177.159:8111/rtp/239.49.8.193:6000
+#EXTINF:-1, group-title="其他频道", 赣榆综合
+http://222.189.177.159:8111/rtp/239.49.1.247:6000
+#EXTINF:-1, group-title="其他频道", 车迷频道
+http://171.117.247.192:8083/rtp/226.0.2.138:9016
+#EXTINF:-1, group-title="其他频道", 连云公共
+http://222.189.177.159:8111/rtp/239.49.1.245:6000
+#EXTINF:-1, group-title="其他频道", 连云新闻
+http://222.189.177.159:8111/rtp/239.49.1.244:6000
+#EXTINF:-1, group-title="其他频道", 邳州综合
+http://222.189.177.159:8111/rtp/239.49.1.232:6000
+#EXTINF:-1, group-title="其他频道", 都市剧场
+http://222.189.177.159:8111/rtp/239.49.1.170:6000
+#EXTINF:-1, group-title="其他频道", 都市青春
+http://1.83.163.63:8888/rtp/239.111.205.42:5140
+#EXTINF:-1, group-title="其他频道", 金色学堂
+http://171.117.247.192:8083/rtp/226.0.2.182:9368
+#EXTINF:-1, group-title="其他频道", 金色频道
+http://222.189.177.159:8111/rtp/239.49.1.169:6000
+#EXTINF:-1, group-title="其他频道", 金鹰卡通
+http://220.194.178.58:8888/newlive/live/hls/56/live.m3u8
+#EXTINF:-1, group-title="其他频道", 金鹰纪实
+http://222.189.177.159:8111/rtp/239.49.8.203:6000
+#EXTINF:-1, group-title="其他频道", 钱江频道
+http://183.158.209.26:10000/rtp/233.50.201.132:5140
+#EXTINF:-1, group-title="其他频道", 陕视直播
+http://1.83.163.63:8888/rtp/239.112.205.217:5140
+#EXTINF:-1, group-title="其他频道", 青春动漫
+http://222.189.177.159:8111/rtp/239.49.1.212:6000
+#EXTINF:-1, group-title="其他频道", 音乐现场
+http://182.150.169.173:4022/udp/239.93.0.198:9044
+#EXTINF:-1, group-title="其他频道", 音乐荟萃
+http://116.11.156.83:8181/tsfile/live/1065_1.m3u8
+#EXTINF:-1, group-title="其他频道", 风云剧场
+http://222.189.177.159:8111/rtp/239.49.9.10:6000
+#EXTINF:-1, group-title="其他频道", 风云足球
+http://222.189.177.159:8111/rtp/239.49.9.6:6000
+#EXTINF:-1, group-title="其他频道", 风云音乐
+http://222.189.177.159:8111/rtp/239.49.9.13:6000
+#EXTINF:-1, group-title="其他频道", 香山文化
+http://121.13.84.106:8000/udp/239.253.43.63:5146
+#EXTINF:-1, group-title="其他频道", 高尔夫球
+http://222.189.177.159:8111/rtp/239.49.9.7:6000
+#EXTINF:-1, group-title="其他频道", 高淳综合
+http://222.189.177.159:8111/rtp/239.49.1.142:6000
+#EXTINF:-1, group-title="其他频道", 魅力时尚
+http://182.150.169.173:4022/udp/239.93.0.190:9012
+#EXTINF:-1, group-title="其他频道", 魅力足球
+http://222.189.177.159:8111/rtp/239.49.8.181:6000
+#EXTINF:-1, group-title="其他频道", 麻辣体育
+http://182.150.169.173:4022/udp/239.93.42.2:5140
+#EXTINF:-1, group-title="其他频道", 齐鲁频道
+http://144.52.162.169:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1, group-title="其他频道", 4K超电影
+http://182.150.169.173:4022/udp/239.93.1.156:5140
+#EXTINF:-1, group-title="其他频道", BTV体育
+http://123.118.53.89:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1, group-title="其他频道", BTV影视
+http://123.118.53.89:9901/tsfile/live/0019_1.m3u8
+#EXTINF:-1, group-title="其他频道", BTV文艺
+http://123.118.53.89:9901/tsfile/live/0017_1.m3u8
+#EXTINF:-1, group-title="其他频道", BTV新闻
+http://123.118.53.89:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1, group-title="其他频道", BTV生活
+http://123.118.53.89:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1, group-title="其他频道", BTV科教
+http://123.118.53.89:9901/tsfile/live/0018_1.m3u8
+#EXTINF:-1, group-title="其他频道", BTV财经
+http://123.118.53.89:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1, group-title="其他频道", CETV1
+http://118.79.113.152:6000/rtp/226.0.2.68:8456
+#EXTINF:-1, group-title="其他频道", CETV2
+http://118.79.113.152:6000/rtp/226.0.2.69:8464
+#EXTINF:-1, group-title="其他频道", CETV4
+http://118.79.113.152:6000/rtp/226.0.2.70:8472
+#EXTINF:-1, group-title="其他频道", CHC电影
+http://118.79.113.152:6000/rtp/226.0.2.93:8004
+#EXTINF:-1, group-title="其他频道", 中国体育1
+http://182.150.169.173:4022/udp/239.93.42.25:5140
+#EXTINF:-1, group-title="其他频道", 中国体育2
+http://182.150.169.173:4022/udp/239.93.42.26:5140
+#EXTINF:-1, group-title="其他频道", 中国体育3
+http://182.150.169.173:4022/udp/239.93.42.27:5140
+#EXTINF:-1, group-title="其他频道", 云演艺宣传
+http://182.150.169.173:4022/udp/239.93.42.60:5140
+#EXTINF:-1, group-title="其他频道", 古交电视台
+http://118.79.113.152:6000/rtp/226.0.2.192:9448
+#EXTINF:-1, group-title="其他频道", 大湾区卫视
+http://121.13.84.106:8000/udp/239.77.0.215:5146
+#EXTINF:-1, group-title="其他频道", 孝义电视台
+http://171.117.247.192:8083/rtp/226.0.2.189:9424
+#EXTINF:-1, group-title="其他频道", 熊猫爱生活
+http://182.150.169.173:4022/udp/239.93.1.190:5140
+#EXTINF:-1, group-title="其他频道", 珠江台标清
+http://116.11.156.83:8181/tsfile/live/1003_1.m3u8
+#EXTINF:-1, group-title="其他频道", 电信导视3
+http://182.150.169.173:4022/udp/239.93.0.110:5140
+#EXTINF:-1, group-title="其他频道", 红原月亮湾
+http://182.150.169.173:4022/udp/239.93.0.209:5140
+#EXTINF:-1, group-title="其他频道", 资讯新干线
+http://182.150.169.173:4022/udp/239.93.0.236:1283
+#EXTINF:-1, group-title="其他频道", 金熊猫卡通
+http://182.150.169.173:4022/udp/239.93.1.172:5140
+#EXTINF:-1, group-title="其他频道", 黄河电视台
+http://220.194.178.58:8888/newlive/live/hls/51/live.m3u8
+#EXTINF:-1, group-title="其他频道", CDTV-1
+http://182.150.169.173:4022/udp/239.93.0.16:5140
+#EXTINF:-1, group-title="其他频道", CDTV-3
+http://182.150.169.173:4022/udp/239.93.0.18:1238
+#EXTINF:-1, group-title="其他频道", CDTV-5
+http://182.150.169.173:4022/udp/239.93.1.231:5140
+#EXTINF:-1, group-title="其他频道", CDTV-8
+http://182.150.169.173:4022/udp/239.93.0.22:1252
+#EXTINF:-1, group-title="其他频道", CGTN俄语
+http://121.13.84.106:8000/udp/239.253.43.201:5146
+#EXTINF:-1, group-title="其他频道", CGTN法语
+http://121.13.84.106:8000/udp/239.77.0.228:5146
+#EXTINF:-1, group-title="其他频道", CGTN英语
+http://121.13.84.106:8000/udp/239.77.0.199:5146
+#EXTINF:-1, group-title="其他频道", CQTV娱乐
+http://123.147.79.43:8003/udp/225.0.4.65:7980
+#EXTINF:-1, group-title="其他频道", CQTV新闻
+http://123.147.79.43:8003/udp/225.0.4.59:7980
+#EXTINF:-1, group-title="其他频道", CQTV科教
+http://123.147.79.43:8003/udp/225.0.4.63:7980
+#EXTINF:-1, group-title="其他频道", CQTV移动
+http://123.147.79.43:8003/udp/225.0.4.68:7980
+#EXTINF:-1, group-title="其他频道", HZTV-1
+http://121.13.84.106:8000/udp/239.77.1.154:5146
+#EXTINF:-1, group-title="其他频道", HZTV-2
+http://121.13.84.106:8000/udp/239.77.1.173:5146
+#EXTINF:-1, group-title="其他频道", IPTV3+
+http://123.147.79.43:8003/udp/225.0.4.51:7980
+#EXTINF:-1, group-title="其他频道", IPTV5+
+http://123.147.79.43:8003/udp/225.0.4.53:7980
+#EXTINF:-1, group-title="其他频道", IPTV6+
+http://123.147.79.43:8003/udp/225.0.4.50:7980
+#EXTINF:-1, group-title="其他频道", IPTV8+
+http://123.147.79.43:8003/udp/225.0.4.54:7980
+#EXTINF:-1, group-title="其他频道", IPTV野外
+http://123.147.79.43:8003/udp/225.0.4.57:7980
+#EXTINF:-1, group-title="其他频道", SCTV-4
+http://182.150.169.173:4022/udp/239.93.0.47:5140
+#EXTINF:-1, group-title="其他频道", SCTV-6
+http://182.150.169.173:4022/udp/239.93.1.144:5140
+#EXTINF:-1, group-title="其他频道", 中国教育一套
+http://116.11.156.83:8181/tsfile/live/1059_1.m3u8
+#EXTINF:-1, group-title="其他频道", 亲子趣学4K
+http://182.150.169.173:4022/udp/239.93.1.191:5140
+#EXTINF:-1, group-title="其他频道", 央视新闻回放
+http://116.11.156.83:8181/tsfile/live/1046_1.m3u8
+#EXTINF:-1, group-title="其他频道", 欢笑剧场4K
+http://222.189.177.159:8111/rtp/239.49.8.231:6000
+#EXTINF:-1, group-title="其他频道", 津津悦读4K
+http://182.150.169.173:4022/udp/239.93.1.197:5140
+#EXTINF:-1, group-title="其他频道", 熊猫24小时
+http://182.150.169.173:4022/udp/239.93.1.178:5140
+#EXTINF:-1, group-title="其他频道", 爱上4K电影
+http://116.11.156.83:8181/tsfile/live/1013_1.m3u8
+#EXTINF:-1, group-title="其他频道", 聚鲨环球精选
+http://171.117.247.192:8083/rtp/226.0.2.122:8888
+#EXTINF:-1, group-title="其他频道", CHC动作电影
+http://118.79.113.152:6000/rtp/226.0.2.94:8012
+#EXTINF:-1, group-title="其他频道", CHC家庭影院
+http://118.79.113.152:6000/rtp/226.0.2.240:9820
+#EXTINF:-1, group-title="其他频道", CQTV新农村
+http://123.147.79.43:8003/udp/225.0.4.70:7980
+#EXTINF:-1, group-title="其他频道", SCTV-科教
+http://182.150.169.173:4022/udp/239.93.42.44:5140
+#EXTINF:-1, group-title="其他频道", 南国都市 4K
+http://121.13.84.106:8000/udp/239.253.43.99:5146
+#EXTINF:-1, group-title="其他频道", 广视课堂 初一
+http://121.13.84.106:8000/udp/239.253.43.89:5146
+#EXTINF:-1, group-title="其他频道", 广视课堂 初三
+http://121.13.84.106:8000/udp/239.253.43.91:5146
+#EXTINF:-1, group-title="其他频道", 广视课堂 初二
+http://121.13.84.106:8000/udp/239.253.43.90:5146
+#EXTINF:-1, group-title="其他频道", 广视课堂 高一
+http://121.13.84.106:8000/udp/239.253.43.92:5146
+#EXTINF:-1, group-title="其他频道", 广视课堂 高二
+http://121.13.84.106:8000/udp/239.253.43.93:5146
+#EXTINF:-1, group-title="其他频道", 热门央视-体验
+http://182.150.169.173:4022/udp/239.93.1.47:5140
+#EXTINF:-1, group-title="其他频道", 种养新影老故事
+http://171.117.247.192:8083/rtp/226.0.2.112:8808
+#EXTINF:-1, group-title="其他频道", 雅克音乐节宣传
+http://182.150.169.173:4022/udp/239.93.42.68:5140
+#EXTINF:-1, group-title="其他频道", 雅克音乐节直播
+http://182.150.169.173:4022/udp/239.93.42.69:5140
+#EXTINF:-1, group-title="其他频道", CETV早期教育
+http://118.79.113.152:6000/rtp/226.0.2.99:8704
+#EXTINF:-1, group-title="其他频道", CGTN西班牙语
+http://121.13.84.106:8000/udp/239.77.0.221:5146
+#EXTINF:-1, group-title="其他频道", CGTN阿拉伯语
+http://113.74.204.2:4022/udp/239.253.43.200:5146
+#EXTINF:-1, group-title="其他频道", CQTV时尚生活
+http://123.147.79.43:8003/udp/225.0.4.69:7980
+#EXTINF:-1, group-title="其他频道", CQTV社会与法
+http://123.147.79.43:8003/udp/225.0.4.64:7980
+#EXTINF:-1, group-title="其他频道", IPTV相声小品
+http://123.147.79.43:8003/udp/225.0.4.56:7980
+#EXTINF:-1, group-title="其他频道", 创新及人才文化节
+http://182.150.169.173:4022/udp/239.93.42.59:5140
+#EXTINF:-1, group-title="其他频道", 峨眉电影-单音轨
+http://182.150.169.173:4022/udp/239.93.1.95:5140
+#EXTINF:-1, group-title="其他频道", 广视课堂 小学一
+http://121.13.84.106:8000/udp/239.253.43.76:5146
+#EXTINF:-1, group-title="其他频道", 广视课堂 小学三
+http://121.13.84.106:8000/udp/239.253.43.78:5146
+#EXTINF:-1, group-title="其他频道", 广视课堂 小学二
+http://121.13.84.106:8000/udp/239.253.43.77:5146
+#EXTINF:-1, group-title="其他频道", 广视课堂 小学五
+http://121.13.84.106:8000/udp/239.253.43.80:5146
+#EXTINF:-1, group-title="其他频道", 广视课堂 小学六
+http://121.13.84.106:8000/udp/239.253.43.81:5146
+#EXTINF:-1, group-title="其他频道", 广视课堂 小学四
+http://121.13.84.106:8000/udp/239.253.43.79:5146
+#EXTINF:-1, group-title="其他频道", CHANNEL-V
+http://182.150.169.173:4022/udp/239.93.1.7:2194
+#EXTINF:-1, group-title="其他频道", 城市大明星-单音轨
+http://182.150.169.173:4022/udp/239.93.1.93:5140
+#EXTINF:-1, group-title="其他频道", 爱上4K 17M2160
+http://182.150.169.173:4022/udp/239.93.1.113:5140
 
 #EXTM3U
 #EXTINF:-1 group-title="陕西重庆",CCTV1
@@ -1029,609 +1607,6 @@ http://123.147.79.43:8003/udp/225.0.4.171:7980
 http://123.147.79.43:8003/udp/225.0.4.172:7980
 
 
-
-#EXTINF:-1, group-title="其他频道", 4K
-http://123.118.53.89:9901/tsfile/live/1002_1.m3u8
-#EXTINF:-1, group-title="其他频道", 乐游
-http://118.79.113.152:6000/rtp/226.0.2.77:8528
-#EXTINF:-1, group-title="其他频道", 传奇
-http://182.150.169.173:4022/udp/239.93.0.235:1282
-#EXTINF:-1, group-title="其他频道", 军事
-http://182.150.169.173:4022/udp/239.93.0.204:9076
-#EXTINF:-1, group-title="其他频道", 台球
-http://182.150.169.173:4022/udp/239.93.0.203:9072
-#EXTINF:-1, group-title="其他频道", 地理
-http://182.150.169.173:4022/udp/239.93.0.200:9052
-#EXTINF:-1, group-title="其他频道", 墨宝
-http://182.150.169.173:4022/udp/239.93.0.215:9132
-#EXTINF:-1, group-title="其他频道", 导视
-http://182.150.169.173:4022/udp/239.93.0.129:5140
-#EXTINF:-1, group-title="其他频道", 戏曲
-http://182.150.169.173:4022/udp/239.93.0.217:9208
-#EXTINF:-1, group-title="其他频道", 星空
-http://171.212.171.22:8088/udp/239.93.1.10:2193
-#EXTINF:-1, group-title="其他频道", 星空
-http://110.72.87.140:808/hls/60/index.m3u8
-#EXTINF:-1, group-title="其他频道", 清徐
-http://118.79.113.152:6000/rtp/226.0.2.191:9440
-#EXTINF:-1, group-title="其他频道", 解密
-http://182.150.169.173:4022/udp/239.93.0.199:9048
-#EXTINF:-1, group-title="其他频道", 足球
-http://182.150.169.173:4022/udp/239.93.0.197:9040
-#EXTINF:-1, group-title="其他频道", 阳曲
-http://171.117.247.192:8083/rtp/226.0.2.196:9480
-#EXTINF:-1, group-title="其他频道", 高网
-http://182.150.169.173:4022/udp/239.93.0.202:9068
-#EXTINF:-1, group-title="其他频道", 优购物
-http://118.79.113.152:6000/rtp/226.0.2.131:8960
-#EXTINF:-1, group-title="其他频道", 新动漫
-http://118.79.113.152:6000/rtp/226.0.2.73:8496
-#EXTINF:-1, group-title="其他频道", 淘电影
-http://123.118.53.89:9901/tsfile/live/1007_1.m3u8
-#EXTINF:-1, group-title="其他频道", 淘精彩
-http://123.118.53.89:9901/tsfile/live/1008_1.m3u8
-#EXTINF:-1, group-title="其他频道", 爱体育
-http://182.150.169.173:4022/udp/239.93.0.135:9008
-#EXTINF:-1, group-title="其他频道", 爱动漫
-http://182.150.169.173:4022/udp/239.93.42.23:5140
-#EXTINF:-1, group-title="其他频道", 爱喜剧
-http://182.150.169.173:4022/udp/239.93.42.9:5140
-#EXTINF:-1, group-title="其他频道", 爱奇谈
-http://182.150.169.173:4022/udp/239.93.42.22:5140
-#EXTINF:-1, group-title="其他频道", 爱幼教
-http://182.150.169.173:4022/udp/239.93.42.17:5140
-#EXTINF:-1, group-title="其他频道", 爱怀旧
-http://182.150.169.173:4022/udp/239.93.42.21:5140
-#EXTINF:-1, group-title="其他频道", 爱悬疑
-http://182.150.169.173:4022/udp/239.93.42.12:5140
-#EXTINF:-1, group-title="其他频道", 爱玩具
-http://182.150.169.173:4022/udp/239.93.42.18:5140
-#EXTINF:-1, group-title="其他频道", 爱生活
-http://182.150.169.173:4022/udp/239.93.0.206:8028
-#EXTINF:-1, group-title="其他频道", 爱科幻
-http://182.150.169.173:4022/udp/239.93.42.10:5140
-#EXTINF:-1, group-title="其他频道", 爱经典
-http://182.150.169.173:4022/udp/239.93.42.13:5140
-#EXTINF:-1, group-title="其他频道", 爱谍战
-http://182.150.169.173:4022/udp/239.93.42.14:5140
-#EXTINF:-1, group-title="其他频道", 爱都市
-http://182.150.169.173:4022/udp/239.93.42.15:5140
-#EXTINF:-1, group-title="其他频道", 爱院线
-http://182.150.169.173:4022/udp/239.93.42.11:5140
-#EXTINF:-1, group-title="其他频道", 爱青春
-http://182.150.169.173:4022/udp/239.93.42.16:5140
-#EXTINF:-1, group-title="其他频道", 百视通
-http://222.189.177.159:8111/rtp/239.49.1.74:6000
-#EXTINF:-1, group-title="其他频道", 看电影
-http://182.150.169.173:4022/udp/239.93.42.47:5140
-#EXTINF:-1, group-title="其他频道", 茶频道
-http://118.79.113.152:6000/rtp/226.0.2.213:9616
-#EXTINF:-1, group-title="其他频道", 4K乐享
-http://182.150.169.173:4022/udp/239.93.0.43:5140
-#EXTINF:-1, group-title="其他频道", 4K现场
-http://222.189.177.159:8111/rtp/239.49.8.222:6000
-#EXTINF:-1, group-title="其他频道", 4K花园
-http://222.189.177.159:8111/rtp/239.49.8.205:6000
-#EXTINF:-1, group-title="其他频道", CGTN
-http://121.13.84.106:8000/udp/239.77.1.27:5146
-#EXTINF:-1, group-title="其他频道", 七彩戏剧
-http://222.189.177.159:8111/rtp/239.49.1.175:6000
-#EXTINF:-1, group-title="其他频道", 三沙卫视
-http://182.150.169.173:4022/udp/239.93.42.58:5140
-#EXTINF:-1, group-title="其他频道", 世界地理
-http://222.189.177.159:8111/rtp/239.49.9.8:6000
-#EXTINF:-1, group-title="其他频道", 东南卫视
-http://220.194.178.58:8888/newlive/live/hls/47/live.m3u8
-#EXTINF:-1, group-title="其他频道", 东海新闻
-http://222.189.177.159:8111/rtp/239.49.9.48:6000
-#EXTINF:-1, group-title="其他频道", 中华特产
-http://118.79.113.152:6000/rtp/226.0.2.128:8936
-#EXTINF:-1, group-title="其他频道", 中国天气
-http://222.189.177.159:8111/rtp/239.49.1.58:6000
-#EXTINF:-1, group-title="其他频道", 中国教育
-http://222.189.177.159:8111/rtp/239.49.8.189:6000
-#EXTINF:-1, group-title="其他频道", 中教一台
-http://222.189.177.159:8111/rtp/239.49.1.54:6000
-#EXTINF:-1, group-title="其他频道", 中教二台
-http://222.189.177.159:8111/rtp/239.49.1.55:6000
-#EXTINF:-1, group-title="其他频道", 中教四台
-http://222.189.177.159:8111/rtp/239.49.1.56:6000
-#EXTINF:-1, group-title="其他频道", 中视购物
-http://222.189.177.159:8111/rtp/239.49.9.16:6000
-#EXTINF:-1, group-title="其他频道", 之江记录
-http://183.158.209.26:10000/rtp/233.50.202.25:5140
-#EXTINF:-1, group-title="其他频道", 乐龄学堂
-http://182.150.169.173:4022/udp/239.93.1.179:5140
-#EXTINF:-1, group-title="其他频道", 九屏测试
-http://171.117.247.192:8083/rtp/226.0.2.197:9488
-#EXTINF:-1, group-title="其他频道", 书画频道
-http://222.189.177.159:8111/rtp/239.49.1.227:6000
-#EXTINF:-1, group-title="其他频道", 优优宝贝
-http://183.158.209.26:10000/rtp/233.50.202.24:5140
-#EXTINF:-1, group-title="其他频道", 优漫卡通
-http://182.150.169.173:4022/udp/239.93.0.251:5140
-#EXTINF:-1, group-title="其他频道", 先锋乒羽
-http://222.189.177.159:8111/rtp/239.49.1.233:6000
-#EXTINF:-1, group-title="其他频道", 党建频道
-http://118.79.113.152:6000/rtp/226.0.2.184:9384
-#EXTINF:-1, group-title="其他频道", 全球大片
-http://222.189.177.159:8111/rtp/239.49.1.118:6000
-#EXTINF:-1, group-title="其他频道", 全纪实台
-http://222.189.177.159:8111/rtp/239.49.1.173:6000
-#EXTINF:-1, group-title="其他频道", 兵器科技
-http://222.189.177.159:8111/rtp/239.49.9.9:6000
-#EXTINF:-1, group-title="其他频道", 兵团卫视
-http://171.117.247.192:8083/rtp/226.0.2.62:8408
-#EXTINF:-1, group-title="其他频道", 冬奥纪实
-http://222.189.177.159:8111/rtp/239.49.8.202:6000
-#EXTINF:-1, group-title="其他频道", 动漫秀场
-http://222.189.177.159:8111/rtp/239.49.1.171:6000
-#EXTINF:-1, group-title="其他频道", 动画番剧
-http://182.150.169.173:4022/udp/239.93.1.177:5140
-#EXTINF:-1, group-title="其他频道", 劲爆体育
-http://222.189.177.159:8111/rtp/239.49.1.180:6000
-#EXTINF:-1, group-title="其他频道", 华语影院
-http://222.189.177.159:8111/rtp/239.49.1.196:6000
-#EXTINF:-1, group-title="其他频道", 南方卫视
-http://222.189.177.159:8111/rtp/239.49.1.249:6000
-#EXTINF:-1, group-title="其他频道", 南方购物
-http://121.13.84.106:8000/udp/239.77.0.19:5146
-#EXTINF:-1, group-title="其他频道", 卡酷动画
-http://182.150.169.173:4022/udp/239.93.0.208:5140
-#EXTINF:-1, group-title="其他频道", 卡酷卡通
-http://171.117.247.192:8083/rtp/226.0.2.57:8368
-#EXTINF:-1, group-title="其他频道", 卡酷少儿
-http://220.194.178.58:8888/newlive/live/hls/57/live.m3u8
-#EXTINF:-1, group-title="其他频道", 哈哈炫动
-http://171.117.247.192:8083/rtp/226.0.2.44:8264
-#EXTINF:-1, group-title="其他频道", 响水综合
-http://222.189.177.159:8111/rtp/239.49.1.141:6000
-#EXTINF:-1, group-title="其他频道", 嘉佳卡通
-http://121.13.84.106:8000/udp/239.77.0.179:5146
-#EXTINF:-1, group-title="其他频道", 四海钓鱼
-http://171.117.247.192:8083/rtp/226.0.2.123:8896
-#EXTINF:-1, group-title="其他频道", 国学频道
-http://118.79.113.152:6000/rtp/226.0.2.116:8840
-#EXTINF:-1, group-title="其他频道", 大爱旅游
-http://182.150.169.173:4022/udp/239.93.42.70:5140
-#EXTINF:-1, group-title="其他频道", 大爱时尚
-http://182.150.169.173:4022/udp/239.93.42.72:5140
-#EXTINF:-1, group-title="其他频道", 大爱生活
-http://182.150.169.173:4022/udp/239.93.42.71:5140
-#EXTINF:-1, group-title="其他频道", 天下收藏
-http://118.79.113.152:6000/rtp/226.0.2.124:8904
-#EXTINF:-1, group-title="其他频道", 天元围棋
-http://182.150.169.173:4022/udp/239.93.42.55:5140
-#EXTINF:-1, group-title="其他频道", 央广购物
-http://222.189.177.159:8111/rtp/239.49.1.115:6000
-#EXTINF:-1, group-title="其他频道", 央视台球
-http://222.189.177.159:8111/rtp/239.49.9.22:6000
-#EXTINF:-1, group-title="其他频道", 央视高网
-http://222.189.177.159:8111/rtp/239.49.1.62:6000
-#EXTINF:-1, group-title="其他频道", 女性时尚
-http://222.189.177.159:8111/rtp/239.49.9.14:6000
-#EXTINF:-1, group-title="其他频道", 好享购物
-http://222.189.177.159:8111/rtp/239.49.9.41:6000
-#EXTINF:-1, group-title="其他频道", 宝宝动画
-http://222.189.177.159:8111/rtp/239.49.1.213:6000
-#EXTINF:-1, group-title="其他频道", 家庭理财
-http://118.79.113.152:6000/rtp/226.0.2.129:8944
-#EXTINF:-1, group-title="其他频道", 家有购物
-http://222.189.177.159:8111/rtp/239.49.1.252:6000
-#EXTINF:-1, group-title="其他频道", 宿豫综合
-http://222.189.177.159:8111/rtp/239.49.1.98:6000
-#EXTINF:-1, group-title="其他频道", 少儿动画
-http://123.118.53.89:9901/tsfile/live/1011_1.m3u8
-#EXTINF:-1, group-title="其他频道", 少儿天地
-http://182.150.169.173:4022/udp/239.93.42.34:5140
-#EXTINF:-1, group-title="其他频道", 岭南戏曲
-http://121.13.84.106:8000/udp/239.77.0.16:5146
-#EXTINF:-1, group-title="其他频道", 峨眉电影
-http://182.150.169.173:4022/udp/239.93.1.54:5140
-#EXTINF:-1, group-title="其他频道", 幸福彩台
-http://222.189.177.159:8111/rtp/239.49.1.172:6000
-#EXTINF:-1, group-title="其他频道", 康巴卫视
-http://182.150.169.173:4022/udp/239.93.0.41:5140
-#EXTINF:-1, group-title="其他频道", 徐闻综合
-http://121.13.84.106:8000/udp/239.253.43.112:5146
-#EXTINF:-1, group-title="其他频道", 快乐垂钓
-http://222.189.177.159:8111/rtp/239.49.1.225:6000
-#EXTINF:-1, group-title="其他频道", 快乐购物
-http://222.189.177.159:8111/rtp/239.49.1.167:6000
-#EXTINF:-1, group-title="其他频道", 怀旧剧场
-http://222.189.177.159:8111/rtp/239.49.9.12:6000
-#EXTINF:-1, group-title="其他频道", 戏曲精选
-http://222.189.177.159:8111/rtp/239.49.1.120:6000
-#EXTINF:-1, group-title="其他频道", 收视导视
-http://182.150.169.173:4022/udp/239.93.1.39:5140
-#EXTINF:-1, group-title="其他频道", 收视指南
-http://182.150.169.173:4022/udp/239.93.0.195:8012
-#EXTINF:-1, group-title="其他频道", 文化精品
-http://222.189.177.159:8111/rtp/239.49.9.11:6000
-#EXTINF:-1, group-title="其他频道", 文物宝库
-http://118.79.113.152:6000/rtp/226.0.2.110:8792
-#EXTINF:-1, group-title="其他频道", 新沂综合
-http://222.189.177.159:8111/rtp/239.49.1.228:6000
-#EXTINF:-1, group-title="其他频道", 星光影院
-http://222.189.177.159:8111/rtp/239.49.1.197:6000
-#EXTINF:-1, group-title="其他频道", 星光院线
-http://182.150.169.173:4022/udp/239.93.0.139:5140
-#EXTINF:-1, group-title="其他频道", 星空精选
-http://182.150.169.173:4022/udp/239.93.1.171:5140
-#EXTINF:-1, group-title="其他频道", 晋能控股
-http://118.79.113.152:6000/rtp/226.0.2.229:9744
-#EXTINF:-1, group-title="其他频道", 暴走汽车
-http://222.189.177.159:8111/rtp/239.49.8.206:6000
-#EXTINF:-1, group-title="其他频道", 极速汽车
-http://222.189.177.159:8111/rtp/239.49.1.178:6000
-#EXTINF:-1, group-title="其他频道", 桐乡新闻
-http://183.158.209.26:10000/rtp/233.50.201.169:5140
-#EXTINF:-1, group-title="其他频道", 梨园频道
-http://118.79.113.152:6000/rtp/226.0.2.115:8832
-#EXTINF:-1, group-title="其他频道", 欢笑剧场
-http://222.189.177.159:8111/rtp/239.49.8.182:6000
-#EXTINF:-1, group-title="其他频道", 武术世界
-http://118.79.113.152:6000/rtp/226.0.2.97:8688
-#EXTINF:-1, group-title="其他频道", 求索频道
-http://182.150.169.173:4022/udp/239.93.42.24:5140
-#EXTINF:-1, group-title="其他频道", 汽车世界
-http://222.189.177.159:8111/rtp/239.49.1.119:6000
-#EXTINF:-1, group-title="其他频道", 汽车频道
-http://182.150.169.173:4022/udp/239.93.0.117:1292
-#EXTINF:-1, group-title="其他频道", 沛县新闻
-http://222.189.177.159:8111/rtp/239.49.9.19:6000
-#EXTINF:-1, group-title="其他频道", 沭阳综合
-http://222.189.177.159:8111/rtp/239.49.1.117:6000
-#EXTINF:-1, group-title="其他频道", 法治天地
-http://222.189.177.159:8111/rtp/239.49.1.174:6000
-#EXTINF:-1, group-title="其他频道", 泗洪综合
-http://222.189.177.159:8111/rtp/239.49.9.47:6000
-#EXTINF:-1, group-title="其他频道", 泗阳综合
-http://222.189.177.159:8111/rtp/239.49.1.103:6000
-#EXTINF:-1, group-title="其他频道", 测试信号
-http://222.189.177.159:8111/rtp/239.49.1.102:6000
-#EXTINF:-1, group-title="其他频道", 海峡卫视
-http://110.72.87.140:808/hls/72/index.m3u8
-#EXTINF:-1, group-title="其他频道", 港剧风云
-http://222.189.177.159:8111/rtp/239.49.1.201:6000
-#EXTINF:-1, group-title="其他频道", 游戏竞技
-http://222.189.177.159:8111/rtp/239.49.1.71:6000
-#EXTINF:-1, group-title="其他频道", 游戏风云
-http://222.189.177.159:8111/rtp/239.49.1.177:6000
-#EXTINF:-1, group-title="其他频道", 湘茶频道
-http://222.189.177.159:8111/rtp/239.49.1.234:6000
-#EXTINF:-1, group-title="其他频道", 炫动卡通
-http://182.150.169.173:4022/udp/239.93.0.173:5140
-#EXTINF:-1, group-title="其他频道", 热播剧场
-http://182.150.169.173:4022/udp/239.93.0.56:9020
-#EXTINF:-1, group-title="其他频道", 热血剧场
-http://182.150.169.173:4022/udp/239.93.1.198:5140
-#EXTINF:-1, group-title="其他频道", 热门剧场
-http://222.189.177.159:8111/rtp/239.49.1.198:6000
-#EXTINF:-1, group-title="其他频道", 热门卫视
-http://182.150.169.173:4022/udp/239.93.1.34:5140
-#EXTINF:-1, group-title="其他频道", 热门央视
-http://182.150.169.173:4022/udp/239.93.1.33:5140
-#EXTINF:-1, group-title="其他频道", 热门本地
-http://182.150.169.173:4022/udp/239.93.1.35:5140
-#EXTINF:-1, group-title="其他频道", 熊猫体娱
-http://182.150.169.173:4022/udp/239.93.0.94:5140
-#EXTINF:-1, group-title="其他频道", 熊猫频道
-http://182.150.169.173:4022/udp/239.93.0.211:9148
-#EXTINF:-1, group-title="其他频道", 爱上4K
-http://182.150.169.173:4022/udp/239.93.0.97:5140
-#EXTINF:-1, group-title="其他频道", 爱宠宠物
-http://182.150.169.173:4022/udp/239.93.42.32:5140
-#EXTINF:-1, group-title="其他频道", 环球奇观
-http://118.79.113.152:6000/rtp/226.0.2.111:8800
-#EXTINF:-1, group-title="其他频道", 环球新闻
-http://222.189.177.159:8111/rtp/239.49.1.9:6000
-#EXTINF:-1, group-title="其他频道", 环球旅游
-http://118.79.113.152:6000/rtp/226.0.2.127:8928
-#EXTINF:-1, group-title="其他频道", 现代教育
-http://121.13.84.106:8000/udp/239.77.0.18:5146
-#EXTINF:-1, group-title="其他频道", 生态环境
-http://118.79.113.152:6000/rtp/226.0.2.120:8872
-#EXTINF:-1, group-title="其他频道", 生活时尚
-http://222.189.177.159:8111/rtp/239.49.1.181:6000
-#EXTINF:-1, group-title="其他频道", 电子竞技
-http://222.189.177.159:8111/rtp/239.49.1.193:6000
-#EXTINF:-1, group-title="其他频道", 电竞天堂
-http://182.150.169.173:4022/udp/239.93.1.135:5140
-#EXTINF:-1, group-title="其他频道", 电竞直播
-http://222.189.177.159:8111/rtp/239.49.8.151:6000
-#EXTINF:-1, group-title="其他频道", 电视指南
-http://222.189.177.159:8111/rtp/239.49.9.5:6000
-#EXTINF:-1, group-title="其他频道", 百变课堂
-http://222.189.177.159:8111/rtp/239.49.1.121:6000
-#EXTINF:-1, group-title="其他频道", 百姓健康
-http://118.79.113.152:6000/rtp/226.0.2.132:8968
-#EXTINF:-1, group-title="其他频道", 盱眙新闻
-http://222.189.177.159:8111/rtp/239.49.9.18:6000
-#EXTINF:-1, group-title="其他频道", 直播室1
-http://182.150.169.173:4022/udp/239.93.1.180:5140
-#EXTINF:-1, group-title="其他频道", 直播室3
-http://182.150.169.173:4022/udp/239.93.1.182:5140
-#EXTINF:-1, group-title="其他频道", 直播室4
-http://182.150.169.173:4022/udp/239.93.1.183:5140
-#EXTINF:-1, group-title="其他频道", 直播室5
-http://182.150.169.173:4022/udp/239.93.1.184:5140
-#EXTINF:-1, group-title="其他频道", 直播室6
-http://182.150.169.173:4022/udp/239.93.1.185:5140
-#EXTINF:-1, group-title="其他频道", 睢宁综合
-http://222.189.177.159:8111/rtp/239.49.1.246:6000
-#EXTINF:-1, group-title="其他频道", 第一剧场
-http://222.189.177.159:8111/rtp/239.49.9.15:6000
-#EXTINF:-1, group-title="其他频道", 第一财*
-http://222.189.177.159:8111/rtp/239.49.1.168:6000
-#EXTINF:-1, group-title="其他频道", 红色经典
-http://182.150.169.173:4022/udp/239.93.1.176:5140
-#EXTINF:-1, group-title="其他频道", 纪实人文
-http://182.150.169.173:4022/udp/239.93.1.154:5140
-#EXTINF:-1, group-title="其他频道", 经济科教
-http://121.13.84.106:8000/udp/239.77.0.167:5146
-#EXTINF:-1, group-title="其他频道", 绚影4K
-http://182.150.169.173:4022/udp/239.93.42.33:5140
-#EXTINF:-1, group-title="其他频道", 综艺咖秀
-http://182.150.169.173:4022/udp/239.93.1.175:5140
-#EXTINF:-1, group-title="其他频道", 聚鲨环球
-http://222.189.177.159:8111/rtp/239.49.9.2:6000
-#EXTINF:-1, group-title="其他频道", 蓉城先锋
-http://182.150.169.173:4022/udp/239.93.0.91:2101
-#EXTINF:-1, group-title="其他频道", 证券服务
-http://118.79.113.152:6000/rtp/226.0.2.71:8480
-#EXTINF:-1, group-title="其他频道", 谍战剧场
-http://222.189.177.159:8111/rtp/239.49.1.122:6000
-#EXTINF:-1, group-title="其他频道", 财富天下
-http://222.189.177.159:8111/rtp/239.49.1.29:6000
-#EXTINF:-1, group-title="其他频道", 贾汪新闻
-http://222.189.177.159:8111/rtp/239.49.8.193:6000
-#EXTINF:-1, group-title="其他频道", 赣榆综合
-http://222.189.177.159:8111/rtp/239.49.1.247:6000
-#EXTINF:-1, group-title="其他频道", 车迷频道
-http://171.117.247.192:8083/rtp/226.0.2.138:9016
-#EXTINF:-1, group-title="其他频道", 连云公共
-http://222.189.177.159:8111/rtp/239.49.1.245:6000
-#EXTINF:-1, group-title="其他频道", 连云新闻
-http://222.189.177.159:8111/rtp/239.49.1.244:6000
-#EXTINF:-1, group-title="其他频道", 邳州综合
-http://222.189.177.159:8111/rtp/239.49.1.232:6000
-#EXTINF:-1, group-title="其他频道", 都市剧场
-http://222.189.177.159:8111/rtp/239.49.1.170:6000
-#EXTINF:-1, group-title="其他频道", 金色学堂
-http://171.117.247.192:8083/rtp/226.0.2.182:9368
-#EXTINF:-1, group-title="其他频道", 金色频道
-http://222.189.177.159:8111/rtp/239.49.1.169:6000
-#EXTINF:-1, group-title="其他频道", 金鹰卡通
-http://220.194.178.58:8888/newlive/live/hls/56/live.m3u8
-#EXTINF:-1, group-title="其他频道", 金鹰纪实
-http://222.189.177.159:8111/rtp/239.49.8.203:6000
-#EXTINF:-1, group-title="其他频道", 钱江频道
-http://183.158.209.26:10000/rtp/233.50.201.132:5140
-#EXTINF:-1, group-title="其他频道", 青春动漫
-http://222.189.177.159:8111/rtp/239.49.1.212:6000
-#EXTINF:-1, group-title="其他频道", 音乐现场
-http://182.150.169.173:4022/udp/239.93.0.198:9044
-#EXTINF:-1, group-title="其他频道", 风云剧场
-http://222.189.177.159:8111/rtp/239.49.9.10:6000
-#EXTINF:-1, group-title="其他频道", 风云足球
-http://222.189.177.159:8111/rtp/239.49.9.6:6000
-#EXTINF:-1, group-title="其他频道", 风云音乐
-http://222.189.177.159:8111/rtp/239.49.9.13:6000
-#EXTINF:-1, group-title="其他频道", 香山文化
-http://121.13.84.106:8000/udp/239.253.43.63:5146
-#EXTINF:-1, group-title="其他频道", 高尔夫球
-http://222.189.177.159:8111/rtp/239.49.9.7:6000
-#EXTINF:-1, group-title="其他频道", 高淳综合
-http://222.189.177.159:8111/rtp/239.49.1.142:6000
-#EXTINF:-1, group-title="其他频道", 魅力时尚
-http://182.150.169.173:4022/udp/239.93.0.190:9012
-#EXTINF:-1, group-title="其他频道", 魅力足球
-http://222.189.177.159:8111/rtp/239.49.8.181:6000
-#EXTINF:-1, group-title="其他频道", 麻辣体育
-http://182.150.169.173:4022/udp/239.93.42.2:5140
-#EXTINF:-1, group-title="其他频道", 齐鲁频道
-http://144.52.162.169:9901/tsfile/live/1018_1.m3u8
-#EXTINF:-1, group-title="其他频道", 4K超电影
-http://182.150.169.173:4022/udp/239.93.1.156:5140
-#EXTINF:-1, group-title="其他频道", BTV体育
-http://123.118.53.89:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1, group-title="其他频道", BTV影视
-http://123.118.53.89:9901/tsfile/live/0019_1.m3u8
-#EXTINF:-1, group-title="其他频道", BTV文艺
-http://123.118.53.89:9901/tsfile/live/0017_1.m3u8
-#EXTINF:-1, group-title="其他频道", BTV新闻
-http://123.118.53.89:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1, group-title="其他频道", BTV生活
-http://123.118.53.89:9901/tsfile/live/1003_1.m3u8
-#EXTINF:-1, group-title="其他频道", BTV科教
-http://123.118.53.89:9901/tsfile/live/0018_1.m3u8
-#EXTINF:-1, group-title="其他频道", BTV财经
-http://123.118.53.89:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1, group-title="其他频道", CETV1
-http://118.79.113.152:6000/rtp/226.0.2.68:8456
-#EXTINF:-1, group-title="其他频道", CETV2
-http://118.79.113.152:6000/rtp/226.0.2.69:8464
-#EXTINF:-1, group-title="其他频道", CETV4
-http://118.79.113.152:6000/rtp/226.0.2.70:8472
-#EXTINF:-1, group-title="其他频道", CHC电影
-http://118.79.113.152:6000/rtp/226.0.2.93:8004
-#EXTINF:-1, group-title="其他频道", 中国体育1
-http://182.150.169.173:4022/udp/239.93.42.25:5140
-#EXTINF:-1, group-title="其他频道", 中国体育2
-http://182.150.169.173:4022/udp/239.93.42.26:5140
-#EXTINF:-1, group-title="其他频道", 中国体育3
-http://182.150.169.173:4022/udp/239.93.42.27:5140
-#EXTINF:-1, group-title="其他频道", 云演艺宣传
-http://182.150.169.173:4022/udp/239.93.42.60:5140
-#EXTINF:-1, group-title="其他频道", 古交电视台
-http://118.79.113.152:6000/rtp/226.0.2.192:9448
-#EXTINF:-1, group-title="其他频道", 大湾区卫视
-http://121.13.84.106:8000/udp/239.77.0.215:5146
-#EXTINF:-1, group-title="其他频道", 孝义电视台
-http://171.117.247.192:8083/rtp/226.0.2.189:9424
-#EXTINF:-1, group-title="其他频道", 熊猫爱生活
-http://182.150.169.173:4022/udp/239.93.1.190:5140
-#EXTINF:-1, group-title="其他频道", 电信导视3
-http://182.150.169.173:4022/udp/239.93.0.110:5140
-#EXTINF:-1, group-title="其他频道", 直播室-1
-http://222.189.177.159:8111/rtp/239.49.1.189:6000
-#EXTINF:-1, group-title="其他频道", 直播室-2
-http://222.189.177.159:8111/rtp/239.49.1.190:6000
-#EXTINF:-1, group-title="其他频道", 直播室-3
-http://222.189.177.159:8111/rtp/239.49.1.191:6000
-#EXTINF:-1, group-title="其他频道", 直播室-4
-http://222.189.177.159:8111/rtp/239.49.1.192:6000
-#EXTINF:-1, group-title="其他频道", 直播室-5
-http://222.189.177.159:8111/rtp/239.49.1.204:6000
-#EXTINF:-1, group-title="其他频道", 直播室-6
-http://222.189.177.159:8111/rtp/239.49.1.205:6000
-#EXTINF:-1, group-title="其他频道", 直播室-7
-http://222.189.177.159:8111/rtp/239.49.1.206:6000
-#EXTINF:-1, group-title="其他频道", 直播室-8
-http://222.189.177.159:8111/rtp/239.49.1.207:6000
-#EXTINF:-1, group-title="其他频道", 直播室-9
-http://222.189.177.159:8111/rtp/239.49.1.208:6000
-#EXTINF:-1, group-title="其他频道", 直播室10
-http://222.189.177.159:8111/rtp/239.49.8.171:6000
-#EXTINF:-1, group-title="其他频道", 直播室11
-http://222.189.177.159:8111/rtp/239.49.1.210:6000
-#EXTINF:-1, group-title="其他频道", 红原月亮湾
-http://182.150.169.173:4022/udp/239.93.0.209:5140
-#EXTINF:-1, group-title="其他频道", 资讯新干线
-http://182.150.169.173:4022/udp/239.93.0.236:1283
-#EXTINF:-1, group-title="其他频道", 金熊猫卡通
-http://182.150.169.173:4022/udp/239.93.1.172:5140
-#EXTINF:-1, group-title="其他频道", 黄河电视台
-http://220.194.178.58:8888/newlive/live/hls/51/live.m3u8
-#EXTINF:-1, group-title="其他频道", CDTV-1
-http://182.150.169.173:4022/udp/239.93.0.16:5140
-#EXTINF:-1, group-title="其他频道", CDTV-8
-http://182.150.169.173:4022/udp/239.93.0.22:1252
-#EXTINF:-1, group-title="其他频道", CGTN俄语
-http://121.13.84.106:8000/udp/239.253.43.201:5146
-#EXTINF:-1, group-title="其他频道", CGTN法语
-http://121.13.84.106:8000/udp/239.77.0.228:5146
-#EXTINF:-1, group-title="其他频道", CGTN英语
-http://121.13.84.106:8000/udp/239.77.0.199:5146
-#EXTINF:-1, group-title="其他频道", HZTV-1
-http://121.13.84.106:8000/udp/239.77.1.154:5146
-#EXTINF:-1, group-title="其他频道", HZTV-2
-http://121.13.84.106:8000/udp/239.77.1.173:5146
-#EXTINF:-1, group-title="其他频道", SCTV-3
-http://182.150.169.173:4022/udp/239.93.1.102:5140
-#EXTINF:-1, group-title="其他频道", SCTV-5
-http://182.150.169.173:4022/udp/239.93.0.166:5140
-#EXTINF:-1, group-title="其他频道", 亲子趣学4K
-http://182.150.169.173:4022/udp/239.93.1.191:5140
-#EXTINF:-1, group-title="其他频道", 欢笑剧场4K
-http://222.189.177.159:8111/rtp/239.49.8.231:6000
-#EXTINF:-1, group-title="其他频道", 津津悦读4K
-http://182.150.169.173:4022/udp/239.93.1.197:5140
-#EXTINF:-1, group-title="其他频道", 聚鲨环球精选
-http://171.117.247.192:8083/rtp/226.0.2.122:8888
-#EXTINF:-1, group-title="其他频道", CHC动作电影
-http://118.79.113.152:6000/rtp/226.0.2.94:8012
-#EXTINF:-1, group-title="其他频道", CHC家庭影院
-http://118.79.113.152:6000/rtp/226.0.2.240:9820
-#EXTINF:-1, group-title="其他频道", SCTV-科教
-http://182.150.169.173:4022/udp/239.93.42.44:5140
-#EXTINF:-1, group-title="其他频道", 东南卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.201:5140
-#EXTINF:-1, group-title="其他频道", 南国都市 4K
-http://121.13.84.106:8000/udp/239.253.43.99:5146
-#EXTINF:-1, group-title="其他频道", 喜剧影院画中画
-http://182.150.169.173:4022/udp/239.93.0.36:5140
-#EXTINF:-1, group-title="其他频道", 峨眉电影画中画
-http://182.150.169.173:4022/udp/239.93.1.161:5140
-#EXTINF:-1, group-title="其他频道", 广视课堂 初一
-http://121.13.84.106:8000/udp/239.253.43.89:5146
-#EXTINF:-1, group-title="其他频道", 广视课堂 初三
-http://121.13.84.106:8000/udp/239.253.43.91:5146
-#EXTINF:-1, group-title="其他频道", 广视课堂 初二
-http://121.13.84.106:8000/udp/239.253.43.90:5146
-#EXTINF:-1, group-title="其他频道", 广视课堂 高一
-http://121.13.84.106:8000/udp/239.253.43.92:5146
-#EXTINF:-1, group-title="其他频道", 广视课堂 高二
-http://121.13.84.106:8000/udp/239.253.43.93:5146
-#EXTINF:-1, group-title="其他频道", 康巴卫视画中画
-http://182.150.169.173:4022/udp/239.93.1.149:5140
-#EXTINF:-1, group-title="其他频道", 收视导视画中画
-http://182.150.169.173:4022/udp/239.93.1.243:5140
-#EXTINF:-1, group-title="其他频道", 炫动卡通画中画
-http://182.150.169.173:4022/udp/239.93.0.33:5140
-#EXTINF:-1, group-title="其他频道", 热门剧场画中画
-http://182.150.169.173:4022/udp/239.93.0.39:5140
-#EXTINF:-1, group-title="其他频道", 热门央视-体验
-http://182.150.169.173:4022/udp/239.93.1.47:5140
-#EXTINF:-1, group-title="其他频道", 熊猫影院画中画
-http://182.150.169.173:4022/udp/239.93.0.220:5140
-#EXTINF:-1, group-title="其他频道", 熊猫直播画中画
-http://182.150.169.173:4022/udp/239.93.0.172:5140
-#EXTINF:-1, group-title="其他频道", 种养新影老故事
-http://171.117.247.192:8083/rtp/226.0.2.112:8808
-#EXTINF:-1, group-title="其他频道", 雅克音乐节宣传
-http://182.150.169.173:4022/udp/239.93.42.68:5140
-#EXTINF:-1, group-title="其他频道", CETV早期教育
-http://118.79.113.152:6000/rtp/226.0.2.99:8704
-#EXTINF:-1, group-title="其他频道", CGTN-画中画
-http://182.150.169.173:4022/udp/239.93.0.216:5140
-#EXTINF:-1, group-title="其他频道", CGTN西班牙语
-http://121.13.84.106:8000/udp/239.77.0.221:5146
-#EXTINF:-1, group-title="其他频道", CGTN阿拉伯语
-http://113.74.204.2:4022/udp/239.253.43.200:5146
-#EXTINF:-1, group-title="其他频道", 创新及人才文化节
-http://182.150.169.173:4022/udp/239.93.42.59:5140
-#EXTINF:-1, group-title="其他频道", 峨眉电影-单音轨
-http://182.150.169.173:4022/udp/239.93.1.95:5140
-#EXTINF:-1, group-title="其他频道", 广视课堂 小学一
-http://121.13.84.106:8000/udp/239.253.43.76:5146
-#EXTINF:-1, group-title="其他频道", 广视课堂 小学三
-http://121.13.84.106:8000/udp/239.253.43.78:5146
-#EXTINF:-1, group-title="其他频道", 广视课堂 小学二
-http://121.13.84.106:8000/udp/239.253.43.77:5146
-#EXTINF:-1, group-title="其他频道", 广视课堂 小学五
-http://121.13.84.106:8000/udp/239.253.43.80:5146
-#EXTINF:-1, group-title="其他频道", 广视课堂 小学六
-http://121.13.84.106:8000/udp/239.253.43.81:5146
-#EXTINF:-1, group-title="其他频道", 广视课堂 小学四
-http://121.13.84.106:8000/udp/239.253.43.79:5146
-#EXTINF:-1, group-title="其他频道", 熊猫新闻-单音轨
-http://182.150.169.173:4022/udp/239.93.1.98:5140
-#EXTINF:-1, group-title="其他频道", 金熊猫卡通画中画
-http://182.150.169.173:4022/udp/239.93.0.232:5140
-#EXTINF:-1, group-title="其他频道", CDTV-1画中画
-http://182.150.169.173:4022/udp/239.93.1.58:5140
-#EXTINF:-1, group-title="其他频道", CDTV-5画中画
-http://182.150.169.173:4022/udp/239.93.1.57:5140
-#EXTINF:-1, group-title="其他频道", CHANNEL-V
-http://182.150.169.173:4022/udp/239.93.1.7:2194
-#EXTINF:-1, group-title="其他频道", SCTV-2画中画
-http://182.150.169.173:4022/udp/239.93.1.62:5140
-#EXTINF:-1, group-title="其他频道", SCTV-4画中画
-http://182.150.169.173:4022/udp/239.93.1.139:5140
-#EXTINF:-1, group-title="其他频道", SCTV-5画中画
-http://182.150.169.173:4022/udp/239.93.1.254:5140
-#EXTINF:-1, group-title="其他频道", SCTV-9画中画
-http://182.150.169.173:4022/udp/239.93.1.148:5140
-#EXTINF:-1, group-title="其他频道", 城市大明星-单音轨
-http://182.150.169.173:4022/udp/239.93.1.93:5140
-#EXTINF:-1, group-title="其他频道", CDTV-2-画中画
-http://182.150.169.173:4022/udp/239.93.0.137:5140
-#EXTINF:-1, group-title="其他频道", CDTV-3-画中画
-http://182.150.169.173:4022/udp/239.93.0.153:5140
-#EXTINF:-1, group-title="其他频道", CDTV-4-画中画
-http://182.150.169.173:4022/udp/239.93.1.118:5140
-#EXTINF:-1, group-title="其他频道", CDTV-6-画中画
-http://182.150.169.173:4022/udp/239.93.1.119:5140
-#EXTINF:-1, group-title="其他频道", CDTV-8-画中画
-http://182.150.169.173:4022/udp/239.93.1.121:5140
-#EXTINF:-1, group-title="其他频道", SCTV-科教画中画
-http://182.150.169.173:4022/udp/239.93.1.146:5140
-#EXTINF:-1, group-title="其他频道", 少儿才艺大赛-单音轨
-http://182.150.169.173:4022/udp/239.93.1.96:5140
-#EXTINF:-1, group-title="其他频道", 爱上4K 17M2160
-http://182.150.169.173:4022/udp/239.93.1.113:5140
 
 
 
