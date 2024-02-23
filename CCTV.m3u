@@ -1606,6 +1606,7 @@ http://123.147.79.43:8003/udp/225.0.4.171:7980
 #EXTINF:-1 group-title="陕西重庆",星影
 http://123.147.79.43:8003/udp/225.0.4.172:7980
 
+
 #EXTINF:-1 group-title="港澳地區",V2
 http://ali.hlspull.yximgs.com/live/3625bb59544aaed76d4505fedfa7a16a.flv
 #EXTINF:-1 group-title="港澳地區",翡翠台
@@ -1614,6 +1615,19 @@ http://ali.hlspull.yximgs.com/live/f22b736f7faed79a1a3fec0029d88483.flv
 http://ali.hlspull.yximgs.com/live/7be36b469a80903701386c5e5c8a2a2a.flv
 #EXTINF:-1 group-title="港澳地區",無線新聞台
 http://ali.hlspull.yximgs.com/live/3900a087d51f2c3eb74aa3445cbcad9e.flv
+#EXTINF:-1 group-title="港澳地區",HBO
+https://ali.hlspull.yximgs.com/live/f9bf8c8ccf5c3cc267862ac0db64a2d6.flv
+#EXTINF:-1 group-title="港澳地區",HBOHits
+https://ali.hlspull.yximgs.com/live/ebc67b678c3270b9c1f0d4b2cd1a50ec.flv
+#EXTINF:-1 group-title="港澳地區",AXN
+http://ali.hlspull.yximgs.com/live/f0b19faaafcafb4955baadc1c74a2f90.flv
+#EXTINF:-1 group-title="港澳地區",HBOfamily
+https://ali.hlspull.yximgs.com/live/9d14af5cc5cd581744102292aafd68d9.flv
+#EXTINF:-1 group-title="港澳地區",HBOsignature
+https://ali.hlspull.yximgs.com/live/0597c8b6529b2b0e4bc5cefc106e5863.flv
+#EXTINF:-1 group-title="港澳地區",Cinemax
+https://ali.hlspull.yximgs.com/live/37e53748e2d3f54aea70d8365a8137f6.flv
+
 
 
 
