@@ -1607,6 +1607,7 @@ http://123.147.79.43:8003/udp/225.0.4.171:7980
 http://123.147.79.43:8003/udp/225.0.4.172:7980
 
 
+
 #EXTINF:-1 group-title="港澳地區",V2
 http://ali.hlspull.yximgs.com/live/3625bb59544aaed76d4505fedfa7a16a.flv
 #EXTINF:-1 group-title="港澳地區",翡翠台
@@ -1627,6 +1628,11 @@ https://ali.hlspull.yximgs.com/live/9d14af5cc5cd581744102292aafd68d9.flv
 https://ali.hlspull.yximgs.com/live/0597c8b6529b2b0e4bc5cefc106e5863.flv
 #EXTINF:-1 group-title="港澳地區",Cinemax
 https://ali.hlspull.yximgs.com/live/37e53748e2d3f54aea70d8365a8137f6.flv
+#EXTINF:-1 group-title="港澳地區",亞美電影
+http://ali.hlspull.yximgs.com/live/adf165da5f0433845434787e135704df.flv
+#EXTINF:-1 group-title="港澳地區",龍祥電影台
+http://ali.hlspull.yximgs.com/live/70c1ed7ca5d9b21a673635c000c2c17f.flv
+
 
 
 
