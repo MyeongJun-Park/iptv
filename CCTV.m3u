@@ -1607,7 +1607,10 @@ http://123.147.79.43:8003/udp/225.0.4.171:7980
 http://123.147.79.43:8003/udp/225.0.4.172:7980
 
 
-
+#EXTINF:-1 group-title="港澳台",VJ2
+http://ali.hlspull.yximgs.com/live/3625bb59544aaed76d4505fedfa7a16a.flv
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://ali.hlspull.yximgs.com/live/f22b736f7faed79a1a3fec0029d88483.flv
 #EXTINF:-1 group-title="港澳台",翡翠台) (粤语字幕) (720p)
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 #EXTINF:-1 group-title="港澳台",翡翠台
