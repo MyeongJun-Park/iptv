@@ -15,8 +15,8 @@ https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Policy=eyJTdGF0
 https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-02/kbsnlife-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2OTUyMTc2OH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=CzQNvgdiK5BuYVSzz6tgOA~vZYZm0ZjHXC38RbAxHGJTwZYLN5F-aC3NGFDYwKfGdAQ0-sTw4VvXsZAVYRIoQJDYp7QDCppQ40OOxsWrPTI7GMUtyWrcNU96oNOyYNh3Y05ybEyJAi9Ww8oSr4swmJ-iwSDO6oLBj7MhVf8B~BzX79GKOWTtMeHA63UAgKBv2v0RFP0FO8ZsOeRvj1EWc2pf-VmTy1ks2Ri1H-5iCkzHIYNToN~iCiLrjo-O1e2er2ZpVp04ZBFJprGUNEtta-oY4rCc5C7-vBfEnIeYBjPUW~Nqq6KUQFBqOQdTf65UAO-Yimii-m--V5q7NghRpA__
 #EXTINF:-1 group-title="•한국",KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 group-title="•한국",KBS Story
-http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 group-title="•한국",KBS tory
+https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2OTUyMjMyM319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=lnATghTSygTDI4llE4um4-0rnJaCMwrMdDoIeSghOt-zVHeK3eWa7jyvz4iM-0xvPTyAZgVQoWhJqDdiAdQrAR7ZsU-qbjf9Lpl2Kc4cxVHPwKLEvxwhUsa6bzeajGY9m3m4IVgCTI2ASI65nsCdD~jqIiBwZpIZlmksqpz0i0hNgmJHPbFuGoVWsTbcuncgc8ZOSWUJVGH901E8ItO4-UmywEJfuyqq2twLi25HufAU0LcDyeY~VZw2FKHq7s6sBOfmLi3E-IHVjFJ6QlB9z8qYviASCQW-euVuvJFpy5Y~TfgIr78zcp5Zo1mhAUEg71q7AerVJ6cvcOSbFhqKjg__
 #EXTINF:-1 group-title="•한국",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 group-title="•한국",KCTV 광주
