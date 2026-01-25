@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="•한국",KBS 1
-https://tv.iill.top/kbs/11&p=0
+https://tv.
 #EXTINF:-1 group-title="•한국",KBS 2
 https://tv.iill.top/kbs/12&p=0
 #EXTINF:-1 group-title="•한국",KBS뉴스
@@ -8,7 +8,7 @@ https://me2.do/GaT1zKpF
 #EXTINF:-1 group-title="•한국",KBC SBS 예능
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="•한국",KBS Drama
-http://mytv.dothome.co.kr/ch/catv/2.php
+https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY5NTIwMDg1fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=PGZg6XEsBT6CschrhxPF4UvhTaFwQg2pktU5ehdxzM6M1YOR2DwllSdiAVyMa-RGhyMtT0S0n4nDOoqeHVhPjfsQ5S4dRM5fDUEmdaKKPq8SqJpSBggEj59RWx0u57R7B-FnlmAqwdANt1I~CnJUOhQRkqW1jsbrzVN1hpwer5HJwyYDrQat2mRc4EIxtCEL7lCBaon4R27i0QX4uqgdlaWPOE6vn9ieBAoqyz9xMkGWAPM6PpHy40k5Q7gxg0vNwfFXBNfyrnUy225yK9-FknlwmjDCYzwj9n41dWgiBSXKHyGgff4JFPE4Z95U~l-1fzUWKduSodSY1IswFdHUHw__
 #EXTINF:-1 group-title="•한국",KBS Joy
 http://mytv.dothome.co.kr/ch/catv/3.php
 #EXTINF:-1 group-title="•한국",KBS Kids
