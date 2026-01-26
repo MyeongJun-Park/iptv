@@ -21,10 +21,6 @@ http://43.165.182.125/hls/KBSWORLD.m3u8
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 #EXTINF:-1 group-title="•한국",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 group-title="•한국",KShopping
-https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
-#EXTINF:-1 group-title="•한국",MBC
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="•한국",MBC
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 group-title="•한국",NBS
@@ -36,39 +32,17 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="•한국",국방国防TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 group-title="•한국",연합뉴스
-https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="•한국",연합뉴스
 https://rb.gy/telq1m
 #EXTINF:-1 group-title="•한국",티비조선
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_213_B633C402.m3u8
 #EXTINF:-1 group-title="•한국",SBS
 http://www.hwado.net/webtv/public/31_0B41417D.php
-#EXTINF:-1 group-title="•한국",MBN
-http://www.hwado.net/webtv/catv/54.php
-#EXTINF:-1 group-title="•한국",MBC
-http://www.hwado.net/webtv/public/21_573058EB.php
 #EXTINF:-1 group-title="•한국",MBC드라마
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
 #EXTINF:-1 group-title="•한국",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="•한국",FTV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
-#EXTINF:-1 group-title="•한국",KBS1
-http://www.hwado.net/webtv/public/1.php
-#EXTINF:-1 group-title="•한국",KBS2
-http://www.hwado.net/webtv/public/3.php
-#EXTINF:-1 group-title="•한국",KBS드라마
-http://www.hwado.net/webtv/catv/2.php
-#EXTINF:-1 group-title="•한국",KBS JOY
-http://www.hwado.net/webtv/catv/3.php
-#EXTINF:-1 group-title="•한국",KBS STORY
-http://www.hwado.net/webtv/catv/4.php
-#EXTINF:-1 group-title="•한국",KBS LIFE
-http://www.hwado.net/webtv/catv/5.php
-#EXTINF:-1 group-title="•한국",KBS Kids
-http://www.hwado.net/webtv/catv/6.php
-#EXTINF:-1 group-title="•한국",KBSWO RLDTV
-http://www.hwado.net/webtv/catv/7.php
 #EXTINF:-1 group-title="•한국",SBS
 http://www.hwado.net/webtv/public/31_0B41417D.php
 #EXTINF:-1 group-title="•한국",SBS Plus
