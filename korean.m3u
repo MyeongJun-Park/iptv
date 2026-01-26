@@ -1,24 +1,22 @@
 #EXTM3U
-#EXTINF:-1 group-title="•한국",KBS 1
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njk1MjA4NDV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=igOzNTsYgVaLajsXwzXvYZl9XqWvyH4NWwYysvEMjr4mtFUZujjzNIcdTIyFAvsdzvmgoegZtl0SAONz-CJBWevrDSPrUJOl0mwIfC9dDw-dbcIwGMBdnpZM1H0-e4bUdik18yLYsv8o-svN40IXimgrf4EO~R3K~Nsx6tZH-L0JjpB1OFKC8~3MMMrMWH5BrU~rR6LBikO~r2ZvzAq0fju-FcEASyO4Ye9hCOwVi6RAbRJ0oB-d7l-FsiWpI5QaG7NYsCfUJWgsVg3dFODqDuZGAbAaF7xVQ3Hgq1ir4vx-qCtHxSDLzJuEFDlBZ-0lKNPbFRuCmUtVsugU9iD4hQ__
-#EXTINF:-1 group-title="•한국",KBS 2
-https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njk1MjA3MzN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=OUvZ~3zicUsWoF~dktoJR8RDjbWaw6ISEijtHZvJEXCdLtMKdzgHD7obG2Twu1hk6YX57WEjE4OUTjmi6ht22j3Sz0D6XP5fr5gcj0RqauLdUnmJDgS4cQ0sTvEbutRUk0eKe95k5W4EodKvWOTtQJnK8q3cW0lW2M2mWFkyAODiKlsC3d76ieqcGJXOwk~tnpP~E0-WAFdkm2OYbQepXG57PcA0N8CbUm2-wn3F1UrKjsWu2sPfeIIFU9FkrXMXMibZlc2iqDOVg8HYXxYm6dXKKXl4SA0q1rqlZL~TkbXFHVc5NpBQHSIIKCyGki3IbVluikMQctLA5O7jr88sXQ__
-#EXTINF:-1 group-title="•한국",KBS뉴스
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njk1MjA4NDV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=igOzNTsYgVaLajsXwzXvYZl9XqWvyH4NWwYysvEMjr4mtFUZujjzNIcdTIyFAvsdzvmgoegZtl0SAONz-CJBWevrDSPrUJOl0mwIfC9dDw-dbcIwGMBdnpZM1H0-e4bUdik18yLYsv8o-svN40IXimgrf4EO~R3K~Nsx6tZH-L0JjpB1OFKC8~3MMMrMWH5BrU~rR6LBikO~r2ZvzAq0fju-FcEASyO4Ye9hCOwVi6RAbRJ0oB-d7l-FsiWpI5QaG7NYsCfUJWgsVg3dFODqDuZGAbAaF7xVQ3Hgq1ir4vx-qCtHxSDLzJuEFDlBZ-0lKNPbFRuCmUtVsugU9iD4hQ__
-#EXTINF:-1 group-title="•한국",KBS Drama
-https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY5NTIwMDg1fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=PGZg6XEsBT6CschrhxPF4UvhTaFwQg2pktU5ehdxzM6M1YOR2DwllSdiAVyMa-RGhyMtT0S0n4nDOoqeHVhPjfsQ5S4dRM5fDUEmdaKKPq8SqJpSBggEj59RWx0u57R7B-FnlmAqwdANt1I~CnJUOhQRkqW1jsbrzVN1hpwer5HJwyYDrQat2mRc4EIxtCEL7lCBaon4R27i0QX4uqgdlaWPOE6vn9ieBAoqyz9xMkGWAPM6PpHy40k5Q7gxg0vNwfFXBNfyrnUy225yK9-FknlwmjDCYzwj9n41dWgiBSXKHyGgff4JFPE4Z95U~l-1fzUWKduSodSY1IswFdHUHw__
-#EXTINF:-1 group-title="•한국",KBS Joy
-https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njk1MjEwNDh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=c~at4irJev60j4gQ5EQl4RY~E8BpeV6IWeT51cMNCmfNmVNK2FwHAJDQl690LVv-26J~B0TUHEqTv1cBfq4fO-RfOY7N-3dy6O9UXKG418WPzuxBIbYxBupcuVgD8VrM8m6fmCljdf7dWjM1TK1IFvnPU5oYT9a0XwGPtOKEuZbajMgprzdVDQqQp1wEW-4~iZd43tPgFw8kEWrMWTX6oQ9DX59uwdvzkvU99b0dUfLIaxZA5dr8TtKakY0g4v9pm3dSMAChpPm5b8Q6igcEXTXTHjTMBZLs9XblPFDL2ICrGe44DCRbaLP6agu9GKwl2hQ39vJe9cN39yJ54OOCZg__
-#EXTINF:-1 group-title="•한국",KBS Kids
-https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2OTUyMTUzNn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=BOj0WQOtsV5NBdEmM~aHgbqT5IzV-01Se9G7cCtzHBX35TRbL~jHtEMIDQeS95VKFxxBeoEkiISTrL-4dVJUdqUcVaSR3JXT3VYFHuzqpgcoHENmljzjoURikKnycYkuyOzioOexhjLDg0vubQhjTAQvLMhj3wHOaMKmAN6VvrnURC986Q7Hw1JRQr64YqMncmt-8BCSoOchHD8W770hYNC5mo5sW0RSU9rJGBBuJnr3gsh6XBMDfIUFvoG1wAtk~rRU2329QrCckGFj5ZmxwVCuvKg6THSFMdrD6Kr3Nu4juyVs48PFbomjIVn~~qcSGiFkXkF~MSkUA0dR-pSAmw__
-#EXTINF:-1 group-title="•한국",KBS LIFE
-https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-02/kbsnlife-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2OTUyMTc2OH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=CzQNvgdiK5BuYVSzz6tgOA~vZYZm0ZjHXC38RbAxHGJTwZYLN5F-aC3NGFDYwKfGdAQ0-sTw4VvXsZAVYRIoQJDYp7QDCppQ40OOxsWrPTI7GMUtyWrcNU96oNOyYNh3Y05ybEyJAi9Ww8oSr4swmJ-iwSDO6oLBj7MhVf8B~BzX79GKOWTtMeHA63UAgKBv2v0RFP0FO8ZsOeRvj1EWc2pf-VmTy1ks2Ri1H-5iCkzHIYNToN~iCiLrjo-O1e2er2ZpVp04ZBFJprGUNEtta-oY4rCc5C7-vBfEnIeYBjPUW~Nqq6KUQFBqOQdTf65UAO-Yimii-m--V5q7NghRpA__
-#EXTINF:-1 group-title="•한국",KBS LiveCam DokDo
-http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 group-title="•한국",KBS tory
-https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2OTUyMjMyM319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=lnATghTSygTDI4llE4um4-0rnJaCMwrMdDoIeSghOt-zVHeK3eWa7jyvz4iM-0xvPTyAZgVQoWhJqDdiAdQrAR7ZsU-qbjf9Lpl2Kc4cxVHPwKLEvxwhUsa6bzeajGY9m3m4IVgCTI2ASI65nsCdD~jqIiBwZpIZlmksqpz0i0hNgmJHPbFuGoVWsTbcuncgc8ZOSWUJVGH901E8ItO4-UmywEJfuyqq2twLi25HufAU0LcDyeY~VZw2FKHq7s6sBOfmLi3E-IHVjFJ6QlB9z8qYviASCQW-euVuvJFpy5Y~TfgIr78zcp5Zo1mhAUEg71q7AerVJ6cvcOSbFhqKjg__
-#EXTINF:-1 group-title="•한국",KBS World
-https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2OTUyMzY4OX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=YQtTZ-bJ4C9AeeNh48f4YFORB9odypjL31dFT4sh4xRNVXp8Kykry0APvSvz-GgMd8WGl7ID32ciODqs3rPppcOUCdPlpVRjgW4lytlph6L2hB~xlrDGTy3GZNzf6MSYWpvXJgrGXnoznB~FCXd7nuOf0sfjNxZ5Yfq~6JODFHYDRkRPO5zSlvAeLTv8OkNPmhRBHPgSSjlkLMTSQC0DalB5CxzK~6zu6Ahtq~E204y1s56zRaBdOup~YuDW-LBHcpjPjFErfxgiyujhs5Wy1Z8qSsGN6uZK7P26RI-aqRx0LnXspl4wd9g6R8LV2wzHYxuq5zW2zRlPNvCpsttF~w__
+#EXTINF:-1 tvg-id="kbs.11" tvg-name="KBS1" group-title="KBS",KBS1
+http://43.165.182.125/hls/kbs11.m3u8
+#EXTINF:-1 tvg-id="kbs.12" tvg-name="KBS2" group-title="KBS",KBS2
+http://43.165.182.125/hls/KBS2.m3u8
+#EXTINF:-1 tvg-id="kbs.81" tvg-name="KBS24" group-title="KBS",KBS24
+http://43.165.182.125/hls/KBS24.m3u8
+#EXTINF:-1 tvg-id="kbs.N91" tvg-name="KBSDrama" group-title="KBS",KBSDrama
+http://43.165.182.125/hls/KBSDrama.m3u8
+#EXTINF:-1 tvg-id="kbs.N92" tvg-name="KBSjoy" group-title="KBS",KBSjoy
+http://43.165.182.125/hls/KBSjoy.m3u8
+#EXTINF:-1 tvg-id="kbs.N94" tvg-name="KBSstory" group-title="KBS",KBSstory
+http://43.165.182.125/hls/KBSstory.m3u8
+#EXTINF:-1 tvg-id="kbs.N93" tvg-name="KBSLIFE" group-title="KBS",KBSLIFE
+http://43.165.182.125/hls/KBSLIFE.m3u8
+#EXTINF:-1 tvg-id="kbs.N96" tvg-name="KBSkids" group-title="KBS",KBSkids
+http://43.165.182.125/hls/KBSkids.m3u8
+#EXTINF:-1 tvg-id="kbs.14" tvg-name="KBSWORLD" group-title="KBS",KBSWORLD
+http://43.165.182.125/hls/KBSWORLD.m3u8
 #EXTINF:-1 group-title="•한국",KCTV 광주
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 #EXTINF:-1 group-title="•한국",Korea TV
