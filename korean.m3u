@@ -41,52 +41,12 @@ http://www.hwado.net/webtv/public/31_0B41417D.php
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
 #EXTINF:-1 group-title="한국채널",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
-#EXTINF:-1 group-title="한국채널",FTV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
-#EXTINF:-1 group-title="한국채널",SBS
-http://www.hwado.net/webtv/public/31_0B41417D.php
-#EXTINF:-1 group-title="한국채널",SBS Plus
-http://www.hwado.net/webtv/catv/31.php
-#EXTINF:-1 group-title="한국채널",SBS FunE
-http://www.hwado.net/webtv/catv/32.php
-#EXTINF:-1 group-title="한국채널",SBS Biz
-http://www.hwado.net/webtv/catv/34.php
-#EXTINF:-1 group-title="한국채널",SBS골프
-http://www.hwado.net/webtv/catv/36.php
-#EXTINF:-1 group-title="한국채널",SBS 골프2
-http://www.hwado.net/webtv/catv/42_D1392F29.php
-#EXTINF:-1 group-title="한국채널",MBC
-http://www.hwado.net/webtv/public/21_573058EB.php
-#EXTINF:-1 group-title="한국채널",MBC 넷
-http://www.hwado.net/webtv/catv/28.php
 #EXTINF:-1 group-title="한국채널",MBC드라마
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
 #EXTINF:-1 group-title="한국채널",MBC every1
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
-#EXTINF:-1 group-title="한국채널",JTBC
-http://www.hwado.net/webtv/catv/51_248899BF.php
-#EXTINF:-1 group-title="한국채널",JTBC2
-http://www.hwado.net/webtv/catv/282_DCD429BD.php
-#EXTINF:-1 group-title="한국채널",JTBC4
-http://www.hwado.net/webtv/catv/283_DCB08308.php
-#EXTINF:-1 group-title="한국채널",JTBC골프
-http://www.hwado.net/webtv/catv/56.php
 #EXTINF:-1 group-title="한국채널",JTBC골프&스포츠
 http://www.hwado.net/webtv/catv/58.php
-#EXTINF:-1 group-title="한국채널",채널A
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_52_73BCC134.m3u8
-#EXTINF:-1 group-title="한국채널",TV조선
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_213_B633C402.m3u8
-#EXTINF:-1 group-title="한국채널",연합뉴스
-https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="한국채널",MBN
-http://www.hwado.net/webtv/catv/54.php
-#EXTINF:-1 group-title="한국채널",Mnet
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_225_A3DAD2D8.m3u8
-#EXTINF:-1 group-title="한국채널",MTN
-http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
-#EXTINF:-1 group-title="한국채널",Job Plus TV
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="한국채널",Arirang 아리랑
 http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="한국채널",BBS 불교 방송
@@ -95,8 +55,6 @@ http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 #EXTINF:-1 group-title="한국채널",CJ OnStyle Plus
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-#EXTINF:-1 group-title="한국채널",CTS 기독교TV
-https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 #EXTINF:-1 group-title="한국채널",EBS+ 1
 http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
 #EXTINF:-1 group-title="한국채널",EBS+ 2
@@ -107,22 +65,10 @@ http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshij
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
 #EXTINF:-1 group-title="한국채널",EBS 키즈
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-#EXTINF:-1 group-title="한국채널",Job Plus tv
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
 #EXTINF:-1 group-title="한국채널",GS Shop
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="한국채널",Gugak TV
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 group-title="한국채널",뉴키드1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
-#EXTINF:-1 group-title="한국채널",뉴키드2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
-#EXTINF:-1 group-title="한국채널",THE K-POP
-http://www.hwado.net/webtv/catv/37.php
-#EXTINF:-1 group-title="한국채널",FTV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
-#EXTINF:-1 group-title="한국채널",한국낚시방송
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_561.m3u8
 #EXTINF:-1 group-title="한국채널",IMPACT wrestling
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_564_D614C1A4.m3u8
 #EXTINF:-1 group-title="한국채널",NBS
@@ -133,39 +79,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_426_5FDDD1E3.m3u8
 #EXTINF:-1 group-title="한국채널",국회방송
 https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
-#EXTINF:-1 group-title="한국채널",한국직업방송
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="한국채널",와이지TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_64_5D7AF248.m3u8
-#EXTINF:-1 group-title="한국채널",KBSNEWS
-http://www.hwado.net/webtv/catv/1.php
-#EXTINF:-1 group-title="한국채널",SBSM
-http://www.hwado.net/webtv/catv/33.php
-#EXTINF:-1 group-title="한국채널",KTV
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 group-title="한국채널",게스트TV
-http://www.hwado.net/webtv/catv/38.php
-#EXTINF:-1 group-title="한국채널",런닝맨TV
-http://www.hwado.net/webtv/catv/39.php
-#EXTINF:-1 group-title="한국채널",SBS Golf
-http://www.hwado.net/webtv/catv/36.php
-#EXTINF:-1 group-title="한국채널",JTBC Golf
-http://www.hwado.net/webtv/catv/56.php
-#EXTINF:-1 group-title="한국채널",KNN
-http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
-#EXTINF:-1 group-title="한국채널",대전KBS1
-http://youtv.dothome.co.kr/ch/public/11.php
-#EXTINF:-1 group-title="한국채널",광주KBS1
-http://youtv.dothome.co.kr/ch/public/12.php
-#EXTINF:-1 group-title="한국채널",대구KBS1
-http://youtv.dothome.co.kr/ch/public/13.php
-#EXTINF:-1 group-title="한국채널",울산KBS1
-http://youtv.dothome.co.kr/ch/public/14.php
-#EXTINF:-1 group-title="한국채널",부산KBS1
-http://youtv.dothome.co.kr/ch/public/15.php
 #EXTINF:-1 group-title="한국채널",경남MBC
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_781A50DD.m3u8
-#EXTINF:-1 group-title="한국채널",JIBS
-http://www.hwado.net/webtv/public/8.php
 #EXTINF:-1 group-title="한국채널",Btv
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_415_3B0A4DFF.m3u8
