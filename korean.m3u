@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="kbs.11" tvg-name="KBS1" group-title="한국채널",KBS1
-http://43.165.182.125/hls/kbs11.m3u8
+http://43.165.182.125/hls/KBS1.m3u8
 #EXTINF:-1 tvg-id="kbs.12" tvg-name="KBS2" group-title="한국채널",KBS2
 http://43.165.182.125/hls/KBS2.m3u8
 #EXTINF:-1 tvg-id="kbs.81" tvg-name="KBS24" group-title="한국채널",KBS24
