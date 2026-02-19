@@ -113,12 +113,6 @@ https://srs.iyb983.cn/video/ybtv1/index.m3u8
 https://srs.iyb983.cn/video/ybtv2/index.m3u8
 #EXTINF:-1 group-title="한국채널" tvg-logo="http://i20.hunchun123.cn/fg_tu/img/video.jpg",珲春新闻综合
 http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
-#EXTINF:-1 group-title="한국채널",사랑의 콜센타
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
-#EXTINF:-1 group-title="한국채널",mbc Drama
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
-#EXTINF:-1 group-title="한국채널",mbc M
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
 #EXTINF:-1 group-title="한국채널",mbc 아메리카
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_236_0B21695E.m3u8
 #EXTINF:-1 group-title="한국채널",MBC에브리원
@@ -217,13 +211,13 @@ http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m
 http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="한국채널",FGTV
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RUTCTV.kr" tvg-logo="https://i.ibb.co/yPDhKBp/rutc-logo.jpg" group-title="한국채널",RUTC TV (720p)
+#EXTINF:-1 tvg-id="RUTCTV.kr" tvg-logo="https://i.ibb.co/yPDhKBp/rutc-logo.jpg" group-title="한국채널",RUTC TV
 http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BBSTV.kr" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="한국채널",BBS Buddhist Broadcasting (1080p)
+#EXTINF:-1 tvg-id="BBSTV.kr" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="한국채널",BBS Buddhist Broadcasting
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BTNTV.kr" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="한국채널",BTN TV
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-#EXTINF:-1 tvg-id="LLBNTVKorean.us" tvg-logo="https://i.imgur.com/WsOfy19.png" group-title="한국채널",Lighting Lives Blessing Nations TV Korean (LLBN) (480p)
+#EXTINF:-1 tvg-id="LLBNTVKorean.us" tvg-logo="https://i.imgur.com/WsOfy19.png" group-title="한국채널",Lighting Lives Blessing Nations TV Korean
 https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
 #EXTINF:-1 group-title="한국채널",서경방송
 https://live.iscs.co.kr/m_live/480p.stream/chunklist_w435655614.m3u8
