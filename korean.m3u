@@ -87,7 +87,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_415_3B0A4DFF.m3u8
 #EXTINF:-1 group-title="한국채널", 티비조선2
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 group-title="한국채널" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
+#EXTINF:-1 group-title="한국채널",KBS 1
 http://47.237.74.77:7777/kbs.php?id=1
 #EXTINF:-1 group-title="한국채널" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
 http://47.237.74.77:7777/kbs.php?id=2
