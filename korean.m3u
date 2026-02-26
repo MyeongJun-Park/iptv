@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="kbs.11" tvg-name="KBS1" group-title="한국채널",KBS1
-http://43.165.182.125/hls/KBS1.m3u8
-#EXTINF:-1 tvg-id="kbs.12" tvg-name="KBS2" group-title="한국채널",KBS2
-http://43.165.182.125/hls/KBS2.m3u8
-#EXTINF:-1 tvg-id="kbs.81" tvg-name="KBS24" group-title="한국채널",KBS24
-http://43.165.182.125/hls/KBS24.m3u8
-#EXTINF:-1 tvg-id="kbs.N91" tvg-name="KBSDrama" group-title="한국채널",KBSDrama
-http://43.165.182.125/hls/KBSDrama.m3u8
-#EXTINF:-1 tvg-id="kbs.N92" tvg-name="KBSjoy" group-title="한국채널",KBSjoy
-http://43.165.182.125/hls/KBSjoy.m3u8
-#EXTINF:-1 tvg-id="kbs.N94" tvg-name="KBSstory" group-title="한국채널",KBSstory
-http://43.165.182.125/hls/KBSstory.m3u8
-#EXTINF:-1 tvg-id="kbs.N93" tvg-name="KBSLIFE" group-title="한국채널",KBSLIFE
-http://43.165.182.125/hls/KBSLIFE.m3u8
-#EXTINF:-1 tvg-id="kbs.N96" tvg-name="KBSkids" group-title="한국채널",KBSkids
-http://43.165.182.125/hls/KBSkids.m3u8
-#EXTINF:-1 tvg-id="kbs.14" tvg-name="KBSWORLD" group-title="한국채널",KBSWORLD
-http://43.165.182.125/hls/KBSWORLD.m3u8
 #EXTINF:-1 group-title="한국채널",KCTV 광주
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 #EXTINF:-1 group-title="한국채널",Korea TV
