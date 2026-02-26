@@ -1,4 +1,196 @@
 #EXTM3U
+#EXTINF:-1 group-title="한국채널" ,KBS1
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzIyNjE5NDl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=BxI6HawalXQIiiyonqfrEQQhACcP4E3yjgfAmcb5QbbA7IENxGGu0pf-yGTO~A9mOpOde1JhqBEO3Hy~A-OtcqM-IGTBebTUHPK-wyqlM7jMGIXsvl01g9RzAFezZ5U9nrVfmyjUCOBme0VuaoJJ5Em5TR5NjHhAmKonT9JqSTAiWbP3W4WxtRv1aYqemUBC4kbf5TZkoxxt3oSE-b0bgbHl54i-L6ukejb-a2VeBmnw3WFidsPOKvHv3ll13R8brnPQdNqO~UIbG5bVUd53LWPutYDLcNzsf2OWj4W8O4B2BZGr5V18PKq-5UDSb2RqBvXgzwvooiCYywf1sXeCGw__
+#EXTINF:-1 group-title="한국채널" ,KBS 2
+http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" , SBS 
+http://1.214.67.38/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" ,MBC 
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 group-title="한국채널" ,MBN 
+http://1.214.67.38/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" ,티비조선 
+http://1.214.67.38/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" ,연합뉴스
+http://1.214.67.38/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" ,YTN
+http://1.214.67.38/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" ,채널a
+http://1.214.67.38/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="한국채널",tvN
+https://jmp2.uk/stvp-KRBC3200017JQ
+#EXTINF:-1 group-title="한국채널" ,JTBC 
+http://1.214.67.38/vod/74702.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" ,KBSStory
+http://koreatv.dothome.co.kr/kbsstory.php
+#EXTINF:-1 group-title="한국채널" ,KBSLife
+http://koreatv.dothome.co.kr/kbslife.php
+#EXTINF:-1 group-title="한국채널" ,KBSDrama
+http://koreatv.dothome.co.kr/kbsdrama.php
+#EXTINF:-1 group-title="한국채널" ,KBSJoy
+http://koreatv.dothome.co.kr/kbsjoy.php
+#EXTINF:-1 group-title="한국채널" ,sbsplus
+http://koreatv.dothome.co.kr/sbsplus.php
+#EXTINF:-1 group-title="한국채널" ,sbsfune
+http://koreatv.dothome.co.kr/sbsfune.php
+#EXTINF:-1 group-title="한국채널" ,sbsbiz
+http://koreatv.dothome.co.kr/sbsbiz.php
+#EXTINF:-1 group-title="한국채널" ,mbcnet
+http://koreatv.dothome.co.kr/mbcnet.php
+#EXTINF:-1 group-title="한국채널" ,JTBC2
+http://1.214.67.38/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" ,JTBC4
+http://1.214.67.38/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 tvg-id="TVChosun2.kr" ,TV Chosun 2 
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="한국채널"  ,GMTV 
+http://1.214.67.38/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" ,더라이프 
+http://1.214.67.38/vod/77201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널"  ,라이프타임 
+http://1.214.67.38/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" ,OCN
+http://180.69.60.42:8856/udp/239.192.67.226:49220
+#EXTINF:-1 group-title="한국채널" ,OCN Movies
+http://180.69.60.42:8856/udp/239.192.67.227:49220
+#EXTINF:-1 group-title="한국채널" ,OCN Thrills
+http://180.69.60.42:8856/udp/239.192.67.228:49220
+#EXTINF:-1 group-title="한국채널",HCN 부산방송 
+http://edge4.hcnmobile.tv/etv/phddmcbusan/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",Groovv 
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 group-title="한국채널" , SPOTV
+http://1.214.67.38/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" , SPOTV 2
+http://1.214.67.38/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" ,tvn Sports
+https://jmp2.uk/stvp-KRBC800015MH
+#EXTINF:-1 group-title="한국채널" ,KBSN 스포츠
+http://180.69.60.42:8856/udp/239.192.67.132:49220
+#EXTINF:-1 group-title="한국채널" ,MBC Sports+
+http://180.69.60.42:8856/udp/239.192.67.131:49220
+#EXTINF:-1 group-title="한국채널" ,SBS Sports
+http://180.69.60.42:8856/udp/239.192.67.130:49220
+#EXTINF:-1 group-title="한국채널" ,SPOTV GOLF 
+http://1.214.67.38/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" ,JTBCGOLF
+http://180.69.60.42:8856/udp/239.192.67.165:49220
+#EXTINF:-1 group-title="한국채널" ,JTBC GOLFSPOT 
+http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
+#EXTINF:-1 group-title="한국채널" ,SBSGOLF 
+http://1.214.67.38/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널",PGA GOLF 
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_271_77C0F5F4.m3u8
+#EXTINF:-1 group-title="한국채널" ,스크린골프존 
+https://jmp2.uk/stvp-KR44000010Y
+#EXTINF:-1 group-title="한국채널"  ,STATV 
+http://1.214.67.38/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" , 바둑TV 
+http://1.214.67.38/vod/68301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널"  ,장기TV 
+http://1.214.67.38/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널"  ,빌리어즈TV 
+http://1.214.67.38/vod/66801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" ,FTV 
+http://1.214.67.38/vod/66501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" ,한국낚시 
+http://1.214.67.38/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널" ,최강야구
+https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
+#EXTINF:-1 group-title="한국채널" ,스타리그
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
+#EXTINF:-1 group-title="한국채널",SKY SPORTS F1
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
+#EXTINF:-1 group-title="한국채널",IB SPORTS
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=Apn7LTiUje3L7FmQObTgYnKBNeDUDytdiUSkqYw1&secret=7e6facc78d8f68a85388b1945d966a04&time=1742501522
+#EXTINF:-1 group-title="한국채널"   , EBS-1 
+http://1.214.67.38/vod/38901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널",KBSKids
+http://koreatv.dothome.co.kr/kbskids.php
+#EXTINF:-1 group-title="한국채널",EBS少儿 
+http://1.214.67.38/vod/60701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널",애니맥스 
+http://1.214.67.38/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널",애니플러스 
+http://1.214.67.38/vod/69901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널",브라보키즈 
+http://1.214.67.38/vod/72801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널"  ,대교어린이TV 
+http://1.214.67.38/vod/76101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널",플레이런TV 
+http://1.214.67.38/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널",폴라리스TV 
+http://1.214.67.38/vod/72601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널",한국경제TV
+http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",서울경제TV
+https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/3b82faa9-7041-45e1-a61b-5405b8f1c824/0.m3u8
+#EXTINF:-1 group-title="한국채널",토마토증권통 
+http://1.214.67.38/vod/77101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널",매일경제TV
+http://mmoney.flive.skcdn.com/mmoneymobile/smil:money.smil/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",Asia N 
+http://1.214.67.38/vod/65801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널"  ,OBS 
+http://1.214.67.38/vod/59601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널",OBS W 
+http://1.214.67.38/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널",MBCNET
+http://mytv.dothome.co.kr/ch/catv/28.php/.m3u8
+#EXTINF:-1 group-title="한국채널",NIB 남인천방송
+http://stream.nibtv.co.kr:1935/live/nib/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",지방자치TV
+https://jjctv.ecn.cdn.infralab.net/jjctv/live/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",국회방송
+https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",KCN 금강방송
+http://62db982017b54.streamlock.net:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",다문화TV
+https://10st.vcast.im/MYASIATV/SC82767452/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",방송대학TV
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_313_D46B5C07.m3u8
+#EXTINF:-1 group-title="한국채널",소상공인방송
+https://cdnlive179.smartucc.kr/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",CJ OnStyle
+http://1.214.67.38/vod/67201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널",CJ OnStyle Plus
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",GS My Shop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",현대홈쇼핑
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",현대홈쇼핑+샵
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",KT알파쇼핑
+https://livetv.kshop.co.kr/klive/_definst_/smil:klive.smil/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",NS 홈쇼핑
+http://1.214.67.206/vod/67301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널",NS샵플러스
+http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
+#EXTINF:-1 group-title="한국채널",롯데홈쇼핑
+http://1.214.67.38/vod/67401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="한국채널",롯데onetv
+http://onetvhlslive.lotteimall.com/lotteonetvlive/_definst_/lotteonetvlive.mp4.m3u8
+#EXTINF:-1 group-title="한국채널",신세계쇼핑
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",홈앤쇼핑
+https://s30.qtcdn.co.kr/media/liveM3U8/idx/484074138/enc/1790577012/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",W쇼핑
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",쇼핑엔티
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_519_3CA51C10.m3u8
+#EXTINF:-1 group-title="한국채널",공영쇼핑
+https://etv.publichs.com/live5.stream/playlist.m3u8
+#EXTINF:-1 group-title="한국채널",sk스토아
+http://castcache2.skstoa.com:8080/2001.stream/tsmux.noll_master.m3u8
+#EXTINF:-1 group-title="한국채널",QVC
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 group-title="한국채널",Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 group-title="한국채널",NS 홈쇼핑
+http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 #EXTINF:-1 group-title="한국채널",KCTV 광주
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 #EXTINF:-1 group-title="한국채널",Korea TV
