@@ -269,15 +269,15 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_415_3B0A4DFF.m3u8
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 group-title="생방송",KBS 1
 http://47.237.74.77:7777/kbs.php?id=1
-#EXTINF:-1 group-title="생방송" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
+#EXTINF:-1 group-title="생방송" ,KBS 2
 http://47.237.74.77:7777/kbs.php?id=2
-#EXTINF:-1 group-title="생방송" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
+#EXTINF:-1 group-title="생방송" , SBS
 http://koreatv.dothome.co.kr/sbs.php
-#EXTINF:-1 group-title="생방송" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
+#EXTINF:-1 group-title="생방송" ,MBC
 http://koreatv.dothome.co.kr/mbc.php
 #EXTINF:-1 group-title="생방송", YTN
 https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
-#EXTINF:-1 group-title="생방송" tvg-logo="https://kenpark76.github.io/logo/tvN.png",TVN
+#EXTINF:-1 group-title="생방송" ,TVN
 https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
 #EXTINF:-1 group-title="생방송",ocn
 http://43.137.43.57/get_channel.php?channel=ocn
@@ -301,15 +301,15 @@ http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8
 http://vodmmf.mbn.co.kr/mmoney/smil:money.smil/chunklist_b440000.m3u8
 #EXTINF:-1 group-title="생방송",서울경제
 https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/3b82faa9-7041-45e1-a61b-5405b8f1c824/0.m3u8
-#EXTINF:-1 tvg-id="GugakTV.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="생방송",국악방송
+#EXTINF:-1 group-title="생방송",국악방송
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 group-title="생방송",ktv
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 group-title="생방송",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-id="NBS.kr" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="생방송",한국농업방송
+#EXTINF:-1 tvg-id="NBS.kr" ,한국농업방송
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 tvg-id="OUN.kr" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="생방송",OUN 
+#EXTINF:-1 group-title="생방송",OUN 
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 group-title="생방송",OBS경인TV
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
@@ -323,13 +323,13 @@ http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m
 http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="생방송",FGTV
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RUTCTV.kr" tvg-logo="https://i.ibb.co/yPDhKBp/rutc-logo.jpg" group-title="생방송",RUTC TV
+#EXTINF:-1 group-title="생방송",RUTC TV
 http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BBSTV.kr" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="생방송",BBS Buddhist Broadcasting
+#EXTINF:-1 group-title="생방송",BBS Buddhist Broadcasting
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="BTNTV.kr" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="생방송",BTN TV
+#EXTINF:-1 group-title="생방송",BTN TV
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-#EXTINF:-1 tvg-id="LLBNTVKorean.us" tvg-logo="https://i.imgur.com/WsOfy19.png" group-title="생방송",Lighting Lives Blessing Nations TV Korean
+#EXTINF:-1 group-title="생방송",Lighting Lives Blessing Nations TV Korean
 https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
 #EXTINF:-1 group-title="생방송",서경방송
 https://live.iscs.co.kr/m_live/480p.stream/chunklist_w435655614.m3u8
@@ -337,86 +337,86 @@ https://live.iscs.co.kr/m_live/480p.stream/chunklist_w435655614.m3u8
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="생방송",SBS CJB
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 group-title="생방송" tvg-logo="https://kenpark76.github.io/logo/SBS.png",SBS KNN
+#EXTINF:-1 group-title="생방송",SBS KNN
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 group-title="생방송",SBS JTV
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="생방송" tvg-logo="https://kenpark76.github.io/logo/SBS.png",SBS kbc
+#EXTINF:-1 group-title="생방송",SBS kbc
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-id="HLCGDTV.kr" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="생방송",SBS G1
+#EXTINF:-1 group-title="생방송",SBS G1
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HLDEDTV.kr" tvg-logo="https://i.imgur.com/jknoVmp.png" group-title="생방송",SBS TBC
+#EXTINF:-1 group-title="생방송",SBS TBC
 http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
 #EXTINF:-1 group-title="생방송",SBSCJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 group-title="생방송" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
+#EXTINF:-1 group-title="생방송",연합뉴스
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
-#EXTINF:-1 group-title="생방송" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN
+#EXTINF:-1 group-title="생방송",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
-#EXTINF:-1 group-title="생방송" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
+#EXTINF:-1 group-title="생방송",티비조선
 http://211.170.95.22/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="생방송",TV Chosun 
+#EXTINF:-1 group-title="생방송",TV Chosun 
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1 group-title="생방송" tvg-logo="https://i.imgur.com/62EwaCG.png",TV Chosun
+#EXTINF:-1 group-title="생방송",TV Chosun
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
-#EXTINF:-1 group-title="생방송" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
+#EXTINF:-1 group-title="생방송",mbn
 https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="생방송" tvg-logo="https://kenpark76.github.io/logo/MBN.png",MBN 
+#EXTINF:-1 group-title="생방송",MBN 
 http://1.214.67.38/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선 
+#EXTINF:-1 group-title="생방송",티비조선 
 http://1.214.67.38/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
+#EXTINF:-1 group-title="생방송",연합뉴스
 http://1.214.67.38/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN
+#EXTINF:-1 group-title="생방송",YTN
 http://1.214.67.38/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a
+#EXTINF:-1 group-title="생방송",채널a
 http://1.214.67.38/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC
+#EXTINF:-1 group-title="생방송",JTBC
 http://1.214.67.38/vod/74702.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-EXTINF:-1 group-title="생방송" tvg-logo="https://kenpark76.github.io/logo/JTBC2.png",JTBC2
+#EXTINF:-1 group-title="생방송",JTBC2
 http://1.214.67.38/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://kenpark76.github.io/logo/JTBC4.png",JTBC4
+#EXTINF:-1 group-title="생방송",JTBC4
 http://1.214.67.38/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="생방송",TV Chosun 2
+#EXTINF:-1 group-title="생방송",TV Chosun 2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="생방송" tvg-logo="https://i.imgur.com/CJxrnvV.jpg" ,GMTV
+#EXTINF:-1 group-title="생방송",GMTV
 http://1.214.67.38/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://www.lg.co.kr/media/release/images/56374",더라이프
+#EXTINF:-1 group-title="생방송",더라이프
 http://1.214.67.38/vod/77201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://i.imgur.com/PaQ7vhO.png" ,라이프타임
+#EXTINF:-1 group-title="생방송",라이프타임
 http://1.214.67.38/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/507px-SPOTV_logo.svg.png", SPOTV
+#EXTINF:-1 group-title="생방송",SPOTV
 http://1.214.67.38/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/spotv2.jpg", SPOTV 2
+#EXTINF:-1 group-title="생방송",SPOTV 2
 http://1.214.67.38/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://cms.cignal.tv/Upload/Images/GOLF.jpg",SPOTV GOLF
+#EXTINF:-1 group-title="생방송",SPOTV GOLF
 http://1.214.67.38/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png",JTBC GOLFSPOT
+#EXTINF:-1 group-title="생방송",JTBC GOLFSPOT
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
-#EXTINF:-1 group-title="생방송" tvg-logo="https://kenpark76.github.io/logo/SBSGOLF.png",SBSGOLF
+#EXTINF:-1 group-title="생방송",SBSGOLF
 http://1.214.67.38/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",PGA GOLF 
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_271_77C0F5F4.m3u8
-#EXTINF:-1 group-title="생방송" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존
+#EXTINF:-1 group-title="생방송",스크린골프존
 https://jmp2.uk/stvp-KR44000010Y
-#EXTINF:-1 group-title="생방송" tvg-logo="https://i.imgur.com/7MfIRcp.jpg" ,STATV 
+#EXTINF:-1 group-title="생방송",STATV 
 http://1.214.67.38/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://www.tvbaduk.com/images/common/top.jpg", 바둑TV
+#EXTINF:-1 group-title="생방송",바둑TV
 http://1.214.67.38/vod/68301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://i.imgur.com/SAlt9hi.png" ,장기TV 
+#EXTINF:-1 group-title="생방송",장기TV 
 http://1.214.67.38/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://i.imgur.com/tXjSynh.gif" ,빌리어즈TV 
+#EXTINF:-1 group-title="생방송",빌리어즈TV 
 http://1.214.67.38/vod/66801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://cdn.nextdaily.co.kr/news/photo/201805/52756_66305.jpg",FTV 
+#EXTINF:-1 group-title="생방송",FTV 
 http://1.214.67.38/vod/66501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://m.fishingtv.kr/data/skin/fruit_puro_gls/FSTV/images/logo.png",한국낚시 
+#EXTINF:-1 group-title="생방송",한국낚시 
 http://1.214.67.38/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://thumb.mt.co.kr/06/2025/03/2025031818220399050_1.jpg/dims/optimize/",최강야구
+#EXTINF:-1 group-title="생방송",최강야구
 https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
-#EXTINF:-1 group-title="생방송" tvg-logo="https://pimg.mk.co.kr/meet/neds/2018/06/image_readtop_2018_398218_15298668663363159.jpg",스타리그
+#EXTINF:-1 group-title="생방송",스타리그
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
-#EXTINF:-1 group-title="생방송"  tvg-logo="https://i.imgur.com/PPj5kG4.png" , EBS-1 
+#EXTINF:-1 group-title="생방송",EBS-1 
 http://1.214.67.38/vod/38901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",EBS少아동
 http://1.214.67.38/vod/60701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
@@ -426,7 +426,7 @@ http://1.214.67.38/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://1.214.67.38/vod/69901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",브라보키즈 
 http://1.214.67.38/vod/72801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://i.imgur.com/VcX0DzS.jpg" ,대교어린이TV 
+#EXTINF:-1 group-title="생방송",대교어린이TV 
 http://1.214.67.38/vod/76101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",플레이런TV 
 http://1.214.67.38/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
