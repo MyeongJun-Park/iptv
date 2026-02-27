@@ -108,7 +108,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=Apn7
 http://1.214.67.38/vod/38901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",KBSKids
 http://koreatv.dothome.co.kr/kbskids.php
-#EXTINF:-1 group-title="생방송",EBS少儿 
+#EXTINF:-1 group-title="생방송",EBS어린이
 http://1.214.67.38/vod/60701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",애니맥스 
 http://1.214.67.38/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
@@ -116,7 +116,7 @@ http://1.214.67.38/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://1.214.67.38/vod/69901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",브라보키즈 
 http://1.214.67.38/vod/72801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송"  ,대교어린이TV 
+#EXTINF:-1 group-title="생방송",대교어린이TV 
 http://1.214.67.38/vod/76101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",플레이런TV 
 http://1.214.67.38/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
@@ -210,7 +210,7 @@ http://180.69.60.42:8856/udp/239.192.67.101:49220
 http://koreatv.dothome.co.kr/sbs.php
 #EXTINF:-1 group-title="생방송",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 group-title="생방송",국방国防TV
+#EXTINF:-1 group-title="생방송",국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 group-title="생방송",연합뉴스
 https://rb.gy/telq1m
@@ -283,16 +283,12 @@ https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.co
 http://43.137.43.57/get_channel.php?channel=ocn
 #EXTINF:-1 group-title="생방송"  , 조선방송
 https://tv.intchoson.com/kctv/main_stream.m3u8
-#EXTINF:-1 group-title="생방송",평양 FM 방송
-https://listen7.myradio24.com/69366
 #EXTINF:-1 group-title="생방송" ,延边卫视
 https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 group-title="생방송" ,YBTV-1朝鲜语
 https://srs.iyb983.cn/video/ybtv1/index.m3u8
 #EXTINF:-1 group-title="생방송" ,YBTV-2
 https://srs.iyb983.cn/video/ybtv2/index.m3u8
-#EXTINF:-1 group-title="생방송" ,珲春新闻综合
-http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 #EXTINF:-1 group-title="생방송",채널i
 http://1.201.160.177:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="생방송",한국경제TV
@@ -307,7 +303,7 @@ https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 group-title="생방송",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-id="NBS.kr" ,한국농업방송
+#EXTINF:-1 group-title="생방송",한국농업방송
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 group-title="생방송",OUN 
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
