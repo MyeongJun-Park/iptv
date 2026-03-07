@@ -6,7 +6,7 @@ http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 #EXTINF:-1 group-title="생방송" , SBS 
 http://1.214.67.38/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송" ,MBC 
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="생방송" ,MBN 
 http://1.214.67.38/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송" ,티비조선 
@@ -20,7 +20,7 @@ http://1.214.67.38/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 #EXTINF:-1 group-title="생방송" ,JTBC 
 http://1.214.67.38/vod/74702.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",TVN
-http://43.137.43.57/get_channel.php?channel=tvn
+https://tvn-skcdn.tving.com/tvn/live2000.smil/chunklist_b2128000.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90dm4tc2tjZG4udHZpbmcuY29tL3R2bi9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3Mjk0Njg3OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=CSHBvOz4JZp3cv9FJb203yaX5R1CDlwi8tKS-BTJEDuH6-NidaWHDknrv8fQEKSZoqEe4JicKbhIOItdqOjMG4YNEz1MhBmWo3kOgBdQUnPksrpWhAzzu5hfNFhGwdi9qN3ZR1CQ14O~~zPtS1K3dcha9Fb~boQgTK14kx8WXdANIs7BgHhbFgt-h1L2RVqEad~YKnpWvQdkcIAwCnnfxeLEoO6~xCKZgkrPlIbDXaGSEhzObo87NG599MuZFV8nvTUYJdJKWNPXAHOPZj0HR6ZEVvOVtTl~RLXJo4gQ3e-UxzzH1gf-iC9jDIuaJmJzTnL8LC-YJqfvsbI0A0E9cw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA&pf=chrome%20headless_2.17.30_hlsjs&xr=60&vc=1%2C3&osn=linux&osv=aarch64&dvm=PC&brn=Chrome%20Headless&brv=120.0.6099.28&pln=Hls.js&plv=2.17.30&ads.product_id=www.tving.com
 #EXTINF:-1 group-title="생방송" ,KBSStory
 http://koreatv.dothome.co.kr/kbsstory.php
 #EXTINF:-1 group-title="생방송" ,KBSLife
