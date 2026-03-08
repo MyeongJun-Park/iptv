@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="생방송" ,KBS1
-http://koreatv.dothome.co.kr/kbs1.php
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzMxMzc4MTV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=UJAkLLFIM9hxIQ-irY85lotQOxzZqm7jq8mbgW6iBlIbr4YvFfj9kT8l8gj2E61LpXkw9F27x8yVwMgSwRyguGaki3xFPcRDqRczSliArfH8OPNuOl~27XWt1vw927CC1V4AjksZCr0-sogyxITBVubl-EuUkF73lnMMoBM9xlgZshdxcwj9ww0SCLD2tWDqRL0PsYGN9dk59Lz8dXiigIPX5cbASkqPZx6G8QUjLeRFxqdLFOpnViOFhK-o3U4tx~xM4ZoowpsU85MBxM8c2roOim6LOFkcxaO3eKgT9eqNc7IoEV6pTrDUmGnlzwy1Eb7DlMca-6TcNr2nvwInVg__
 #EXTINF:-1 group-title="생방송" ,KBS 2
 http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송" , SBS 
