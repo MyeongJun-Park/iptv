@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KRBC3200023BG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200023BG_20250402T010309SQUARE.png" tvg-country="KR" group-title="생방송",M2
+#EXTINF:-1 group-title="생방송",M2
 https://jmp2.uk/stvp-KRBC3200023BG
 #EXTINF:-1 group-title="생방송" ,KBS1
 https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzM0MDA1MzV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=NMR~HLnQuVBrm1-70Hh3-Eq2XfofT7ziZHF4xN8eBOx4Pc59tiQZ5kY4s524G0R1DmIhCxxE~7AkNg2GNeV1T-k5M273rCESVUnxqpplaiqKDGJH2UCaUXfyotX-k4YqB~k32TbTlVVZkQ9Jc6jiiEMt1RqdOyRKHpyPznVCrbF0cZXVXJtyXyoXuPuKRHi2FR9Tek2G78FRq-K5GMnokWlndrI0XLJjAPjts~rBvqOWNZEEMiVy3aAZjuAD-Vz2~sLorJh7gxp0DWkUnOaAQzqr6zrDW-s3W84LFjd-Ko5X~dF7jW0KnvfjSTDapxluGj5MYrIJotLg9AGYAGM74w__
