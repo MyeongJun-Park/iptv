@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="생방송",M2
-https://jmp2.uk/stvp-KRBC3200023BG
 #EXTINF:-1 group-title="생방송" ,KBS1
 http://koreatv.dothome.co.kr/kbs1.php
 #EXTINF:-1 group-title="생방송" ,KBS 2
@@ -53,7 +51,6 @@ http://1.214.67.38/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://1.214.67.38/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송" ,TV Chosun 2 
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1,tvg-id="tvN.kr", tvN
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=VuRBsIqWGAvpGSOVLnYEhrB8COiArn1mmj7ckNV5&secret=a72ec41ef89359f0cd94837d75fa20f9&time=1772755122
 #EXTINF:-1,tvg-id="KBS1.kr", KBS1
@@ -86,6 +83,8 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&chan
 #https://live-114.myjktv.com:443/watch/live.m3u8?video=ytn_540&sid=HxS8g2O614Z22pnhG5974Hey06SlgSHeT24eUPwD&secret=3d4c2a8304d1673ecd3114c5c6f48568&time=1742500356
 #EXTINF:-1,tvg-id="연합뉴스TV.kr", 연합뉴스
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=newsy_540&sid=eaRByMvJw0UctghzvXsaA1xwMxFVZnO9G2f232VS&secret=6c2a394fc34ce9f0d1b6bc1b12e072b1&time=1772753846
+#EXTINF:-1 group-title="생방송",M2
+https://jmp2.uk/stvp-KRBC3200023BG
 #EXTINF:-1,tvg-id="tvNSPORTS.kr", tvN SPORTS
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=wvxGUVKUC8ecPNnlMMafXfMuPSCWW35YiGMxLKpv&secret=d9f6c7f86d334a9e721268b15d04f870&time=1765891767
 #EXTINF:-1,tvg-id="KBSNSports.kr", KBS N SPORTS
