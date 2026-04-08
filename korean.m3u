@@ -6,7 +6,8 @@ http://koreatv.dothome.co.kr/kbs1.php
 #EXTINF:-1 group-title="생방송" ,KBS 2
 http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송" , SBS 
-https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+http://123.140.197.22/stream/1/play.m3u8
+#https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #http://1.214.67.38/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송" ,MBC 
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
@@ -17,11 +18,14 @@ http://1.214.67.38/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 #EXTINF:-1 group-title="생방송" ,연합뉴스
 http://1.214.67.38/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송" ,YTN
-http://1.214.67.38/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
+#http://1.214.67.38/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송" ,채널A
-http://1.214.67.38/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+https://amg01923-amg01923c86-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-amg01923c86-amgplt0187/playlist.m3u8?url=https%3A%2F%2Fwww.ondemandkorea.com%2Fplayer%2Flive%3FchannelId%3D203&genre=Television&content_genre=Television&ic=IAB1-7&content_cat=IAB1-7&content_id=229&content_title=channel-a&content_channel=channel-a&us_privacy=1---&gdpr=0&gdpr_consent=0&did=cdaf98a8-3dba-41a0-b760-0ac765383c72&dnt=0&coppa=0&is_lat=0&app_name=OnDemandKorea&app_domain=ondemandkorea.com&app_category=Entertainment&app_bundle=com.ondemandkorea&content_length=3600&content_rating=TV-PG&content_network=odkmedia&content_context=1&content_prodqual=1&device_type=2&ifa_type=dpid&player_width=1920&player_height=1080&livestream=1&custom_9=basic&custom_4=cdaf98a8-3dba-41a0-b760-0ac765383c72&app_store_url=&app_domain=ondemandkorea.com&paln=AQzzBGQEDKLRVHYIF4g_Ij-X4fNQEKwJALRu7v3oC2V13sm8rovBwd5n3ls5pwksPzAsk-3Pg7FFeEmAwqQkq57scruAQE5qDP5C4fqLFIovCoqhG7PS3aH2HwWOk-NemFPOGbsp5Uv2aJnR5gkRAC1R_ugrV6ePrVZP3q4fiM6QMmC4qdhJTw_svHfmkAKXFiGBx0o6G1RTNtBjktu_nxSeB1GoTyIZfRUrQA5o4ZV9jA_S0WJZTMgqiUMlenUcxe-tsfwOoSWU68EaMcZ5ad3KnYvhpNijLGkqPGAsvyQco_FmX1Ji-SjM8xZHgyLl0J1UsE6Ifgb_ziwgKXiHFFJrHZd_L9nNeXU51Yk4gn7dKxFVF_ERX_zKzJv-58H8OVYWQCByUUx_jAwnj1XBBs1ivfix_TPhCJ7nljUl6G1ddj-OsogMz0hkwLufq4u8i5MBR19Dr5cg4d5gx5AyVTpqg3yt1bUjXh87ljJdx2C9HCDPbJ7KmN6SA9gz03Fr6OuQrIUioVZOp5s-JWPFkPHATkq1rnWE8D7VS9d4itMQ49wYPWxiU6ZALLqHG70ooCYCJUmbKPWVSNeC4jEo0aSI9sh6gmHe_EPhdrmjSWJ00sJ510LVFdr4S1p9puVe4vCGOGOvAiq2eMsagFS0sKM-3R58AD4xWgAUJLClB2rF-atSSh_g3K_v7Uax1Z5xvcrBm8ncddKMK4FdYSLyjbKzlCdFzBUoV9z5Cc_292NlzEemBVLOWbA5NhQJ-9U-pz6r2iP1SvZutqkAwFXETSYWkZyeABc5V2cW7xV_VJQoiMI2_v-rVIuT4OzhKkbFQCl2fcnmuBtYy5ZNWPkHXfy9ZSZwoxJKqsWTM-_gExU_bHyXfMZYIifo28ndCqknoTyBXt2lNwK6DnmfA09rWJEiwmWvbW44oCBPgfk1Xv1rQ45GoUwbUOnPdFNOim93AYOAcFaAHs4LO89sdEFShZVVtNL4zK03EBx7TorDrm5yDFMaqRSIoQrpUHMlNXhAzmJyIqZ90STu-girhUmJHdCiB2bttwW92jto1Vx0PD-YbaOkQB0ZTteLJYcq1e7Jjsl-gc3BpzV8YMFHwxhxt4r15UNV406ppjlVFPK7QRorqvoomnuUorTCmyCd2l-zQWXDcMaGs_qXkK4sd8cgq8PxEkO45GG_vKIR4pEb7QvnYAB0DFowtZGN2wM52UZ5gOl5EtxKKXJPlhrfuQMrHCEYrbWiCt2idDWB2WeFNFvF5oFpAZWUYrEdAtxrxITeq5-M0_gQFRg5ob_gklUk9y7Im7bfFcaLDM1zCmTPhfJf1vUIVMd0d31GaMAxfm0WBQ..
+#http://1.214.67.38/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송" ,JTBC 
-http://1.214.67.38/vod/74702.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+https://noh-slb-samsung-fastcdn.uplus.co.kr/jtbc.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=jtbc.strea
+#http://1.214.67.38/vod/74702.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",TVN
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=VuRBsIqWGAvpGSOVLnYEhrB8COiArn1mmj7ckNV5&secret=a72ec41ef89359f0cd94837d75fa20f9&time=1772755122
 #https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&channel_id=newid_rt048&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=97ef7359-cc9f9a9d-e4b24aa2-1f3d7cf6&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
