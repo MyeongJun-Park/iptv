@@ -40,12 +40,6 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=tvn_540&sid=VuRBsIqWGAvpGSOVLn
 #https://jmp2.uk/stvp-KRBC3200031KO
 #EXTINF:-1 group-title="생방송",중화TV
 https://tving-live-o2-xcdn.tving.com/o2/v1/019ed3e5e210153d78653cb4bf7bd9/019ed3e6c4931eb80e79cd7979dc1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5MTAwNTYsInBhdGgiOiIvbzIifQ.R5edYO9VhZACXw8p0yOaJ3RkbuIDEBGW1NlPvqj7uEI
-#EXTINF:-1 group-title="생방송",TVN드라마
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d663b5fa81eb80e796d9bd9ca6/019d6643c8aa153d786553381d0d3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODIwMzgyNjksInBhdGgiOiIvbzIifQ.Pt1SEshhGWLkbJmAeNL_Luj-8nMlc-CnIVdtchz-OrY
-#EXTINF:-1 group-title="생방송",TVN쇼
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d663468df153d786553381d0cf/019d663eb5471eb80e796d9bd9cac/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5MTAxNjIsInBhdGgiOiIvbzIifQ.sqmVwoGf49Qt0oc5vCJAaI6FV1gC5ZvA72ucEtB5MyI
-#EXTINF:-1 group-title="생방송",TVN스토리
-https://tving-live-o2-ktcdn.tving.com/o2/v1/019d6bc0c1ac153d786553381d0e9/019d6bc4668b153d786553381d0ec/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxOTEwMTE1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=kkyHxkAwI2SIZrODGoEv1fr6cZ4fB8lV7ocBrMGXZsjgnnSL4zbB7AUH-ENMXv8DgHHO6YRMi73fcshHDcjZMigN6qvdr6ERHKEWu-He71jJiWwZg~wol3RpW2ozapQhGPTwDor8HaqjqWx6G7Iy5Otgx7yNbndJJsYlNinWfUdp4Ej~vrqAQk4VuWH~k6xUZ52mX9v-rfZ-dFyFuGtHmqYnKC~m9su0Rp4cl9WPLmsXH8enX3ruj94ITXDG2ANT5cPZigYDTxlXdoLhYK66xmUPfP0xhnYCSII9ITS65zIjztLpmNuDMx9fyuc98EvVURpGMDBc0YNtJlg-hIe2ow__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 group-title="생방송" ,KBSStory
 http://koreatv.dothome.co.kr/kbsstory.php
 #EXTINF:-1 group-title="생방송" ,KBSLife
