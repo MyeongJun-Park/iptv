@@ -161,7 +161,7 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=baduk_540&sid=LPrku9OjvDY
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=brain_tv_540&sid=z4iXXRtBCd6B8oaMP4T2AvM2WNp5PNrypWn2qbWt&secret=0c04ddc2c268db11984a3241f38e5e25&time=1765893473
 #EXTINF:-1 group-title="생방송" ,FTV
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=ftv_540&sid=6RPjuu8hzNESESu6ZqL0GZ6LvgJipWnDyobzV8dY&secret=262db54492c46ab76dce040f93621f46&time=1772754633
-##EXTINF:-1 group-title="생방송" ,네셔날지오그래피
+#EXTINF:-1 group-title="생방송" ,네셔날지오그래피
 #https://live-th10.myjktv.com:443/watch/live.m3u8?video=national_540&sid=Frw4dKWvqJLBjvHgByjOVO1M8zkSD6LjvUABHvLS&secret=5c8e0f0753609c3db02f0a5a0786ccd1&time=1742555875
 #EXTINF:-1 group-title="생방송" ,디스커버리
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=discovery_540&sid=2iObz48WCFCkHcuaQTRez5kpeHPfdHYiOE1icCKS&secret=660b5a2059948553effae93e4def6d04&time=1742555991
