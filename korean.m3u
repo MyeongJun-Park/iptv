@@ -205,11 +205,11 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=wowtv_540&sid=78aYN4ktf0r
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
 #EXTINF:-1 group-title="생방송"  ,GMTV 
 http://1.214.67.38/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송"더라이프 
+#EXTINF:-1 group-title="생방송",더라이프 
 http://1.214.67.38/vod/77201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송"  ,라이프타임 
+#EXTINF:-1 group-title="생방송",라이프타임 
 http://1.214.67.38/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송"OCN
+#EXTINF:-1 group-title="생방송",OCN
 http://180.69.60.42:8856/udp/239.192.67.226:49220
 
 #EXTINF:-1 group-title="생방송" ,OCN Movies
